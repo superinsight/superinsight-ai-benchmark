@@ -1,0 +1,61 @@
+{
+  "valid": true,
+  "entries": [
+    {
+      "encounter_date": "2025-03-10",
+      "facility": "Summit Neurology Associates",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-04-22",
+      "facility": "Clearwater Neuropsychology Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-06-05",
+      "facility": "Summit Neurology Associates",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-07-28",
+      "facility": "Pinecrest Physical Therapy & Rehabilitation",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-09-15",
+      "facility": "Summit Neurology Associates",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-10-20",
+      "facility": "Ridgeview Occupational Medicine",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-12-10",
+      "facility": "Summit Neurology Associates",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2026-02-18",
+      "facility": "Ridgeview Occupational Medicine",
+      "date_found": true,
+      "facility_found": true
+    }
+  ],
+  "warnings": [],
+  "summary": {
+    "total_must_extract": 8,
+    "total_may_extract": 0,
+    "dates_found_in_source": 8,
+    "noise_entries": 5,
+    "coverage": "8/8"
+  }
+}

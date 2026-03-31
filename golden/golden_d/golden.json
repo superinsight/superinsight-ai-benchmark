@@ -1,0 +1,360 @@
+{
+  "created_at": "2026-03-26T14:11:47.808355+00:00",
+  "method": "synthetic-design",
+  "source_outputs": "",
+  "consensus_models_used": 0,
+  "consensus_threshold": 2,
+  "style": "dde",
+  "source_file": "synthetic_source.txt",
+  "total_must_extract": 15,
+  "total_may_extract": 0,
+  "entries": [
+    {
+      "index": 0,
+      "encounter_date": "2020-06-12",
+      "facility_name": "Lakewood Family Medicine",
+      "provider_name": "Dr. Anita Patel, MD",
+      "visit_type": "Primary Care",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Patient presents with persistent lower back pain radiating to left leg for 3 months. Aggravated by prolonged sitting. Rates pain 6/10. History of lifting injury at work.",
+        "objective": "BP 132/84, HR 78, Wt 198 lb. Lumbar ROM limited. Positive straight leg raise on left at 40 degrees. Tenderness L4-L5 paraspinal region. DTR patellar 2+/2+ bilaterally, Achilles 1+/2+.",
+        "diagnoses": "Lumbar radiculopathy; lumbar disc degeneration.",
+        "medications": "Naproxen 500mg BID, Cyclobenzaprine 10mg QHS.",
+        "referrals": "Referral to orthopedic spine specialist."
+      }
+    },
+    {
+      "index": 1,
+      "encounter_date": "2020-08-03",
+      "facility_name": "Tri-County Orthopedic Associates",
+      "provider_name": "Dr. Marcus Greene, DO",
+      "visit_type": "Orthopedic Consultation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Referred for evaluation of persistent lumbar radiculopathy. Pain improved somewhat with NSAIDs but still limiting activities. Unable to return to warehouse work.",
+        "objective": "Antalgic gait. Lumbar flexion 50%, extension 30%. SLR positive left 35 degrees. Motor strength L5 dorsiflexion 4/5 left, 5/5 right. Sensation decreased L5 dermatome left.",
+        "imaging_findings": "MRI lumbar spine (reviewed): L4-L5 left paracentral disc protrusion with moderate left lateral recess stenosis and compression of the traversing L5 nerve root. Mild disc bulge L3-L4 without significant stenosis.",
+        "diagnoses": "L4-L5 disc herniation with left L5 radiculopathy.",
+        "plan": "Recommend epidural steroid injection series. Physical therapy 3x/week for 6 weeks. Continue current medications. If no improvement after injections, surgical consultation warranted.",
+        "mss": "Lumbar flexion 50%; extension 30%; SLR +L 35 degrees; Motor L5 dorsiflexion 4/5 left; Sensation decreased L5 dermatome left."
+      }
+    },
+    {
+      "index": 2,
+      "encounter_date": "2020-09-15",
+      "facility_name": "Riverside Pain Management Center",
+      "provider_name": "Dr. Helen Cho, MD",
+      "visit_type": "Pain Management / Procedure",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Patient presents for first of three planned L4-L5 transforaminal epidural steroid injections. Current pain 7/10. Has been doing PT with modest improvement.",
+        "procedures": "Left L4-L5 transforaminal epidural steroid injection under fluoroscopic guidance. Contrast confirmed epidural spread. Dexamethasone 10mg + Lidocaine 1% 2mL injected.",
+        "plan": "Post-procedure monitoring 30 minutes, tolerated well. Return in 2 weeks for second injection. Continue PT."
+      }
+    },
+    {
+      "index": 3,
+      "encounter_date": "2020-10-01",
+      "facility_name": "Riverside Pain Management Center",
+      "provider_name": "Dr. Helen Cho, MD",
+      "visit_type": "Pain Management / Procedure",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Returns for second epidural injection. Reports 40% pain relief lasting approximately 10 days after first injection. Current pain 5/10.",
+        "procedures": "Left L4-L5 transforaminal epidural steroid injection #2 under fluoroscopic guidance. Betamethasone 6mg + Bupivacaine 0.25% 2mL injected.",
+        "plan": "Third injection in 2 weeks if improvement continues. Reassess surgical candidacy at follow-up."
+      }
+    },
+    {
+      "index": 4,
+      "encounter_date": "2020-11-10",
+      "facility_name": "Lakewood Family Medicine",
+      "provider_name": "Dr. Anita Patel, MD",
+      "visit_type": "Primary Care Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Follow-up after epidural injections. Patient reports moderate improvement, pain now 4/10 at rest but increases to 6/10 with activity. Completed 12 PT sessions. Still unable to return to full duty at warehouse.",
+        "objective": "BP 128/80, HR 72. Lumbar ROM improved. SLR negative bilaterally. Gait normalized. Tenderness reduced at L4-L5.",
+        "lab_results": "CBC normal. CMP within normal limits. HbA1c 5.8% (borderline).",
+        "diagnoses": "Lumbar radiculopathy, improving; Pre-diabetes.",
+        "plan": "Continue PT. Work restrictions: no lifting >20 lbs, no prolonged sitting >30 min. Refer to nutritionist for pre-diabetes. Recheck HbA1c in 3 months.",
+        "medications": "Naproxen 500mg BID PRN, Metformin 500mg daily."
+      }
+    },
+    {
+      "index": 5,
+      "encounter_date": "2021-03-22",
+      "facility_name": "Tri-County Orthopedic Associates",
+      "provider_name": "Dr. Marcus Greene, DO",
+      "visit_type": "Orthopedic Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Returns 5 months after injections. Pain has plateaued at 4-5/10. Intermittent left leg numbness persists. Functional capacity limited. Employer terminated him due to inability to perform essential job functions.",
+        "objective": "Lumbar flexion 60%. Extension 40%. SLR negative. Motor 5/5 bilaterally. Sensation mildly decreased L5 dermatome left. Gait normal.",
+        "imaging_findings": "Repeat MRI lumbar spine: L4-L5 disc protrusion stable. No new herniation. Mild facet arthropathy L4-L5 and L5-S1 bilaterally.",
+        "diagnoses": "Chronic lumbar radiculopathy with residual left L5 sensory deficit; facet arthropathy L4-L5, L5-S1.",
+        "plan": "Maximum medical improvement for surgical intervention. Recommend continued conservative management. Permanent work restrictions: no lifting >15 lbs, no repetitive bending/twisting. Gabapentin trial for neuropathic pain.",
+        "medications": "Gabapentin 300mg TID, Naproxen 500mg PRN.",
+        "mss": "Lumbar flexion 60%; extension 40%; SLR negative; Motor 5/5 bilat; Sensation mildly decreased L5 left."
+      }
+    },
+    {
+      "index": 6,
+      "encounter_date": "2021-07-14",
+      "facility_name": "Lakewood Family Medicine",
+      "provider_name": "Dr. Anita Patel, MD",
+      "visit_type": "Primary Care",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Annual physical. Back pain stable at 3-4/10 with gabapentin. Left leg numbness occasional. Reports feeling depressed since job loss. Difficulty sleeping. Appetite decreased.",
+        "objective": "BP 138/88, HR 76, Wt 205 lb. PHQ-9 score: 14 (moderate depression). Lumbar exam stable. Neurological exam grossly intact.",
+        "lab_results": "HbA1c 6.1% (pre-diabetic). Lipid panel: Total cholesterol 232, LDL 148, HDL 42, Triglycerides 210. TSH 2.4 (normal). Vitamin D 18 ng/mL (low).",
+        "diagnoses": "Pre-diabetes; Hyperlipidemia; Major depressive disorder, moderate; Vitamin D deficiency; Chronic lumbar radiculopathy.",
+        "medications": "Metformin 1000mg daily, Atorvastatin 20mg daily, Sertraline 50mg daily, Vitamin D3 5000 IU daily, Gabapentin 300mg TID.",
+        "plan": "Recheck HbA1c and lipids in 3 months. Mental health follow-up in 4 weeks. Consider psychiatry referral if no improvement with sertraline.",
+        "referrals": "Nutritionist for diet counseling; psychiatry if needed."
+      }
+    },
+    {
+      "index": 7,
+      "encounter_date": "2021-11-02",
+      "facility_name": "Bayview Behavioral Health",
+      "provider_name": "Dr. Sandra Kim, PsyD",
+      "visit_type": "Psychiatric Evaluation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Referred by PCP for evaluation of depression and anxiety. Reports worsening mood despite sertraline 50mg for 4 months. Insomnia, anhedonia, low motivation. Anxiety about finances and disability claim. Denies SI/HI. History of work injury leading to chronic pain and job loss.",
+        "objective": "Appearance: well-groomed, cooperative. Speech: normal rate, low volume. Mood: 'down and worried'. Affect: constricted, congruent. Thought process: linear, goal-directed. Thought content: no SI/HI, no psychosis. Cognition: intact. Insight: fair. Judgment: fair.",
+        "diagnoses": "Major depressive disorder, moderate, recurrent; Generalized anxiety disorder; Adjustment disorder with mixed anxiety and depressed mood related to chronic pain and unemployment.",
+        "plan": "Increase sertraline to 100mg daily. Add hydroxyzine 25mg PRN for anxiety. Individual therapy weekly. Supportive counseling for disability process.",
+        "medications": "Sertraline 100mg daily, Hydroxyzine 25mg PRN."
+      }
+    },
+    {
+      "index": 8,
+      "encounter_date": "2022-02-17",
+      "facility_name": "Lakewood Family Medicine",
+      "provider_name": "Dr. Anita Patel, MD",
+      "visit_type": "Primary Care Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Follow-up for diabetes management and depression. Mood improving with increased sertraline and therapy. Sleep better. Back pain stable. Reports weight gain of 10 lbs.",
+        "objective": "BP 140/90, HR 74, Wt 215 lb, BMI 30.1. Lumbar exam unchanged.",
+        "lab_results": "HbA1c 6.4% (diabetes threshold). Fasting glucose 128. Lipid panel improved: LDL 118, HDL 44, TG 188.",
+        "diagnoses": "Type 2 diabetes mellitus; Hypertension, stage 1; Obesity; Depression improving.",
+        "medications": "Metformin 1000mg BID, Lisinopril 10mg daily (new), Atorvastatin 40mg daily (increased).",
+        "plan": "Start lisinopril for hypertension. Increase atorvastatin. Diabetes education referral. Weight management counseling. Follow-up 3 months."
+      }
+    },
+    {
+      "index": 9,
+      "encounter_date": "2022-06-08",
+      "facility_name": "Heartland Cardiology Group",
+      "provider_name": "Dr. James Whitfield, MD",
+      "visit_type": "Cardiology Consultation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Referred by PCP for evaluation of new-onset hypertension and metabolic syndrome. Reports occasional chest tightness with exertion, resolved with rest. No syncope or palpitations.",
+        "objective": "BP 142/88, HR 72. Cardiac exam: Regular rate and rhythm, no murmurs. JVP normal. No peripheral edema. Carotid bruits absent.",
+        "imaging_findings": "Echocardiogram: LVEF 60%, normal wall motion, mild LV hypertrophy. No valvular abnormalities. Exercise stress test: Completed 8.5 minutes Bruce protocol, no ischemic ST changes, adequate heart rate response.",
+        "lab_results": "BNP 42 (normal). Troponin <0.01. Basic metabolic panel normal.",
+        "diagnoses": "Essential hypertension with mild LV hypertrophy; Metabolic syndrome.",
+        "plan": "Continue lisinopril, consider adding amlodipine if BP not controlled. Lifestyle modifications emphasized. Follow-up in 6 months. Annual echo recommended.",
+        "medications": "Continue current regimen. Add Amlodipine 5mg daily if BP remains >140/90."
+      }
+    },
+    {
+      "index": 10,
+      "encounter_date": "2022-10-25",
+      "facility_name": "Riverside Pain Management Center",
+      "provider_name": "Dr. Helen Cho, MD",
+      "visit_type": "Pain Management Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Returns after 2-year gap. Back pain worsening over past 3 months, now 6/10 with radiation to left buttock and posterior thigh. Gabapentin provides some relief but causes drowsiness. Not interested in repeat injections.",
+        "objective": "Lumbar flexion 50%, extension 25%. Tenderness L4-L5, L5-S1. SLR positive left at 50 degrees. Motor 5/5. Sensation intact.",
+        "imaging_findings": "X-ray lumbar spine: Disc space narrowing L4-L5. Mild degenerative spondylolisthesis L4-L5 Grade I. Facet arthropathy L4-S1.",
+        "diagnoses": "Chronic lumbar radiculopathy; Degenerative spondylolisthesis L4-L5 Grade I; Facet arthropathy.",
+        "plan": "Switch gabapentin to pregabalin 75mg BID for better tolerability. Lumbar medial branch block diagnostic series. If positive, consider radiofrequency ablation. Continue PT home exercise program.",
+        "medications": "Pregabalin 75mg BID (replacing Gabapentin), Naproxen 500mg PRN.",
+        "mss": "Lumbar flexion 50%; extension 25%; SLR +L 50 degrees; Motor 5/5; Sensation intact."
+      }
+    },
+    {
+      "index": 11,
+      "encounter_date": "2023-01-18",
+      "facility_name": "Riverside Pain Management Center",
+      "provider_name": "Dr. Helen Cho, MD",
+      "visit_type": "Procedure",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Presents for L4-L5 and L5-S1 bilateral medial branch block. Reports pregabalin providing moderate relief.",
+        "procedures": "Bilateral L4, L5, and S1 medial branch blocks under fluoroscopic guidance. Bupivacaine 0.5% 0.5mL at each level.",
+        "plan": "If >80% pain relief for 6+ hours, proceed with radiofrequency ablation. Pain diary for 48 hours. Return in 2 weeks for evaluation and possible second diagnostic block."
+      }
+    },
+    {
+      "index": 12,
+      "encounter_date": "2023-04-05",
+      "facility_name": "Riverside Pain Management Center",
+      "provider_name": "Dr. Helen Cho, MD",
+      "visit_type": "Procedure",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Both diagnostic medial branch blocks provided >80% relief lasting 4-6 hours. Proceeding with radiofrequency ablation as planned.",
+        "procedures": "Bilateral L4, L5, and S1 medial branch radiofrequency ablation under fluoroscopic guidance. Temperature 80\u00b0C for 90 seconds at each level. Sensory and motor testing performed prior to lesioning.",
+        "plan": "Post-procedure: ice 20 min on/off. May have increased pain for 1-2 weeks. Pain relief expected 2-4 weeks. Follow-up 6 weeks."
+      }
+    },
+    {
+      "index": 13,
+      "encounter_date": "2023-08-22",
+      "facility_name": "Lakewood Family Medicine",
+      "provider_name": "Dr. Anita Patel, MD",
+      "visit_type": "Primary Care",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Follow-up. Back pain significantly improved after RFA, now 2-3/10 most days. Mood stable on sertraline. Weight stable. No chest pain or exertional symptoms.",
+        "objective": "BP 126/78 (improved), HR 70, Wt 212 lb. Lumbar exam improved. PHQ-9 score: 6 (mild).",
+        "lab_results": "HbA1c 6.2% (improved). Lipid panel: LDL 98, HDL 48, TG 162. Creatinine 0.9. eGFR >90.",
+        "diagnoses": "Type 2 diabetes, well controlled; Hypertension, controlled; Hyperlipidemia, improved; Depression, in partial remission; Chronic low back pain, improved post-RFA.",
+        "plan": "Continue all current medications. Annual cardiology follow-up. Continue therapy biweekly. Disability paperwork completed for SSA.",
+        "medications": "Metformin 1000mg BID, Lisinopril 10mg daily, Amlodipine 5mg daily, Atorvastatin 40mg daily, Sertraline 100mg daily, Pregabalin 75mg BID, Vitamin D3 5000 IU daily."
+      }
+    },
+    {
+      "index": 14,
+      "encounter_date": "2024-01-10",
+      "facility_name": "Independent Medical Examination Office",
+      "provider_name": "Dr. Robert Hargrove, MD",
+      "visit_type": "Independent Medical Examination",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Consultative examination for SSA disability determination. Claimant reports chronic low back pain with intermittent left leg numbness, limited by prolonged sitting, standing, or walking. Also reports depression, anxiety, and difficulty concentrating.",
+        "objective": "Height 5'10\", Weight 214 lb, BMI 30.7. BP 130/82. Lumbar flexion 55%, extension 35%. SLR negative bilaterally. Motor 5/5. Sensation subjectively decreased L5 left but intact to monofilament. Grip strength 85/90 lbs bilat. PHQ-9 administered: score 8. GAD-7 score: 6.",
+        "diagnoses": "Chronic lumbar disc disease with residual left L5 radiculopathy; Type 2 diabetes mellitus; Essential hypertension; Major depressive disorder in partial remission; Generalized anxiety disorder.",
+        "plan": "RFC assessment: Can lift/carry 20 lbs occasionally, 10 lbs frequently. Sit 6 hours in 8-hour day with position changes every 30 minutes. Stand/walk 4 hours. Avoid repetitive bending, twisting, climbing ladders. No limitation in fine/gross manipulation. Can perform simple, routine tasks with occasional public interaction.",
+        "mss": "Lumbar flexion 55%; extension 35%; SLR negative; Motor 5/5; Sensation subjectively decreased L5 left; Grip 85/90 lbs bilat."
+      }
+    },
+    {
+      "index": 15,
+      "encounter_date": "1975-04-12",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 16,
+      "encounter_date": "2020-07-30",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 17,
+      "encounter_date": "2020-09-01",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 18,
+      "encounter_date": "2020-09-04",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 19,
+      "encounter_date": "2020-09-10",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 20,
+      "encounter_date": "2021-01-20",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 21,
+      "encounter_date": "2021-05-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 22,
+      "encounter_date": "2021-06-01",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 23,
+      "encounter_date": "2021-06-03",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 24,
+      "encounter_date": "2022-10-18",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 25,
+      "encounter_date": "2022-11-30",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 26,
+      "encounter_date": "2022-12-28",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 27,
+      "encounter_date": "2025-12-31",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    }
+  ],
+  "total_noise": 13
+}

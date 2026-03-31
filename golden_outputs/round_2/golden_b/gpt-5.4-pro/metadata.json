@@ -1,0 +1,13 @@
+{
+  "label": "gpt-5.4-pro",
+  "provider": "openai",
+  "model": "gpt-5.4-pro",
+  "prompt_tokens": 12095,
+  "completion_tokens": 15280,
+  "total_tokens": 27375,
+  "duration_seconds": 547.2,
+  "output_chars": 19746,
+  "output_path": "golden_outputs/round_2/golden_b/gpt-5.4-pro/output.md",
+  "generated_at": "2026-03-26T06:48:39.486535Z",
+  "status": "success"
+}

@@ -1,0 +1,103 @@
+{
+  "valid": true,
+  "entries": [
+    {
+      "encounter_date": "2020-06-12",
+      "facility": "Lakewood Family Medicine",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2020-08-03",
+      "facility": "Tri-County Orthopedic Associates",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2020-09-15",
+      "facility": "Riverside Pain Management Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2020-10-01",
+      "facility": "Riverside Pain Management Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2020-11-10",
+      "facility": "Lakewood Family Medicine",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2021-03-22",
+      "facility": "Tri-County Orthopedic Associates",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2021-07-14",
+      "facility": "Lakewood Family Medicine",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2021-11-02",
+      "facility": "Bayview Behavioral Health",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2022-02-17",
+      "facility": "Lakewood Family Medicine",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2022-06-08",
+      "facility": "Heartland Cardiology Group",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2022-10-25",
+      "facility": "Riverside Pain Management Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2023-01-18",
+      "facility": "Riverside Pain Management Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2023-04-05",
+      "facility": "Riverside Pain Management Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2023-08-22",
+      "facility": "Lakewood Family Medicine",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-01-10",
+      "facility": "Independent Medical Examination Office",
+      "date_found": true,
+      "facility_found": true
+    }
+  ],
+  "warnings": [],
+  "summary": {
+    "total_must_extract": 15,
+    "total_may_extract": 0,
+    "dates_found_in_source": 15,
+    "noise_entries": 13,
+    "coverage": "15/15"
+  }
+}

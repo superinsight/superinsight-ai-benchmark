@@ -1,0 +1,4370 @@
+{
+  "golden_a": {
+    "claude-opus-4.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 7.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        7,
+        7,
+        7
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 8.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        8,
+        8,
+        8
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "claude-opus-4.6": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 7.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        7,
+        7,
+        7
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 8.666666666666666,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        9,
+        8,
+        9
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.9523666666666667,
+      "recall_std": 0.08250335346719755,
+      "recall_values": [
+        0.8571,
+        1.0,
+        1.0
+      ],
+      "f1": 0.9743666666666666,
+      "f1_std": 0.0443982357006822,
+      "f1_values": [
+        0.9231,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 6.666666666666667,
+      "true_positives_std": 0.5773502691896258,
+      "true_positives_values": [
+        6,
+        7,
+        7
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.3333333333333333,
+      "false_negatives_std": 0.5773502691896258,
+      "false_negatives_values": [
+        1,
+        0,
+        0
+      ],
+      "total_model_entries": 8.666666666666666,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        8,
+        9,
+        9
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 7.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        7,
+        7,
+        7
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 9.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        9,
+        9,
+        9
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 7.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        7,
+        7,
+        7
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 9.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        9,
+        9,
+        9
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3.1-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 7.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        7,
+        7,
+        7
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 9.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        9,
+        9,
+        9
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.9047333333333333,
+      "recall_std": 0.08250335346719755,
+      "recall_values": [
+        0.8571,
+        0.8571,
+        1.0
+      ],
+      "f1": 0.9487333333333333,
+      "f1_std": 0.0443982357006822,
+      "f1_values": [
+        0.9231,
+        0.9231,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 6.333333333333333,
+      "true_positives_std": 0.5773502691896258,
+      "true_positives_values": [
+        6,
+        6,
+        7
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.6666666666666666,
+      "false_negatives_std": 0.5773502691896258,
+      "false_negatives_values": [
+        1,
+        1,
+        0
+      ],
+      "total_model_entries": 8.333333333333334,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        8,
+        8,
+        9
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-mini": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.8571,
+      "recall_std": 0.0,
+      "recall_values": [
+        0.8571,
+        0.8571,
+        0.8571
+      ],
+      "f1": 0.9231000000000001,
+      "f1_std": 1.3597399555105182e-16,
+      "f1_values": [
+        0.9231,
+        0.9231,
+        0.9231
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 6.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        6,
+        6,
+        6
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 1.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        1,
+        1,
+        1
+      ],
+      "total_model_entries": 6.666666666666667,
+      "total_model_entries_std": 0.5773502691896258,
+      "total_model_entries_values": [
+        7,
+        7,
+        6
+      ],
+      "may_extract_matched": 0.6666666666666666,
+      "may_extract_matched_std": 0.5773502691896258,
+      "may_extract_matched_values": [
+        1,
+        1,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 7.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        7,
+        7,
+        7
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 9.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        9,
+        9,
+        9
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "minimax-m2.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.8571,
+      "recall_std": 0.0,
+      "recall_values": [
+        0.8571,
+        0.8571,
+        0.8571
+      ],
+      "f1": 0.9231000000000001,
+      "f1_std": 1.3597399555105182e-16,
+      "f1_values": [
+        0.9231,
+        0.9231,
+        0.9231
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 6.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        6,
+        6,
+        6
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 1.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        1,
+        1,
+        1
+      ],
+      "total_model_entries": 9.333333333333334,
+      "total_model_entries_std": 4.041451884327381,
+      "total_model_entries_values": [
+        7,
+        14,
+        7
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "qwen3-235b": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.9047333333333333,
+      "recall_std": 0.08250335346719755,
+      "recall_values": [
+        1.0,
+        0.8571,
+        0.8571
+      ],
+      "f1": 0.9487333333333333,
+      "f1_std": 0.0443982357006822,
+      "f1_values": [
+        1.0,
+        0.9231,
+        0.9231
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 6.333333333333333,
+      "true_positives_std": 0.5773502691896258,
+      "true_positives_values": [
+        7,
+        6,
+        6
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.6666666666666666,
+      "false_negatives_std": 0.5773502691896258,
+      "false_negatives_values": [
+        0,
+        1,
+        1
+      ],
+      "total_model_entries": 7.666666666666667,
+      "total_model_entries_std": 0.5773502691896258,
+      "total_model_entries_values": [
+        8,
+        8,
+        7
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    }
+  },
+  "golden_b": {
+    "claude-opus-4.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        11,
+        11,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "claude-opus-4.6": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        11,
+        11,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        11,
+        11,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        11,
+        11,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        11,
+        11,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3.1-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        11,
+        11,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        11,
+        11,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-mini": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.333333333333334,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        10,
+        10,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-pro": {
+      "precision": 0.8333,
+      "precision_std": 0.0,
+      "precision_values": [
+        0.8333,
+        0.8333,
+        0.8333
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 0.9091,
+      "f1_std": 0.0,
+      "f1_values": [
+        0.9091,
+        0.9091,
+        0.9091
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 2.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        2,
+        2,
+        2
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 13.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        13,
+        13,
+        13
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "minimax-m2.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        10,
+        10,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "qwen3-235b": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        10,
+        10,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    }
+  },
+  "golden_c": {
+    "claude-opus-4.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.8000000000000002,
+      "recall_std": 1.3597399555105182e-16,
+      "recall_values": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "f1": 0.8889,
+      "f1_std": 0.0,
+      "f1_values": [
+        0.8889,
+        0.8889,
+        0.8889
+      ],
+      "false_inclusion_rate": 0.0667,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0667,
+        0.0667,
+        0.0667
+      ],
+      "true_positives": 4.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        4,
+        4,
+        4
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 1.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        1,
+        1,
+        1
+      ],
+      "total_model_entries": 5.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        5,
+        5,
+        5
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "claude-opus-4.6": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0667,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0667,
+        0.0667,
+        0.0667
+      ],
+      "true_positives": 5.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        5,
+        5,
+        5
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 6.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        6,
+        6,
+        6
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.04446666666666666,
+      "false_inclusion_rate_std": 0.03850926295494803,
+      "false_inclusion_rate_values": [
+        0.0667,
+        0.0,
+        0.0667
+      ],
+      "true_positives": 5.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        5,
+        5,
+        5
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 9.666666666666666,
+      "total_model_entries_std": 2.0816659994661326,
+      "total_model_entries_values": [
+        9,
+        8,
+        12
+      ],
+      "may_extract_matched": 3.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        3,
+        3,
+        3
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-pro": {
+      "precision": 0.8888666666666666,
+      "precision_std": 0.0962442898739106,
+      "precision_values": [
+        0.8333,
+        1.0,
+        0.8333
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 0.9394,
+      "f1_std": 0.05248113946933697,
+      "f1_values": [
+        0.9091,
+        1.0,
+        0.9091
+      ],
+      "false_inclusion_rate": 0.0667,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0667,
+        0.0667,
+        0.0667
+      ],
+      "true_positives": 5.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        5,
+        5,
+        5
+      ],
+      "false_positives": 0.6666666666666666,
+      "false_positives_std": 0.5773502691896258,
+      "false_positives_values": [
+        1,
+        0,
+        1
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 8.333333333333334,
+      "total_model_entries_std": 2.0816659994661326,
+      "total_model_entries_values": [
+        9,
+        6,
+        10
+      ],
+      "may_extract_matched": 0.3333333333333333,
+      "may_extract_matched_std": 0.5773502691896258,
+      "may_extract_matched_values": [
+        0,
+        0,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0667,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0667,
+        0.0667,
+        0.0667
+      ],
+      "true_positives": 5.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        5,
+        5,
+        5
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 7.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        7,
+        7,
+        7
+      ],
+      "may_extract_matched": 1.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        1,
+        1,
+        1
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3.1-pro": {
+      "precision": 0.9444333333333333,
+      "precision_std": 0.0962442898739106,
+      "precision_values": [
+        1.0,
+        1.0,
+        0.8333
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 0.9697,
+      "f1_std": 0.05248113946933697,
+      "f1_values": [
+        1.0,
+        1.0,
+        0.9091
+      ],
+      "false_inclusion_rate": 0.0667,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0667,
+        0.0667,
+        0.0667
+      ],
+      "true_positives": 5.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        5,
+        5,
+        5
+      ],
+      "false_positives": 0.3333333333333333,
+      "false_positives_std": 0.5773502691896258,
+      "false_positives_values": [
+        0,
+        0,
+        1
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 2.6457513110645907,
+      "total_model_entries_values": [
+        12,
+        11,
+        7
+      ],
+      "may_extract_matched": 1.6666666666666667,
+      "may_extract_matched_std": 1.5275252316519468,
+      "may_extract_matched_values": [
+        3,
+        2,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.8000000000000002,
+      "recall_std": 1.3597399555105182e-16,
+      "recall_values": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "f1": 0.8889,
+      "f1_std": 0.0,
+      "f1_values": [
+        0.8889,
+        0.8889,
+        0.8889
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 4.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        4,
+        4,
+        4
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 1.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        1,
+        1,
+        1
+      ],
+      "total_model_entries": 4.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        4,
+        4,
+        4
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-mini": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.8000000000000002,
+      "recall_std": 1.3597399555105182e-16,
+      "recall_values": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "f1": 0.8889,
+      "f1_std": 0.0,
+      "f1_values": [
+        0.8889,
+        0.8889,
+        0.8889
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 4.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        4,
+        4,
+        4
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 1.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        1,
+        1,
+        1
+      ],
+      "total_model_entries": 5.333333333333333,
+      "total_model_entries_std": 1.5275252316519465,
+      "total_model_entries_values": [
+        5,
+        4,
+        7
+      ],
+      "may_extract_matched": 1.3333333333333333,
+      "may_extract_matched_std": 1.5275252316519468,
+      "may_extract_matched_values": [
+        1,
+        0,
+        3
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-pro": {
+      "precision": 0.8333,
+      "precision_std": 0.0,
+      "precision_values": [
+        0.8333,
+        0.8333,
+        0.8333
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 0.9091,
+      "f1_std": 0.0,
+      "f1_values": [
+        0.9091,
+        0.9091,
+        0.9091
+      ],
+      "false_inclusion_rate": 0.0667,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0667,
+        0.0667,
+        0.0667
+      ],
+      "true_positives": 5.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        5,
+        5,
+        5
+      ],
+      "false_positives": 1.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        1,
+        1,
+        1
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 9.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        9,
+        9,
+        9
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "minimax-m2.5": {
+      "precision": 0.9047666666666667,
+      "precision_std": 0.16494897190747604,
+      "precision_values": [
+        0.7143,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 0.9444333333333333,
+      "f1_std": 0.0962442898739106,
+      "f1_values": [
+        0.8333,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 5.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        5,
+        5,
+        5
+      ],
+      "false_positives": 0.6666666666666666,
+      "false_positives_std": 1.1547005383792517,
+      "false_positives_values": [
+        2,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.333333333333334,
+      "total_model_entries_std": 4.932882862316248,
+      "total_model_entries_values": [
+        16,
+        7,
+        8
+      ],
+      "may_extract_matched": 2.3333333333333335,
+      "may_extract_matched_std": 0.5773502691896258,
+      "may_extract_matched_values": [
+        2,
+        2,
+        3
+      ],
+      "num_rounds": 3
+    },
+    "qwen3-235b": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.9333333333333332,
+      "recall_std": 0.11547005383792512,
+      "recall_values": [
+        1.0,
+        0.8,
+        1.0
+      ],
+      "f1": 0.9629666666666666,
+      "f1_std": 0.06414361490696742,
+      "f1_values": [
+        1.0,
+        0.8889,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0667,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0667,
+        0.0667,
+        0.0667
+      ],
+      "true_positives": 4.666666666666667,
+      "true_positives_std": 0.5773502691896258,
+      "true_positives_values": [
+        5,
+        4,
+        5
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.3333333333333333,
+      "false_negatives_std": 0.5773502691896258,
+      "false_negatives_values": [
+        0,
+        1,
+        0
+      ],
+      "total_model_entries": 6.333333333333333,
+      "total_model_entries_std": 1.1547005383792517,
+      "total_model_entries_values": [
+        7,
+        5,
+        7
+      ],
+      "may_extract_matched": 0.6666666666666666,
+      "may_extract_matched_std": 0.5773502691896258,
+      "may_extract_matched_values": [
+        1,
+        0,
+        1
+      ],
+      "num_rounds": 3
+    }
+  },
+  "golden_d": {
+    "claude-opus-4.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.1538,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.1538,
+        0.1538,
+        0.1538
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 17.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        17,
+        17,
+        17
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "claude-opus-4.6": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.1538,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.1538,
+        0.1538,
+        0.1538
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 17.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        17,
+        17,
+        17
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.10253333333333332,
+      "false_inclusion_rate_std": 0.08879647140136444,
+      "false_inclusion_rate_values": [
+        0.1538,
+        0.1538,
+        0.0
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 16.333333333333332,
+      "total_model_entries_std": 1.1547005383792515,
+      "total_model_entries_values": [
+        17,
+        17,
+        15
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.1538,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.1538,
+        0.1538,
+        0.1538
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 17.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        17,
+        17,
+        17
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.10253333333333332,
+      "false_inclusion_rate_std": 0.08879647140136444,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.1538,
+        0.1538
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 16.333333333333332,
+      "total_model_entries_std": 1.1547005383792515,
+      "total_model_entries_values": [
+        15,
+        17,
+        17
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3.1-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.1538,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.1538,
+        0.1538,
+        0.1538
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 17.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        17,
+        17,
+        17
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.05126666666666666,
+      "false_inclusion_rate_std": 0.08879647140136444,
+      "false_inclusion_rate_values": [
+        0.1538,
+        0.0,
+        0.0
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 15.666666666666666,
+      "total_model_entries_std": 1.1547005383792517,
+      "total_model_entries_values": [
+        17,
+        15,
+        15
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-mini": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.1538,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.1538,
+        0.1538,
+        0.1538
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 17.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        17,
+        17,
+        17
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.1538,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.1538,
+        0.1538,
+        0.1538
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 17.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        17,
+        17,
+        17
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "minimax-m2.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 15.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        15,
+        15,
+        15
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "qwen3-235b": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0769,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0769,
+        0.0769,
+        0.0769
+      ],
+      "true_positives": 15.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        15,
+        15,
+        15
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 16.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        16,
+        16,
+        16
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    }
+  },
+  "golden_e": {
+    "claude-opus-4.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        10,
+        10,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "claude-opus-4.6": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        10,
+        10,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.666666666666666,
+      "total_model_entries_std": 1.1547005383792517,
+      "total_model_entries_values": [
+        10,
+        12,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-pro": {
+      "precision": 0.9523666666666667,
+      "precision_std": 0.08250335346719755,
+      "precision_values": [
+        0.8571,
+        1.0,
+        1.0
+      ],
+      "recall": 0.9166666666666666,
+      "recall_std": 0.14433756729740646,
+      "recall_values": [
+        0.75,
+        1.0,
+        1.0
+      ],
+      "f1": 0.9333333333333332,
+      "f1_std": 0.11547005383792512,
+      "f1_values": [
+        0.8,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 7.333333333333333,
+      "true_positives_std": 1.1547005383792517,
+      "true_positives_values": [
+        6,
+        8,
+        8
+      ],
+      "false_positives": 0.3333333333333333,
+      "false_positives_std": 0.5773502691896258,
+      "false_positives_values": [
+        1,
+        0,
+        0
+      ],
+      "false_negatives": 0.6666666666666666,
+      "false_negatives_std": 1.1547005383792517,
+      "false_negatives_values": [
+        2,
+        0,
+        0
+      ],
+      "total_model_entries": 9.333333333333334,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        9,
+        9,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        10,
+        10,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3.1-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        10,
+        10,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 9.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        9,
+        9,
+        9
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-mini": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.06666666666666667,
+      "false_inclusion_rate_std": 0.11547005383792516,
+      "false_inclusion_rate_values": [
+        0.2,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.333333333333334,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        12,
+        11,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        10,
+        10,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "minimax-m2.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 9.333333333333334,
+      "total_model_entries_std": 1.1547005383792517,
+      "total_model_entries_values": [
+        10,
+        10,
+        8
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "qwen3-235b": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.0,
+      "false_inclusion_rate_std": 0.0,
+      "false_inclusion_rate_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "true_positives": 8.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        8,
+        8,
+        8
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 10.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        10,
+        10,
+        10
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    }
+  },
+  "golden_f": {
+    "claude-opus-4.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 12.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        12,
+        12,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "claude-opus-4.6": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 12.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        12,
+        12,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 12.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        12,
+        12,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-2.5-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.666666666666666,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        11,
+        12,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3-flash": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.666666666666666,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        12,
+        12,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gemini-3.1-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 0.9666666666666667,
+      "recall_std": 0.05773502691896257,
+      "recall_values": [
+        0.9,
+        1.0,
+        1.0
+      ],
+      "f1": 0.9824666666666667,
+      "f1_std": 0.030368624159374306,
+      "f1_values": [
+        0.9474,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 9.666666666666666,
+      "true_positives_std": 0.5773502691896257,
+      "true_positives_values": [
+        9,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.3333333333333333,
+      "false_negatives_std": 0.5773502691896258,
+      "false_negatives_values": [
+        1,
+        0,
+        0
+      ],
+      "total_model_entries": 11.666666666666666,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        11,
+        12,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 12.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        12,
+        12,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-mini": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.333333333333334,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        11,
+        12,
+        11
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "gpt-5.4-pro": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 12.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        12,
+        12,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "minimax-m2.5": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 12.0,
+      "total_model_entries_std": 0.0,
+      "total_model_entries_values": [
+        12,
+        12,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    },
+    "qwen3-235b": {
+      "precision": 1.0,
+      "precision_std": 0.0,
+      "precision_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_std": 0.0,
+      "recall_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "f1": 1.0,
+      "f1_std": 0.0,
+      "f1_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "false_inclusion_rate": 0.11110000000000002,
+      "false_inclusion_rate_std": 1.6996749443881478e-17,
+      "false_inclusion_rate_values": [
+        0.1111,
+        0.1111,
+        0.1111
+      ],
+      "true_positives": 10.0,
+      "true_positives_std": 0.0,
+      "true_positives_values": [
+        10,
+        10,
+        10
+      ],
+      "false_positives": 0.0,
+      "false_positives_std": 0.0,
+      "false_positives_values": [
+        0,
+        0,
+        0
+      ],
+      "false_negatives": 0.0,
+      "false_negatives_std": 0.0,
+      "false_negatives_values": [
+        0,
+        0,
+        0
+      ],
+      "total_model_entries": 11.333333333333334,
+      "total_model_entries_std": 0.5773502691896257,
+      "total_model_entries_values": [
+        11,
+        11,
+        12
+      ],
+      "may_extract_matched": 0.0,
+      "may_extract_matched_std": 0.0,
+      "may_extract_matched_values": [
+        0,
+        0,
+        0
+      ],
+      "num_rounds": 3
+    }
+  }
+}

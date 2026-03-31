@@ -1,0 +1,13 @@
+{
+  "label": "gemini-3-flash",
+  "provider": "genai",
+  "model": "gemini-3-flash-preview",
+  "prompt_tokens": 5892,
+  "completion_tokens": 1834,
+  "total_tokens": 7726,
+  "duration_seconds": 9.24,
+  "output_chars": 6505,
+  "output_path": "golden_outputs/golden_a/gemini-3-flash/output.md",
+  "generated_at": "2026-03-25T08:15:32.969991Z",
+  "status": "success"
+}

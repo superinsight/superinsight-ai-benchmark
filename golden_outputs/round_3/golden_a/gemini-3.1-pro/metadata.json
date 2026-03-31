@@ -1,0 +1,13 @@
+{
+  "label": "gemini-3.1-pro",
+  "provider": "genai",
+  "model": "gemini-3.1-pro-preview",
+  "prompt_tokens": 5892,
+  "completion_tokens": 2073,
+  "total_tokens": 13347,
+  "duration_seconds": 62.07,
+  "output_chars": 7355,
+  "output_path": "golden_outputs/round_3/golden_a/gemini-3.1-pro/output.md",
+  "generated_at": "2026-03-25T16:23:19.292540Z",
+  "status": "success"
+}

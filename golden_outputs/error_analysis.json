@@ -1,0 +1,946 @@
+{
+  "patterns": {
+    "total_fn": 24,
+    "total_fp": 15,
+    "total_noise_inclusions": 106,
+    "consistently_missed_dates": [
+      {
+        "date": "2013-03-15",
+        "count": 11,
+        "fraction_of_runs": "11/24"
+      },
+      {
+        "date": "2024-12-27",
+        "count": 9,
+        "fraction_of_runs": "9/24"
+      }
+    ],
+    "fn_by_model": {
+      "gpt-5.4-mini": 6,
+      "gpt-5.4": 5,
+      "minimax-m2.5": 3,
+      "claude-opus-4.5": 3,
+      "qwen3-235b": 3,
+      "gemini-2.5-pro": 2,
+      "gemini-2.5-flash": 1,
+      "gemini-3.1-pro": 1
+    },
+    "fn_by_dataset": {
+      "golden_a": 11,
+      "golden_c": 10,
+      "golden_e": 2,
+      "golden_f": 1
+    },
+    "fp_by_model": {
+      "gpt-5.4-pro": 9,
+      "gemini-2.5-pro": 3,
+      "minimax-m2.5": 2,
+      "gemini-3.1-pro": 1
+    },
+    "noise_by_model": {
+      "claude-opus-4.5": 12,
+      "claude-opus-4.6": 12,
+      "gemini-2.5-pro": 12,
+      "gemini-3.1-pro": 12,
+      "gpt-5.4-pro": 12,
+      "gemini-3-flash": 10,
+      "gpt-5.4-mini": 10,
+      "gemini-2.5-flash": 9,
+      "qwen3-235b": 9,
+      "gpt-5.4": 5,
+      "minimax-m2.5": 3
+    },
+    "hardest_datasets": [
+      [
+        "golden_c",
+        {
+          "fn": 10,
+          "fp": 8,
+          "noise": 23,
+          "total_runs": 33
+        }
+      ],
+      [
+        "golden_a",
+        {
+          "fn": 11,
+          "fp": 0,
+          "noise": 0,
+          "total_runs": 33
+        }
+      ],
+      [
+        "golden_b",
+        {
+          "fn": 0,
+          "fp": 6,
+          "noise": 0,
+          "total_runs": 33
+        }
+      ],
+      [
+        "golden_e",
+        {
+          "fn": 2,
+          "fp": 1,
+          "noise": 1,
+          "total_runs": 33
+        }
+      ],
+      [
+        "golden_f",
+        {
+          "fn": 1,
+          "fp": 0,
+          "noise": 33,
+          "total_runs": 33
+        }
+      ],
+      [
+        "golden_d",
+        {
+          "fn": 0,
+          "fp": 0,
+          "noise": 49,
+          "total_runs": 33
+        }
+      ]
+    ],
+    "most_error_prone_models": [
+      [
+        "gpt-5.4-pro",
+        {
+          "fn": 0,
+          "fp": 9,
+          "noise": 12,
+          "total_runs": 18
+        }
+      ],
+      [
+        "gpt-5.4-mini",
+        {
+          "fn": 6,
+          "fp": 0,
+          "noise": 10,
+          "total_runs": 18
+        }
+      ],
+      [
+        "gemini-2.5-pro",
+        {
+          "fn": 2,
+          "fp": 3,
+          "noise": 12,
+          "total_runs": 18
+        }
+      ],
+      [
+        "gpt-5.4",
+        {
+          "fn": 5,
+          "fp": 0,
+          "noise": 5,
+          "total_runs": 18
+        }
+      ],
+      [
+        "minimax-m2.5",
+        {
+          "fn": 3,
+          "fp": 2,
+          "noise": 3,
+          "total_runs": 18
+        }
+      ],
+      [
+        "claude-opus-4.5",
+        {
+          "fn": 3,
+          "fp": 0,
+          "noise": 12,
+          "total_runs": 18
+        }
+      ],
+      [
+        "qwen3-235b",
+        {
+          "fn": 3,
+          "fp": 0,
+          "noise": 9,
+          "total_runs": 18
+        }
+      ],
+      [
+        "gemini-3.1-pro",
+        {
+          "fn": 1,
+          "fp": 1,
+          "noise": 12,
+          "total_runs": 18
+        }
+      ],
+      [
+        "gemini-2.5-flash",
+        {
+          "fn": 1,
+          "fp": 0,
+          "noise": 9,
+          "total_runs": 18
+        }
+      ],
+      [
+        "claude-opus-4.6",
+        {
+          "fn": 0,
+          "fp": 0,
+          "noise": 12,
+          "total_runs": 18
+        }
+      ],
+      [
+        "gemini-3-flash",
+        {
+          "fn": 0,
+          "fp": 0,
+          "noise": 10,
+          "total_runs": 18
+        }
+      ]
+    ]
+  },
+  "per_model_summary": {
+    "claude-opus-4.5": {
+      "fn": 3,
+      "fp": 0,
+      "noise": 12,
+      "total_runs": 18
+    },
+    "claude-opus-4.6": {
+      "fn": 0,
+      "fp": 0,
+      "noise": 12,
+      "total_runs": 18
+    },
+    "gemini-2.5-flash": {
+      "fn": 1,
+      "fp": 0,
+      "noise": 9,
+      "total_runs": 18
+    },
+    "gemini-2.5-pro": {
+      "fn": 2,
+      "fp": 3,
+      "noise": 12,
+      "total_runs": 18
+    },
+    "gemini-3-flash": {
+      "fn": 0,
+      "fp": 0,
+      "noise": 10,
+      "total_runs": 18
+    },
+    "gemini-3.1-pro": {
+      "fn": 1,
+      "fp": 1,
+      "noise": 12,
+      "total_runs": 18
+    },
+    "gpt-5.4": {
+      "fn": 5,
+      "fp": 0,
+      "noise": 5,
+      "total_runs": 18
+    },
+    "gpt-5.4-mini": {
+      "fn": 6,
+      "fp": 0,
+      "noise": 10,
+      "total_runs": 18
+    },
+    "gpt-5.4-pro": {
+      "fn": 0,
+      "fp": 9,
+      "noise": 12,
+      "total_runs": 18
+    },
+    "minimax-m2.5": {
+      "fn": 3,
+      "fp": 2,
+      "noise": 3,
+      "total_runs": 18
+    },
+    "qwen3-235b": {
+      "fn": 3,
+      "fp": 0,
+      "noise": 9,
+      "total_runs": 18
+    }
+  },
+  "per_dataset_summary": {
+    "golden_a": {
+      "fn": 11,
+      "fp": 0,
+      "noise": 0,
+      "total_runs": 33
+    },
+    "golden_b": {
+      "fn": 0,
+      "fp": 6,
+      "noise": 0,
+      "total_runs": 33
+    },
+    "golden_c": {
+      "fn": 10,
+      "fp": 8,
+      "noise": 23,
+      "total_runs": 33
+    },
+    "golden_d": {
+      "fn": 0,
+      "fp": 0,
+      "noise": 49,
+      "total_runs": 33
+    },
+    "golden_e": {
+      "fn": 2,
+      "fp": 1,
+      "noise": 1,
+      "total_runs": 33
+    },
+    "golden_f": {
+      "fn": 1,
+      "fp": 0,
+      "noise": 33,
+      "total_runs": 33
+    }
+  },
+  "missed_entries_detail": [
+    {
+      "model": "gemini-2.5-flash",
+      "round": 1,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "gpt-5.4",
+      "round": 1,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 1,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "minimax-m2.5",
+      "round": 1,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "gpt-5.4",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 1,
+      "dataset": "golden_e",
+      "date": "2025-09-15",
+      "facility": "summitneurologyassociates"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 1,
+      "dataset": "golden_e",
+      "date": "2025-10-20",
+      "facility": "ridgeviewoccupationalmedicine"
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-02-05",
+      "facility": "mountainvieworthopedics"
+    },
+    {
+      "model": "gpt-5.4",
+      "round": 2,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 2,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "minimax-m2.5",
+      "round": 2,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "qwen3-235b",
+      "round": 2,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "gpt-5.4",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "qwen3-235b",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 3,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "minimax-m2.5",
+      "round": 3,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "qwen3-235b",
+      "round": 3,
+      "dataset": "golden_a",
+      "date": "2013-03-15",
+      "facility": "wellnessconsultantsltd"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 3,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "gpt-5.4",
+      "round": 3,
+      "dataset": "golden_c",
+      "date": "2024-12-27",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 3,
+      "dataset": "golden_c",
+      "date": "2024-11-14",
+      "facility": "bridgewaterpsychiatrywalnutstreet"
+    }
+  ],
+  "extra_entries_detail": [
+    {
+      "model": "gpt-5.4-pro",
+      "round": 1,
+      "dataset": "golden_b",
+      "date": "2025-09-01",
+      "facility": "lakeviewmedicalcenter"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 1,
+      "dataset": "golden_b",
+      "date": "2025-09-01",
+      "facility": "riversidehospital"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2025-01-27",
+      "facility": "allieddiagnostics"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2025-01-27",
+      "facility": "allieddiagnostics"
+    },
+    {
+      "model": "minimax-m2.5",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2022-09-15",
+      "facility": ""
+    },
+    {
+      "model": "minimax-m2.5",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2022-09-15",
+      "facility": "willowcreekmedicalcenter"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 1,
+      "dataset": "golden_e",
+      "date": "2025-09-15",
+      "facility": "ridgeviewoccupationalmedicine"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 2,
+      "dataset": "golden_b",
+      "date": "2025-09-01",
+      "facility": "lakeviewmedicalcenter"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 2,
+      "dataset": "golden_b",
+      "date": "2025-09-01",
+      "facility": "riversidehospital"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2025-01-27",
+      "facility": "allieddiagnostics"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 3,
+      "dataset": "golden_b",
+      "date": "2025-09-01",
+      "facility": "lakeviewmedicalcenter"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 3,
+      "dataset": "golden_b",
+      "date": "2025-09-01",
+      "facility": "riversidehospital"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 3,
+      "dataset": "golden_c",
+      "date": "2025-01-27",
+      "facility": "allieddiagnostics"
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "round": 3,
+      "dataset": "golden_c",
+      "date": "2025-01-27",
+      "facility": "allieddiagnostics"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 3,
+      "dataset": "golden_c",
+      "date": "2025-01-27",
+      "facility": "allieddiagnostics"
+    }
+  ],
+  "noise_extracted_detail": [
+    {
+      "model": "claude-opus-4.5",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "claude-opus-4.6",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gemini-3-flash",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "qwen3-235b",
+      "round": 1,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "claude-opus-4.6",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "claude-opus-4.6",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "gpt-5.4",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "gpt-5.4",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "qwen3-235b",
+      "round": 1,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 1,
+      "dataset": "golden_e",
+      "date": "2025-10-25",
+      "facility": "pathwaysvocationalservices"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "claude-opus-4.6",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "gemini-3-flash",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "gpt-5.4",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "minimax-m2.5",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "qwen3-235b",
+      "round": 1,
+      "dataset": "golden_f",
+      "date": "2024-05-15",
+      "facility": "coastalhandphysicaltherapy"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "claude-opus-4.6",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gemini-3-flash",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "qwen3-235b",
+      "round": 2,
+      "dataset": "golden_c",
+      "date": "2023-08-19",
+      "facility": "bridgewaterhealthdepartmentofradiology"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 2,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "claude-opus-4.5",
+      "round": 2,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "claude-opus-4.6",
+      "round": 2,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "claude-opus-4.6",
+      "round": 2,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "round": 2,
+      "dataset": "golden_d",
+      "date": "2020-07-30",
+      "facility": "advanceddiagnosticimaging"
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "round": 2,
+      "dataset": "golden_d",
+      "date": "2022-10-18",
+      "facility": "midtownradiologygroup"
+    }
+  ]
+}

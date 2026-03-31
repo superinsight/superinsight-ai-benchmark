@@ -1,0 +1,17 @@
+<!-- Source: file: records.pdf, page: 12, file_id: abc123, paragraph_ref: p001 -->
+Patient seen at St. Mary Hospital by Dr. John Smith on 01/15/2023.
+Chief complaint: Follow-up for diabetes management.
+Assessment: Type 2 Diabetes Mellitus, well controlled.
+Plan: Continue Metformin 500mg daily. Follow up in 3 months.
+
+<!-- Source: file: records.pdf, page: 25, file_id: abc123, paragraph_ref: p002 -->
+City Clinic visit dated 02/20/2023.
+Patient: John Doe
+Blood pressure elevated at 150/95.
+Assessment: Hypertension, new diagnosis.
+Plan: Start Lisinopril 10mg daily.
+
+<!-- Source: file: records.pdf, page: 30, file_id: abc123, paragraph_ref: p003 -->
+Dental exam on 03/01/2023 at Downtown Dental.
+Routine cleaning performed.
+No cavities found.

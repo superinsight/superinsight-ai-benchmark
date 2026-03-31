@@ -1,0 +1,13 @@
+{
+  "label": "minimax-m2.5",
+  "provider": "nebius",
+  "model": "MiniMaxAI/MiniMax-M2.5",
+  "prompt_tokens": 13474,
+  "completion_tokens": 4767,
+  "total_tokens": 18241,
+  "duration_seconds": 184.3,
+  "output_chars": 20398,
+  "output_path": "golden_outputs/round_1/golden_f/minimax-m2.5/output.md",
+  "generated_at": "2026-03-26T15:44:52.169397Z",
+  "status": "success"
+}

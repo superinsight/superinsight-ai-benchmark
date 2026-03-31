@@ -1,0 +1,55 @@
+{
+  "section_name": "Medical Chronology",
+  "output_type": "single",
+  "output_format": "markdown",
+
+  "entry_delimiter": "## Date of Medical Visit:",
+  "sub_entry_delimiter": "###",
+
+  "chronological_order": true,
+  "chronological_direction": "ascending",
+  "date_format": "MM/DD/YYYY",
+  "sort_by": "encounter_date",
+
+  "required_fields": [
+    "Type of Visit",
+    "Facility Name",
+    "Provider Name",
+    "Subjective/HPI/CC/Hospital Course",
+    "Objective/PE",
+    "Social",
+    "Labs",
+    "Surgery/Procedure",
+    "Imaging",
+    "Diagnoses",
+    "Plan/Assessment",
+    "MSS",
+    "Medication(s)",
+    "Referrals",
+    "Source References"
+  ],
+  "optional_fields": [],
+
+  "citation_style": "consolidated",
+  "citation_field": "Source References",
+
+  "forbidden_words": [],
+  "source_citation_limit": null,
+
+  "inclusion_rules": {
+    "require_any": ["Facility Name", "Provider Name"],
+    "exclude_categories": ["legal", "administrative", "billing", "pharmacy"]
+  },
+
+  "dedup_required": true,
+
+  "scoring_weights": {
+    "formatting": 0.15,
+    "completeness": 0.20,
+    "hallucination": 0.20,
+    "chronological": 0.10,
+    "forbidden_words": 0.05,
+    "clinical_coverage": 0.15,
+    "date_coverage": 0.15
+  }
+}

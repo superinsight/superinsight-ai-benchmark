@@ -1,0 +1,14 @@
+{
+  "comparison_name": "Model Comparison - instruction",
+  "instruction": "../../../instruction.txt",
+  "source": "../../../golden/golden_e/synthetic_source.txt",
+  "parser": "auto",
+  "models": [
+    {
+      "name": "minimax-m2.5",
+      "output": "minimax-m2.5/output.md",
+      "provider": "nebius",
+      "model_id": "MiniMaxAI/MiniMax-M2.5"
+    }
+  ]
+}

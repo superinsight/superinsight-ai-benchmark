@@ -1,0 +1,76 @@
+{
+  "description": "Known hallucination claims for LLM-as-Judge calibration. Each claim has a ground-truth label and is associated with a golden dataset's synthetic_source.txt.",
+  "usage": "python evaluate_judge_calibration.py",
+  "claims": [
+    {
+      "golden": "golden_a",
+      "text": "The patient underwent arthroscopic surgery on the left shoulder on 2013-04-20 at Wellness Consultants Ltd.",
+      "field_type": "procedures",
+      "ground_truth": "UNSUPPORTED",
+      "reason": "Source mentions MRI findings for RT (right) shoulder, never mentions left shoulder surgery or any arthroscopic procedure."
+    },
+    {
+      "golden": "golden_a",
+      "text": "Dr. Emily Carter prescribed Metformin 500mg twice daily for Type 2 Diabetes management.",
+      "field_type": "medication",
+      "ground_truth": "UNSUPPORTED",
+      "reason": "Source never mentions Metformin or any diabetes medication prescribed by Dr. Carter."
+    },
+    {
+      "golden": "golden_a",
+      "text": "MRI of the right shoulder showed a large complex-partial-thickness tear of the distal rotator cuff tendon.",
+      "field_type": "imaging_findings",
+      "ground_truth": "SUPPORTED",
+      "reason": "Directly stated in source: MRI RT shoulder: Large complex-partial-thickness tear."
+    },
+    {
+      "golden": "golden_a",
+      "text": "Blood pressure was recorded as 126/86 during the September 2022 examination.",
+      "field_type": "objective",
+      "ground_truth": "SUPPORTED",
+      "reason": "Source explicitly states B/P: 126/86 in the Metro Health visit."
+    },
+    {
+      "golden": "golden_a",
+      "text": "The claimant was referred to a psychiatrist for anxiety disorder evaluation in November 2023.",
+      "field_type": "referrals",
+      "ground_truth": "UNSUPPORTED",
+      "reason": "Source contains no mention of psychiatrist referral or anxiety disorder."
+    },
+    {
+      "golden": "golden_a",
+      "text": "Patient reported chronic insomnia lasting for 3 years prior to the initial consultation.",
+      "field_type": "subjective",
+      "ground_truth": "UNSUPPORTED",
+      "reason": "Source never mentions insomnia or any sleep-related complaints."
+    },
+    {
+      "golden": "golden_b",
+      "text": "Patient presented with complaints of persistent headaches and dizziness lasting for two weeks.",
+      "field_type": "subjective",
+      "ground_truth": "UNSUPPORTED",
+      "reason": "Source golden_b does not contain these specific headache/dizziness complaints in any clinical note."
+    },
+    {
+      "golden": "golden_b",
+      "text": "Lab results showed elevated liver enzymes with AST of 85 U/L and ALT of 92 U/L.",
+      "field_type": "lab_result",
+      "ground_truth": "UNSUPPORTED",
+      "reason": "These specific lab values do not appear in the golden_b source."
+    },
+    {
+      "golden": "golden_c",
+      "text": "The patient was prescribed Gabapentin 300mg for neuropathic pain by Dr. Williams on 2024-01-15.",
+      "field_type": "medication",
+      "ground_truth": "UNSUPPORTED",
+      "reason": "Neither Dr. Williams nor Gabapentin 300mg prescription appears in golden_c source."
+    },
+    {
+      "golden": "golden_c",
+      "text": "Follow-up appointment was scheduled with cardiology department in 6 weeks for echocardiogram.",
+      "field_type": "plan",
+      "ground_truth": "UNSUPPORTED",
+      "reason": "No echocardiogram follow-up or cardiology referral mentioned in golden_c source."
+    }
+  ]
+}

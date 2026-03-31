@@ -1,0 +1,1994 @@
+{
+  "golden_a": {
+    "claude-opus-4.5": {
+      "num_rounds": 3,
+      "score": 0.9586,
+      "score_std": 0.0218,
+      "score_values": [
+        0.9818,
+        0.9386,
+        0.9554
+      ],
+      "hallucination_rate": 0.006,
+      "total_claims": 168,
+      "supported_claims": 155,
+      "unsupported_claims": 1,
+      "partial_claims": 12,
+      "inter_judge_agreement": 0.8693,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9644,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9409,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9523,
+          "std": 0.0
+        }
+      }
+    },
+    "claude-opus-4.6": {
+      "num_rounds": 3,
+      "score": 0.9168,
+      "score_std": 0.02,
+      "score_values": [
+        0.9231,
+        0.9328,
+        0.8944
+      ],
+      "hallucination_rate": 0.0474,
+      "total_claims": 232,
+      "supported_claims": 202,
+      "unsupported_claims": 11,
+      "partial_claims": 16,
+      "inter_judge_agreement": 0.8382,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9055,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9241,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.906,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-flash": {
+      "num_rounds": 3,
+      "score": 0.9712,
+      "score_std": 0.01,
+      "score_values": [
+        0.9744,
+        0.96,
+        0.9792
+      ],
+      "hallucination_rate": 0.0028,
+      "total_claims": 362,
+      "supported_claims": 342,
+      "unsupported_claims": 1,
+      "partial_claims": 19,
+      "inter_judge_agreement": 0.9552,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9669,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9768,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9643,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-pro": {
+      "num_rounds": 3,
+      "score": 0.9805,
+      "score_std": 0.0172,
+      "score_values": [
+        1.0,
+        0.9677,
+        0.9737
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 176,
+      "supported_claims": 169,
+      "unsupported_claims": 0,
+      "partial_claims": 7,
+      "inter_judge_agreement": 0.9668,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9805,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9692,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9885,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3-flash": {
+      "num_rounds": 3,
+      "score": 0.9792,
+      "score_std": 0.0144,
+      "score_values": [
+        0.963,
+        0.9904,
+        0.9841
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 169,
+      "supported_claims": 162,
+      "unsupported_claims": 0,
+      "partial_claims": 7,
+      "inter_judge_agreement": 0.9713,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9792,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9765,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9792,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3.1-pro": {
+      "num_rounds": 3,
+      "score": 0.9827,
+      "score_std": 0.0228,
+      "score_values": [
+        0.9569,
+        1.0,
+        0.9911
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 170,
+      "supported_claims": 164,
+      "unsupported_claims": 0,
+      "partial_claims": 6,
+      "inter_judge_agreement": 0.971,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9913,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9826,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9885,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4": {
+      "num_rounds": 3,
+      "score": 0.9138,
+      "score_std": 0.0364,
+      "score_values": [
+        0.9286,
+        0.8724,
+        0.9405
+      ],
+      "hallucination_rate": 0.0744,
+      "total_claims": 336,
+      "supported_claims": 305,
+      "unsupported_claims": 25,
+      "partial_claims": 6,
+      "inter_judge_agreement": 0.8673,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9059,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9045,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8931,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-mini": {
+      "num_rounds": 3,
+      "score": 0.9434,
+      "score_std": 0.0417,
+      "score_values": [
+        0.8953,
+        0.967,
+        0.9679
+      ],
+      "hallucination_rate": 0.0392,
+      "total_claims": 255,
+      "supported_claims": 236,
+      "unsupported_claims": 10,
+      "partial_claims": 9,
+      "inter_judge_agreement": 0.9383,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9324,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9435,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9485,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-pro": {
+      "num_rounds": 3,
+      "score": 0.9074,
+      "score_std": 0.0437,
+      "score_values": [
+        0.8571,
+        0.9365,
+        0.9286
+      ],
+      "hallucination_rate": 0.0767,
+      "total_claims": 378,
+      "supported_claims": 337,
+      "unsupported_claims": 29,
+      "partial_claims": 12,
+      "inter_judge_agreement": 0.9206,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8889,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9021,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9021,
+          "std": 0.0
+        }
+      }
+    },
+    "minimax-m2.5": {
+      "num_rounds": 3,
+      "score": 0.9069,
+      "score_std": 0.0565,
+      "score_values": [
+        0.8417,
+        0.9402,
+        0.9388
+      ],
+      "hallucination_rate": 0.083,
+      "total_claims": 289,
+      "supported_claims": 252,
+      "unsupported_claims": 24,
+      "partial_claims": 10,
+      "inter_judge_agreement": 0.8778,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8991,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8989,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9026,
+          "std": 0.0
+        }
+      }
+    },
+    "qwen3-235b": {
+      "num_rounds": 3,
+      "score": 0.7801,
+      "score_std": 0.1245,
+      "score_values": [
+        0.9219,
+        0.7296,
+        0.6888
+      ],
+      "hallucination_rate": 0.2231,
+      "total_claims": 260,
+      "supported_claims": 194,
+      "unsupported_claims": 58,
+      "partial_claims": 8,
+      "inter_judge_agreement": 0.8211,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8023,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8363,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.7665,
+          "std": 0.0
+        }
+      }
+    }
+  },
+  "golden_b": {
+    "claude-opus-4.5": {
+      "num_rounds": 3,
+      "score": 0.9559,
+      "score_std": 0.0118,
+      "score_values": [
+        0.9429,
+        0.9659,
+        0.9589
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 231,
+      "supported_claims": 211,
+      "unsupported_claims": 0,
+      "partial_claims": 20,
+      "inter_judge_agreement": 0.8361,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9347,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9598,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9749,
+          "std": 0.0
+        }
+      }
+    },
+    "claude-opus-4.6": {
+      "num_rounds": 3,
+      "score": 0.9759,
+      "score_std": 0.021,
+      "score_values": [
+        0.9662,
+        0.9615,
+        1.0
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 238,
+      "supported_claims": 227,
+      "unsupported_claims": 0,
+      "partial_claims": 11,
+      "inter_judge_agreement": 0.8867,
+      "per_judge": {
+        "gpt": {
+          "mean": 1.0,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9588,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9604,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-flash": {
+      "num_rounds": 3,
+      "score": 0.9401,
+      "score_std": 0.0328,
+      "score_values": [
+        0.9037,
+        0.9494,
+        0.9673
+      ],
+      "hallucination_rate": 0.0202,
+      "total_claims": 446,
+      "supported_claims": 403,
+      "unsupported_claims": 9,
+      "partial_claims": 34,
+      "inter_judge_agreement": 0.8249,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9454,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9372,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9222,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-pro": {
+      "num_rounds": 3,
+      "score": 0.9368,
+      "score_std": 0.0447,
+      "score_values": [
+        0.9013,
+        0.987,
+        0.9221
+      ],
+      "hallucination_rate": 0.0087,
+      "total_claims": 230,
+      "supported_claims": 203,
+      "unsupported_claims": 2,
+      "partial_claims": 25,
+      "inter_judge_agreement": 0.8954,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9499,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9368,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.95,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3-flash": {
+      "num_rounds": 3,
+      "score": 1.0,
+      "score_std": 0.0,
+      "score_values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 222,
+      "supported_claims": 222,
+      "unsupported_claims": 0,
+      "partial_claims": 0,
+      "inter_judge_agreement": 0.9866,
+      "per_judge": {
+        "gpt": {
+          "mean": 1.0,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 1.0,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9932,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3.1-pro": {
+      "num_rounds": 3,
+      "score": 0.8951,
+      "score_std": 0.0858,
+      "score_values": [
+        0.8377,
+        0.9938,
+        0.8539
+      ],
+      "hallucination_rate": 0.116,
+      "total_claims": 388,
+      "supported_claims": 337,
+      "unsupported_claims": 45,
+      "partial_claims": 6,
+      "inter_judge_agreement": 0.9114,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.894,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8961,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8669,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4": {
+      "num_rounds": 3,
+      "score": 0.8625,
+      "score_std": 0.0521,
+      "score_values": [
+        0.8084,
+        0.9123,
+        0.8669
+      ],
+      "hallucination_rate": 0.119,
+      "total_claims": 462,
+      "supported_claims": 390,
+      "unsupported_claims": 55,
+      "partial_claims": 17,
+      "inter_judge_agreement": 0.8571,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8507,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8842,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8539,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-mini": {
+      "num_rounds": 3,
+      "score": 0.981,
+      "score_std": 0.0134,
+      "score_values": [
+        0.9938,
+        0.967,
+        0.9821
+      ],
+      "hallucination_rate": 0.0117,
+      "total_claims": 256,
+      "supported_claims": 249,
+      "unsupported_claims": 3,
+      "partial_claims": 4,
+      "inter_judge_agreement": 0.9806,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.981,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9826,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.981,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-pro": {
+      "num_rounds": 3,
+      "score": 0.9185,
+      "score_std": 0.0057,
+      "score_values": [
+        0.9203,
+        0.9121,
+        0.9231
+      ],
+      "hallucination_rate": 0.0678,
+      "total_claims": 546,
+      "supported_claims": 494,
+      "unsupported_claims": 37,
+      "partial_claims": 15,
+      "inter_judge_agreement": 0.9011,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.924,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.913,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9176,
+          "std": 0.0
+        }
+      }
+    },
+    "minimax-m2.5": {
+      "num_rounds": 3,
+      "score": 0.9642,
+      "score_std": 0.0447,
+      "score_values": [
+        0.9921,
+        0.9127,
+        0.9878
+      ],
+      "hallucination_rate": 0.0048,
+      "total_claims": 208,
+      "supported_claims": 195,
+      "unsupported_claims": 1,
+      "partial_claims": 12,
+      "inter_judge_agreement": 0.8291,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9311,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9569,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9323,
+          "std": 0.0
+        }
+      }
+    },
+    "qwen3-235b": {
+      "num_rounds": 3,
+      "score": 0.9443,
+      "score_std": 0.0447,
+      "score_values": [
+        0.935,
+        0.993,
+        0.905
+      ],
+      "hallucination_rate": 0.0111,
+      "total_claims": 271,
+      "supported_claims": 241,
+      "unsupported_claims": 3,
+      "partial_claims": 27,
+      "inter_judge_agreement": 0.8753,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9283,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9443,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9543,
+          "std": 0.0
+        }
+      }
+    }
+  },
+  "golden_c": {
+    "claude-opus-4.5": {
+      "num_rounds": 3,
+      "score": 0.9183,
+      "score_std": 0.0053,
+      "score_values": [
+        0.9222,
+        0.9205,
+        0.9123
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 146,
+      "supported_claims": 122,
+      "unsupported_claims": 0,
+      "partial_claims": 24,
+      "inter_judge_agreement": 0.8944,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9146,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9072,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9329,
+          "std": 0.0
+        }
+      }
+    },
+    "claude-opus-4.6": {
+      "num_rounds": 3,
+      "score": 0.91,
+      "score_std": 0.0361,
+      "score_values": [
+        0.92,
+        0.87,
+        0.94
+      ],
+      "hallucination_rate": 0.02,
+      "total_claims": 150,
+      "supported_claims": 126,
+      "unsupported_claims": 3,
+      "partial_claims": 21,
+      "inter_judge_agreement": 0.8067,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8933,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9133,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-flash": {
+      "num_rounds": 3,
+      "score": 0.8371,
+      "score_std": 0.0811,
+      "score_values": [
+        0.9171,
+        0.8392,
+        0.755
+      ],
+      "hallucination_rate": 0.1402,
+      "total_claims": 592,
+      "supported_claims": 481,
+      "unsupported_claims": 83,
+      "partial_claims": 28,
+      "inter_judge_agreement": 0.8653,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8371,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8043,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8446,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-pro": {
+      "num_rounds": 3,
+      "score": 0.9583,
+      "score_std": 0.0099,
+      "score_values": [
+        0.9597,
+        0.9674,
+        0.9478
+      ],
+      "hallucination_rate": 0.0229,
+      "total_claims": 175,
+      "supported_claims": 164,
+      "unsupported_claims": 4,
+      "partial_claims": 7,
+      "inter_judge_agreement": 0.9288,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9614,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9458,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9502,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3-flash": {
+      "num_rounds": 3,
+      "score": 0.9906,
+      "score_std": 0.0095,
+      "score_values": [
+        0.9811,
+        1.0,
+        0.9907
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 160,
+      "supported_claims": 157,
+      "unsupported_claims": 0,
+      "partial_claims": 3,
+      "inter_judge_agreement": 0.9626,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9937,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9812,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9907,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3.1-pro": {
+      "num_rounds": 3,
+      "score": 0.7266,
+      "score_std": 0.1965,
+      "score_values": [
+        0.5774,
+        0.9493,
+        0.6531
+      ],
+      "hallucination_rate": 0.2985,
+      "total_claims": 335,
+      "supported_claims": 218,
+      "unsupported_claims": 100,
+      "partial_claims": 17,
+      "inter_judge_agreement": 0.8448,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.7204,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.723,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.7334,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4": {
+      "num_rounds": 3,
+      "score": 0.9345,
+      "score_std": 0.0136,
+      "score_values": [
+        0.9196,
+        0.9464,
+        0.9375
+      ],
+      "hallucination_rate": 0.0298,
+      "total_claims": 168,
+      "supported_claims": 151,
+      "unsupported_claims": 5,
+      "partial_claims": 12,
+      "inter_judge_agreement": 0.7679,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.872,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9435,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.869,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-mini": {
+      "num_rounds": 3,
+      "score": 0.9803,
+      "score_std": 0.0171,
+      "score_values": [
+        1.0,
+        0.9714,
+        0.9694
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 125,
+      "supported_claims": 120,
+      "unsupported_claims": 0,
+      "partial_claims": 5,
+      "inter_judge_agreement": 0.9728,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9803,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9837,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9701,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-pro": {
+      "num_rounds": 3,
+      "score": 0.8505,
+      "score_std": 0.0547,
+      "score_values": [
+        0.9127,
+        0.8294,
+        0.8095
+      ],
+      "hallucination_rate": 0.1349,
+      "total_claims": 378,
+      "supported_claims": 316,
+      "unsupported_claims": 51,
+      "partial_claims": 11,
+      "inter_judge_agreement": 0.836,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8161,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8479,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8465,
+          "std": 0.0
+        }
+      }
+    },
+    "minimax-m2.5": {
+      "num_rounds": 3,
+      "score": 0.9029,
+      "score_std": 0.0257,
+      "score_values": [
+        0.9029,
+        0.8772,
+        0.9286
+      ],
+      "hallucination_rate": 0.0764,
+      "total_claims": 288,
+      "supported_claims": 254,
+      "unsupported_claims": 22,
+      "partial_claims": 12,
+      "inter_judge_agreement": 0.9241,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9128,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8834,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9078,
+          "std": 0.0
+        }
+      }
+    },
+    "qwen3-235b": {
+      "num_rounds": 3,
+      "score": 0.9332,
+      "score_std": 0.0095,
+      "score_values": [
+        0.9434,
+        0.9318,
+        0.9245
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 150,
+      "supported_claims": 130,
+      "unsupported_claims": 0,
+      "partial_claims": 20,
+      "inter_judge_agreement": 0.8841,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9465,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9364,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9458,
+          "std": 0.0
+        }
+      }
+    }
+  },
+  "golden_d": {
+    "claude-opus-4.5": {
+      "num_rounds": 3,
+      "score": 0.9776,
+      "score_std": 0.009,
+      "score_values": [
+        0.9724,
+        0.988,
+        0.9724
+      ],
+      "hallucination_rate": 0.0026,
+      "total_claims": 379,
+      "supported_claims": 363,
+      "unsupported_claims": 1,
+      "partial_claims": 15,
+      "inter_judge_agreement": 0.9419,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9763,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9737,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.975,
+          "std": 0.0
+        }
+      }
+    },
+    "claude-opus-4.6": {
+      "num_rounds": 3,
+      "score": 0.9629,
+      "score_std": 0.0091,
+      "score_values": [
+        0.9545,
+        0.9618,
+        0.9725
+      ],
+      "hallucination_rate": 0.0086,
+      "total_claims": 463,
+      "supported_claims": 434,
+      "unsupported_claims": 4,
+      "partial_claims": 25,
+      "inter_judge_agreement": 0.9217,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9684,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.963,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9659,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-flash": {
+      "num_rounds": 3,
+      "score": 0.9642,
+      "score_std": 0.0052,
+      "score_values": [
+        0.96,
+        0.97,
+        0.9625
+      ],
+      "hallucination_rate": 0.0117,
+      "total_claims": 600,
+      "supported_claims": 564,
+      "unsupported_claims": 7,
+      "partial_claims": 29,
+      "inter_judge_agreement": 0.9117,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9592,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9458,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9567,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-pro": {
+      "num_rounds": 3,
+      "score": 0.9758,
+      "score_std": 0.0152,
+      "score_values": [
+        0.9921,
+        0.9733,
+        0.9621
+      ],
+      "hallucination_rate": 0.0129,
+      "total_claims": 389,
+      "supported_claims": 375,
+      "unsupported_claims": 5,
+      "partial_claims": 9,
+      "inter_judge_agreement": 0.9257,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9757,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9681,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9655,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3-flash": {
+      "num_rounds": 3,
+      "score": 0.9815,
+      "score_std": 0.009,
+      "score_values": [
+        0.9713,
+        0.9886,
+        0.9845
+      ],
+      "hallucination_rate": 0.0052,
+      "total_claims": 383,
+      "supported_claims": 371,
+      "unsupported_claims": 2,
+      "partial_claims": 10,
+      "inter_judge_agreement": 0.9789,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9776,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9843,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9802,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3.1-pro": {
+      "num_rounds": 3,
+      "score": 0.8614,
+      "score_std": 0.0934,
+      "score_values": [
+        0.805,
+        0.9692,
+        0.81
+      ],
+      "hallucination_rate": 0.1415,
+      "total_claims": 530,
+      "supported_claims": 443,
+      "unsupported_claims": 75,
+      "partial_claims": 12,
+      "inter_judge_agreement": 0.8559,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8684,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8258,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8665,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4": {
+      "num_rounds": 3,
+      "score": 0.9108,
+      "score_std": 0.0101,
+      "score_values": [
+        0.905,
+        0.9225,
+        0.905
+      ],
+      "hallucination_rate": 0.0783,
+      "total_claims": 600,
+      "supported_claims": 540,
+      "unsupported_claims": 47,
+      "partial_claims": 13,
+      "inter_judge_agreement": 0.87,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8983,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9041,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8983,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-mini": {
+      "num_rounds": 3,
+      "score": 0.9653,
+      "score_std": 0.0139,
+      "score_values": [
+        0.9528,
+        0.9628,
+        0.9802
+      ],
+      "hallucination_rate": 0.0214,
+      "total_claims": 374,
+      "supported_claims": 356,
+      "unsupported_claims": 8,
+      "partial_claims": 10,
+      "inter_judge_agreement": 0.9496,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9627,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9626,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9613,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-pro": {
+      "num_rounds": 3,
+      "score": 0.9475,
+      "score_std": 0.0195,
+      "score_values": [
+        0.97,
+        0.935,
+        0.9375
+      ],
+      "hallucination_rate": 0.0483,
+      "total_claims": 600,
+      "supported_claims": 566,
+      "unsupported_claims": 29,
+      "partial_claims": 5,
+      "inter_judge_agreement": 0.9233,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9433,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.945,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9439,
+          "std": 0.0
+        }
+      }
+    },
+    "minimax-m2.5": {
+      "num_rounds": 3,
+      "score": 0.9567,
+      "score_std": 0.0091,
+      "score_values": [
+        0.9497,
+        0.9669,
+        0.9534
+      ],
+      "hallucination_rate": 0.0274,
+      "total_claims": 438,
+      "supported_claims": 411,
+      "unsupported_claims": 12,
+      "partial_claims": 15,
+      "inter_judge_agreement": 0.9397,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9646,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9493,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9681,
+          "std": 0.0
+        }
+      }
+    },
+    "qwen3-235b": {
+      "num_rounds": 3,
+      "score": 0.8992,
+      "score_std": 0.0391,
+      "score_values": [
+        0.935,
+        0.905,
+        0.8575
+      ],
+      "hallucination_rate": 0.09,
+      "total_claims": 600,
+      "supported_claims": 533,
+      "unsupported_claims": 54,
+      "partial_claims": 13,
+      "inter_judge_agreement": 0.8717,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8883,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9033,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8917,
+          "std": 0.0
+        }
+      }
+    }
+  },
+  "golden_e": {
+    "claude-opus-4.5": {
+      "num_rounds": 3,
+      "score": 0.9352,
+      "score_std": 0.0844,
+      "score_values": [
+        0.9658,
+        1.0,
+        0.8397
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 226,
+      "supported_claims": 196,
+      "unsupported_claims": 0,
+      "partial_claims": 30,
+      "inter_judge_agreement": 0.8288,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9435,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9082,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9679,
+          "std": 0.0
+        }
+      }
+    },
+    "claude-opus-4.6": {
+      "num_rounds": 3,
+      "score": 0.9453,
+      "score_std": 0.0192,
+      "score_values": [
+        0.9675,
+        0.9333,
+        0.9351
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 229,
+      "supported_claims": 204,
+      "unsupported_claims": 0,
+      "partial_claims": 25,
+      "inter_judge_agreement": 0.9078,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9586,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9319,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.954,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-flash": {
+      "num_rounds": 3,
+      "score": 0.9379,
+      "score_std": 0.0533,
+      "score_values": [
+        0.9325,
+        0.8875,
+        0.9936
+      ],
+      "hallucination_rate": 0.0504,
+      "total_claims": 556,
+      "supported_claims": 510,
+      "unsupported_claims": 28,
+      "partial_claims": 18,
+      "inter_judge_agreement": 0.907,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9231,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9286,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9446,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-pro": {
+      "num_rounds": 3,
+      "score": 0.965,
+      "score_std": 0.0188,
+      "score_values": [
+        0.9795,
+        0.9437,
+        0.9718
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 215,
+      "supported_claims": 200,
+      "unsupported_claims": 0,
+      "partial_claims": 15,
+      "inter_judge_agreement": 0.9446,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.965,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9605,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9558,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3-flash": {
+      "num_rounds": 3,
+      "score": 0.7899,
+      "score_std": 0.1527,
+      "score_values": [
+        0.7036,
+        0.9662,
+        0.7
+      ],
+      "hallucination_rate": 0.2316,
+      "total_claims": 354,
+      "supported_claims": 264,
+      "unsupported_claims": 82,
+      "partial_claims": 8,
+      "inter_judge_agreement": 0.8722,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.7861,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.7768,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.7885,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3.1-pro": {
+      "num_rounds": 3,
+      "score": 0.9865,
+      "score_std": 0.0179,
+      "score_values": [
+        0.9662,
+        0.9932,
+        1.0
+      ],
+      "hallucination_rate": 0.0045,
+      "total_claims": 221,
+      "supported_claims": 216,
+      "unsupported_claims": 1,
+      "partial_claims": 4,
+      "inter_judge_agreement": 0.9275,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9932,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9638,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9796,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4": {
+      "num_rounds": 3,
+      "score": 0.8082,
+      "score_std": 0.0333,
+      "score_values": [
+        0.8254,
+        0.7698,
+        0.8294
+      ],
+      "hallucination_rate": 0.172,
+      "total_claims": 378,
+      "supported_claims": 298,
+      "unsupported_claims": 65,
+      "partial_claims": 15,
+      "inter_judge_agreement": 0.7672,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8121,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8188,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8215,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-mini": {
+      "num_rounds": 3,
+      "score": 0.9659,
+      "score_std": 0.0126,
+      "score_values": [
+        0.9568,
+        0.9605,
+        0.9803
+      ],
+      "hallucination_rate": 0.0129,
+      "total_claims": 233,
+      "supported_claims": 220,
+      "unsupported_claims": 3,
+      "partial_claims": 10,
+      "inter_judge_agreement": 0.9696,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.966,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9615,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9681,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-pro": {
+      "num_rounds": 3,
+      "score": 0.8107,
+      "score_std": 0.0397,
+      "score_values": [
+        0.7679,
+        0.8179,
+        0.8464
+      ],
+      "hallucination_rate": 0.1619,
+      "total_claims": 420,
+      "supported_claims": 329,
+      "unsupported_claims": 68,
+      "partial_claims": 23,
+      "inter_judge_agreement": 0.8096,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8083,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8298,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8143,
+          "std": 0.0
+        }
+      }
+    },
+    "minimax-m2.5": {
+      "num_rounds": 3,
+      "score": 0.8706,
+      "score_std": 0.0759,
+      "score_values": [
+        0.932,
+        0.8942,
+        0.7857
+      ],
+      "hallucination_rate": 0.0784,
+      "total_claims": 319,
+      "supported_claims": 260,
+      "unsupported_claims": 25,
+      "partial_claims": 34,
+      "inter_judge_agreement": 0.8753,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8853,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8577,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8694,
+          "std": 0.0
+        }
+      }
+    },
+    "qwen3-235b": {
+      "num_rounds": 3,
+      "score": 0.6726,
+      "score_std": 0.0149,
+      "score_values": [
+        0.6607,
+        0.6679,
+        0.6893
+      ],
+      "hallucination_rate": 0.3095,
+      "total_claims": 420,
+      "supported_claims": 275,
+      "unsupported_claims": 130,
+      "partial_claims": 15,
+      "inter_judge_agreement": 0.8309,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.6571,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.6488,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.6845,
+          "std": 0.0
+        }
+      }
+    }
+  },
+  "golden_f": {
+    "claude-opus-4.5": {
+      "num_rounds": 3,
+      "score": 0.8873,
+      "score_std": 0.023,
+      "score_values": [
+        0.8608,
+        0.9021,
+        0.8989
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 288,
+      "supported_claims": 223,
+      "unsupported_claims": 0,
+      "partial_claims": 65,
+      "inter_judge_agreement": 0.8739,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8993,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8872,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8837,
+          "std": 0.0
+        }
+      }
+    },
+    "claude-opus-4.6": {
+      "num_rounds": 3,
+      "score": 0.9317,
+      "score_std": 0.0328,
+      "score_values": [
+        0.9646,
+        0.899,
+        0.9316
+      ],
+      "hallucination_rate": 0.0,
+      "total_claims": 293,
+      "supported_claims": 253,
+      "unsupported_claims": 0,
+      "partial_claims": 40,
+      "inter_judge_agreement": 0.8911,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.9319,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.9249,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.9394,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-flash": {
+      "num_rounds": 3,
+      "score": 0.8473,
+      "score_std": 0.0783,
+      "score_values": [
+        0.9319,
+        0.7775,
+        0.8325
+      ],
+      "hallucination_rate": 0.1184,
+      "total_claims": 591,
+      "supported_claims": 479,
+      "unsupported_claims": 70,
+      "partial_claims": 42,
+      "inter_judge_agreement": 0.8353,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8324,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8684,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8432,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-2.5-pro": {
+      "num_rounds": 3,
+      "score": 0.725,
+      "score_std": 0.1706,
+      "score_values": [
+        0.9219,
+        0.628,
+        0.625
+      ],
+      "hallucination_rate": 0.2917,
+      "total_claims": 432,
+      "supported_claims": 292,
+      "unsupported_claims": 126,
+      "partial_claims": 14,
+      "inter_judge_agreement": 0.8616,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.726,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.7422,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.7343,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3-flash": {
+      "num_rounds": 3,
+      "score": 0.7026,
+      "score_std": 0.0247,
+      "score_values": [
+        0.6756,
+        0.7083,
+        0.724
+      ],
+      "hallucination_rate": 0.2918,
+      "total_claims": 490,
+      "supported_claims": 341,
+      "unsupported_claims": 143,
+      "partial_claims": 6,
+      "inter_judge_agreement": 0.8271,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.7067,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.7064,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.6872,
+          "std": 0.0
+        }
+      }
+    },
+    "gemini-3.1-pro": {
+      "num_rounds": 3,
+      "score": 0.5608,
+      "score_std": 0.0535,
+      "score_values": [
+        0.5195,
+        0.5417,
+        0.6212
+      ],
+      "hallucination_rate": 0.3921,
+      "total_claims": 454,
+      "supported_claims": 230,
+      "unsupported_claims": 178,
+      "partial_claims": 46,
+      "inter_judge_agreement": 0.8381,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.5581,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.5722,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.5703,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4": {
+      "num_rounds": 3,
+      "score": 0.7498,
+      "score_std": 0.0104,
+      "score_values": [
+        0.7582,
+        0.7381,
+        0.753
+      ],
+      "hallucination_rate": 0.2163,
+      "total_claims": 504,
+      "supported_claims": 353,
+      "unsupported_claims": 109,
+      "partial_claims": 27,
+      "inter_judge_agreement": 0.8473,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.7517,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.762,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.7461,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-mini": {
+      "num_rounds": 3,
+      "score": 0.8878,
+      "score_std": 0.1104,
+      "score_values": [
+        0.8942,
+        0.9949,
+        0.7744
+      ],
+      "hallucination_rate": 0.1194,
+      "total_claims": 335,
+      "supported_claims": 292,
+      "unsupported_claims": 40,
+      "partial_claims": 3,
+      "inter_judge_agreement": 0.8906,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.8989,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.8805,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.8771,
+          "std": 0.0
+        }
+      }
+    },
+    "gpt-5.4-pro": {
+      "num_rounds": 3,
+      "score": 0.748,
+      "score_std": 0.0328,
+      "score_values": [
+        0.75,
+        0.7143,
+        0.7798
+      ],
+      "hallucination_rate": 0.2222,
+      "total_claims": 504,
+      "supported_claims": 362,
+      "unsupported_claims": 112,
+      "partial_claims": 30,
+      "inter_judge_agreement": 0.8333,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.7502,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.7417,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.7688,
+          "std": 0.0
+        }
+      }
+    },
+    "minimax-m2.5": {
+      "num_rounds": 3,
+      "score": 0.7313,
+      "score_std": 0.0621,
+      "score_values": [
+        0.6791,
+        0.8,
+        0.7147
+      ],
+      "hallucination_rate": 0.2329,
+      "total_claims": 571,
+      "supported_claims": 399,
+      "unsupported_claims": 133,
+      "partial_claims": 39,
+      "inter_judge_agreement": 0.7941,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.7475,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.7496,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.7047,
+          "std": 0.0
+        }
+      }
+    },
+    "qwen3-235b": {
+      "num_rounds": 3,
+      "score": 0.6437,
+      "score_std": 0.03,
+      "score_values": [
+        0.6104,
+        0.6688,
+        0.6518
+      ],
+      "hallucination_rate": 0.3277,
+      "total_claims": 476,
+      "supported_claims": 293,
+      "unsupported_claims": 156,
+      "partial_claims": 27,
+      "inter_judge_agreement": 0.799,
+      "per_judge": {
+        "gpt": {
+          "mean": 0.641,
+          "std": 0.0
+        },
+        "gemini": {
+          "mean": 0.6429,
+          "std": 0.0
+        },
+        "claude": {
+          "mean": 0.6638,
+          "std": 0.0
+        }
+      }
+    }
+  }
+}

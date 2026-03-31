@@ -1,0 +1,569 @@
+PATIENT: VALDEZ, ADRIANA
+MRN: 489-11-602
+CLAIM #: AET-77209-B
+DOB: XX/XX/XXXX
+
+**EXHIBIT A: INTAKE & DEMOGRAPHICS**
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-A | PAGE 1 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+**PATIENT INFORMATION SHEET**
+
+**DATE COMPLETED:** 11/19/2025
+
+**PATIENT NAME:** Valdez, Adriana
+**DATE OF BIRTH:** XX/XX/XXXX
+**ADDRESS:** [Address Redacted]
+**PHONE:** (985) 555-0182
+**EMAIL:** [Email Redacted]
+
+**EMERGENCY CONTACT:**
+  Name: Marcus Benoit (Fiancé)
+  Phone: (985) 555-0183
+
+**INSURANCE INFORMATION:**
+  Primary Carrier: Aetna Choice POS II
+  Policy Number: XXXXXXXXX
+  Group Number: 98754
+
+**REFERRING PROVIDER:** N/A - Self-referral
+
+---
+
+**PROBLEM LIST (as of Nov 2025)**
+*   Bipolar Disorder (F31.9) - Active
+*   Generalized Anxiety Disorder (F41.1) - Active
+*   History of Suicidal Ideation - History
+*   Sleep Disturbance (G47.00) - Active
+*   Ocular Irritation - Resolved
+
+---
+
+**MEDICATION RECONCILIATION**
+*DOCUMENTATION DATE: 11/19/2025*
+*REVIEWED BY: R. Whitfield-Barnes, LPC-S*
+
+**CURRENT MEDICATIONS:**
+1.  **Zoloft (sertraline)** - Dose unspecified, for mood stabilization.
+2.  **Trazodone** - Dose unspecified, for insomnia. Patient reports this is effective.
+3.  **2PFM** - Unspecified use.
+4.  **Klonopin (clonazepam)** - PRN (as needed) for acute anxiety/muscle tension.
+
+**PAST MEDICATIONS (Discontinued due to adverse effects):**
+*   Latuda
+*   Rexulti
+*   Vraylar
+
+---
+
+**CONSENT FOR TREATMENT**
+
+I, Adriana Valdez, voluntarily consent to receive mental health services from Harmony Behavioral & Counseling Services, LLC, and its providers. I understand that these services may include assessment, diagnosis, and psychotherapy. I have been informed of the nature of the services, potential risks and benefits, and my right to refuse or terminate treatment at any time.
+
+I understand confidentiality and its limits, including situations where disclosure is required by law (e.g., risk of harm to self or others, child abuse). I consent to the release of information to my insurance carrier for billing purposes.
+
+Signed: _Adriana Valdez_
+Date: 19-Nov-25
+
+Witness: _Reception Staff_
+Date: 19-Nov-25
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-A | PAGE 2 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**EXHIBIT B: HARMONY BEHAVIORAL PROGRESS NOTES (PART 1)**
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-B | PAGE 3 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychiatric Diagnostic Evaluation**
+
+**Date of Service:** 2025-11-19
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+
+**SUBJECTIVE:**
+The patient, a 39-year-old female, presents for this initial evaluation to establish therapeutic care for long-standing challenges with bipolar disorder and anxiety. She is seeking a secure environment to process her emotions and develop better coping skills. She reports a lengthy history of mental health struggles and notes previous attempts at therapy were not successful. Reasons for prior discontinuations included logistical issues with a disorganized therapist and significant emotional distress triggered by another therapist's office location in a building where she was formerly employed, which led to nightmares and night sweats.
+
+A significant recent event was a voluntary psychiatric hospitalization in September of this year. This was precipitated by suicidal ideation and self-harm behaviors, specifically cutting. She reports driving herself to Lakeview Medical Center and was subsequently transferred to Riverside Hospital in Clearwater for inpatient treatment. She was advised to continue therapy upon discharge. Her psychiatric care began at age 17. She expresses frustration with a previous psychlatrist due to what she perceived as untimely care, including a missed virtual appointment that occurred while her father was having a stroke. She has since transitioned her psychiatric care to a new provider at Bayside Behavioral Health.
+
+The patient describes mood cycles that typically alternate on a monthly basis. She notes that anxiety can trigger mixed states, which manifest as rapid thlnking, insomnia, hyper-fixation on certain topics, and a sensation of feeling hot. Depressive episodes are characterized by confusion, a profound lack of motivation, and social withdrawal. Current major life stressors include significant financial strain from unemployment while her disability claim is pending, and the emotional burden of caregiving for her father following his stroke. She also reports strain in her relationship with her fiancé, perceiving that he feels resentment and disappointment toward her. She notes that during disagreements, she can become irritable and communicate harshly, a behavior she manages by taking time apart. She feels her fiancé struggles to understand her mental health condition. The patient feels isolated and reports having no close friends.
+
+Regarding specific symptoms, she notes night sweats and nightmares began earlier this year, were triggered by a previous therapy experience, and resolved after she stopped seeing that provider. Suicidal ideation, which began in September and led to her hospitalization, is not currently active. Self-harm behaviors (cutting, pricking) are described as occasional and not for suicidal purposes. Anxiety is persistent and worsens with external pressures like financial worries. Sleep has improved significantly since starting Trazodone; she is now able to fall and stay asleep, waking refreshed. This is a marked change from previous patterns of insomnia during manic phases and excessive sleeping during depressive phases. Her mood during the session was anxious, which she attributed to the new environment.
+
+**0BJECTIVE:**
+The patient appeared appropriately dressed and well-groomed. Her demeanor was calm, though she seemed tired and emotionally drained after recounting her extensive history. She was cooperative and engaged throughout the evaluation. No unusual motor activity was observed. Her speech was clear and coherent, with an appropriate pace. She articulated her thoughts well and mentioned that her speech can become rapid during manic episodes. Eye contact was consistent. Her mood was described as anxious, which she related to the new setting and emotional nature of the discussion. Her affect was congruent and showed appropriate emotional expression. Thought process appeared logical and goal-directed, providing detailed accounts of her experiences. She reported experiencing racing thoughts and hyperfixation during manic states, but no disorganized thinking was observed today. Cognition is intact; she is oriented to person, place, and time. Memory and concentration appear functional. She reports occasional confusion and difficulty thinking clearly during depressive episodes. Insight and judgment are good; she has a solid understanding of her mental health condition, its triggers, and has been actively managing her symptoms and preparing for mood shifts. Judgment appears intact. She denies any current suicidal or homicidal ideation, though she has a history of SI leading to hospitalization. She denies auditory or visual hallucinations.
+
+**SOCIAL HISTORY:**
+Ms. Valdez lives with her fiancé and his nine-year-old son. She reports no housing instability. She is currently unemployed, having previously worked in real estate and data entry, which she found stressful and anxiety-inducing. She stopped working in July and is awaiting a decision on a disability claim. She has been with her fiancé for 10 years; the relationship experiences occasional strain due to her bipolar disorder and financial pressures. She acts as a stepmother to her fiancé's son. Her mother lives in California and provides pragmatic support, while her father, who recently had a stroke, offers emotional support. Her hobbies include watching horror movies and going to the pool hall with her fiancé. She values spontaneous outings. There are no active or past legal issues reported. She identifies the emotional toll of her father's stroke and the financial burden of traveling to care for him as a significant trauma. She denies use of alcohol, THC, nicotine, amphetamines, barbiturates/benzodiazepines, cocaine, or psychedelics.
+
+**ASSESSMENT/PLAN:**
+This is a 39 y/o female with a history of bipolar disorder and anxiety, presenting for therapy after a September 2025 behavioral health admission for SI and self-harm. She has been under psychiatric care since adolescence and recently changed psychiatrists, resulting in medication adjustments including Trazodone for sleep and Zoloft for mood. She reports significant improvement in sleep and overall mood stability with Trazodone. Anxiety persists, especially in new environments or on busy days, and her mood fluctuates every 3-5 weeks between manic and depressive states. Key stressors are financial (disability claim) and relational (fiancé's difficulty understanding her condition). Social support is limited. She has developed some coping mechanisms, such as distancing from triggers, and is seeking new strategies for managing irritability and regulating emotions. She denies current SI or self-harm urges.
+
+**Dlagnosis:** Anxiety and bipolar disorder.
+
+**Plan:**
+1.  Initiate weekly psychotherapy sessions focused on mood regulation, anxiety management, and relationship dynamics.
+2.  Explore and reinforce coping strategies for irritability and emotional regulation, including self-removal from triggering situations.
+3.  Develop a structured plan to manage anxiety on busy or unpredictable days.
+4.  Encourage the patient to work on expanding her social support network.
+5.  Address financial stressors by discussing the disability claim process and potential resources.
+6.  Provide psychoeducation on bipolar disorder for both the client and, if she consents, her fiancé.
+7.  Monitor for any re-emergence of suicidal ideation or self-harm behaviors.
+8.  Follow-up is scheduled for weekly therapy.
+
+**Risk Factors:** History of SI/self-harm is noted. Current stressors (financial, relational) may elevate risk. No immediate risk for violence or non-compliance was identified.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+11/19/2025 16:45 CST
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-B | PAGE 4 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** 2025-12-03
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**S:** Patient presents today with primary concerns about managing stress and maintaining boundaries around a large family holiday party she is planning and hosting. She is facing challenges with her partner's family overstepping and has difficulty asserting control in her own home. Her goal is to have an organized, enjoyable event while navigating these complex family dynamics. She reported feeling fatigued, which she connected to increased activity and a temporary lapse in her rnedication. Since resuming the medication, her energy levels have improved, and she has been productive with gardening, decorating, and holiday preparations. The stress from party planning is ongoing, particularly in managing contributions and involvement from her partner's family. She expressed frustration with family members who take liberties in planning without consulting her, making her feel undermined. She is working on communicating with her partner to establish clear boundaries. She has been making efforts to remain calm and measured in her responses to these family dynamics. She noted progress in her ability to pause and ask clarifying questions before reacting, which has reduced conflict and improved her relationship with her partner. She expressed pride in this growth.
+
+**O:** Patient appeared well-groomed and dressed appropriately for the session. She was engaged and communicative, with a reflective and thoughtful demeanor. Her speech was articulate, spontaneous, and easy to follow, with an appropriate tone and volume. Consistent eye contact was maintained. No psychomotor agitation or unusual movements were noted. Her mood was generally positive, though she acknowledged moments of frustration. Her affect was congruent and shifted appropriately with the topics of discussion. Thought processes were organized. She demonstrated good insight into her emotional state and interpersonal challenges, and her judgment appeared sound. Memory and concentration were intact. No suicidal ideation, homicidal ideation, auditory hallucinations, or visual hallucinations were reported or observed.
+
+**A:** The patient is navigating significant stress related to an upcoming holiday gathering and the associated boundary-setting challenges with her partner's family. She has a strong sense of organization and is proactive in her planning. The overstepping by family members is a source of frustration and highlights a need for improved communication. She is mindful of her emotional responses and recognizes the importance of measured reactions. She has good insight into her progress in managing these interpersonal dynamics and acknowledges the value of collaboration with her partner. There has been notable progress in her ability to manage emotional responses to family stressors. Her increased capacity to pause, ask clarifying questions, and approach conflicts calmly has contributed to more constructive conversations with her partner and a greater sense of control over her reactions. She is showing resilience and adaptability in her holiday planning.
+
+**P:**
+1.  Continue to explore strategies for setting boundaries and managing stress during family interactions.
+2.  Encourage continued use of her communication and emotional regulation skills, such as pausing and reflecting before responding.
+3.  Identify additional coping mechanisms to manage stress and maintain balance.
+4.  Schedule follow-up to continue working on these goals.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+12/03/2025 11:58 CST
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-B | PAGE 5 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** 09-Dec-25
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**SUBJECTIVE:**
+Patient reported feeling tired throughout the past week, which she believes may be due to missing a dose of her Trazodone. She has noticed some improvement in her energy over the last couple of days. A new concern is a resurgence in the desire to binge eat. She feels she is managing her bipolar disorder well, staying active and productive by selling items on eBay and tutoring a fifth-grade student. Much of the session was spent discussing family dynamics. She described challenges with her partner's ex-wife regarding their child's activities; the child wants to play basketball, but the ex is not supportive due to the child's sickle cell trait. The patient expressed pride in her partner for standing up to his ex. She also voiced concerns about the child's upbringing. She reflected on her own extended family, specifically issues with an estranged cousin whose erratic behavlor she is worried about. She is preparing for an upcoming family trip and acknowledges the potential stressors involved. She finds joy in her tutoring work and in community activities, such as supporting a family in need through her church. She is also preparing for holiday events and a visit from her partner's friend. Her focus is on maintaining her mental health and finding happiness.
+
+**OBJECTIVE:**
+The patient was engaged and appropriately dressed, appearing composed. She discussed her fatigue, family dynamics, and various activities. Her speech was coherent and articulate, though her tone became frustrated at times when discussing family-related stressors. Volume and pace were appropriate. There was congruence between her affect and stated mood. She exhibited strong insight, actively exploring practical solutions to her problems. She maintained focus and was able to recount events and feelings with clarity and detail. She demonstrated a good understanding of the connection between her emotional experiences and external stressors. No suicidal ideation, homicidal ideation, auditory hallucinations, or visual hallucinations were reported or observed.
+
+**ASSESSMENT:**
+The patient is experiencing ongoing stress related to family dynamics and fatigue. She demonstrates resilience and is proactive in her reflection. Her engagement in meaningful activities like tutoring is a positive coping mechanism. Anxiety regarding her extended family's instability is a notable stressor. No immediate risks were identified. She would benefit from continued therapeutic sessions that emphasize boundary-setting, emotional regulation, and building a sense of purpose.
+**Diagnoses:**
+1. Bipolar Disorder – F31.9
+2. Family Discord – Z63.0
+3. Anxiety Related to Extended Family Dynamics – F41.8
+4. Sleep Disturbance – G47.00
+
+**PLAN:**
+1.  Encourage a consistent sleep schedule and explore the possibility of discussing medication adjustments with her psychiatrist to address fatigue.
+2.  Continue to provide support for boundary setting, particularly concerning her partner’s previous relationship and the child’s upbringing.
+3.  Explore strategies to manage the urge to binge eat, including identifying emotional triggers and developing healthier coping mechanisms.
+4.  Encourage continued engagement in joyful and fulfilling activities.
+5.  Schedule follow-up to monitor progress on family dynamics and coping strategies. Monitor mood and energy levels.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+Dec 9, 2025 14:22 CST
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-B | PAGE 6 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**EXHIBIT C: ADMINISTRATIVE RECORDS & CORRESPONDENCE**
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-C | PAGE 7 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+(985) 555-0150
+
+**STATEMENT**
+
+**TO:**
+Valdez, Adriana
+[Address Redacted]
+
+**STATEMENT DATE:** 12/15/2025
+**ACCOUNT #:** 489-11-602
+
+| Date of Service | CPT Code | Description | Billed | Ins. Paid | Patient Resp. |
+|-----------------|----------|------------------------------------|---------|-----------|---------------|
+| 11/19/2025 | 90791 | Psychiatric Diagnostic Evaluation | $250.00 | $200.00 | $50.00 (Copay) |
+| 12/03/2025 | 90837 | Psychotherapy, 53 min | $175.00 | $125.00 | $50.00 (Copay) |
+| 12/09/2025 | 90837 | Psychotherapy, 53 min | $175.00 | $125.00 | $50.00 (Copay) |
+| | | | | | |
+| | | **Total Due:** | | | **$150.00** |
+
+Please remit payment by 01/15/2026. Thank you.
+
+---
+**FAX TRANSMITTAL SHEET**
+---
+**DATE:** January 5, 2026
+**TO:** Harmony Behavioral Health, Records Dept.
+**FAX:** (985) 555-0151
+**FROM:** Carter & Associates, Legal
+**PHONE:** (504) 555-0200
+**RE:** Records Request for VALDEZ, ADRIANA (DOB XX/XX/XXXX)
+**PAGES:** 2 (including cover)
+
+**MESSAGE:**
+Please see attached signed authorization to release medical records for the above-named client, Adriana Valdez. We are requesting all records from November 1, 2025, to the present date. These records are needed for a pending disability claim. Please process this request at your earliest convenience.
+
+Thank you,
+Paralegal Services
+Carter & Associates
+
+*Received by Harmony Behavioral on 01/06/2026 at 10:15 AM*
+
+---
+**PRIOR AUTHORIZATION REQUEST**
+---
+**REQUEST DATE:** 01/10/2026
+**PATIENT:** Valdez, Adriana, MRN 489-11-602
+**INSURANCE:** Aetna Choice POS II, #XXXXXXXXX
+**PROVIDER:** Renata Whitfield-Barnes, LPC-S
+**FACILITY:** Harmony Behavioral & Counseling Services, LLC
+
+**REQUESTED SERVICE:**
+CPT Code: 90837 (Psychotherapy, 45-60 minutes)
+Frequency: 1x per week
+Duration: 12 weeks (January 15, 2026 - April 8, 2026)
+
+**REASON FOR REQUEST:**
+Continuation of care for patient with diagnosed Bipolar Disorder (F31.9) and Generalized Anxiety Disorder (F41.1). Patient is actively engaged in therapy, demonstrating progress in emotional regulation and coping skill development. Continued weekly sessions are medically necessary to manage symptoms, prevent decompensation, and address ongoing psychosocial stressors.
+
+**SUBMITTED BY:** Billing Dept, Harmony Behavioral
+**SUBMISSION ID:** PA-AET-99432
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-C | PAGE 8 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**EXHIBIT D: HARMONY BEHAVIORAL PROGRESS NOTES (PART 2)**
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-D | PAGE 9 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** 2026-01-21
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**S:** Patient's chief complaint today is frustration with leadership and ethical concerns within a charitable organization she is involved with. She also reports anxiety and difficulty managing substitute teaching assignments, as well as ongoing worry about a family member's severe mental illness and legal troubles. She feels overwhelmed and is considering stepping back from some commitments. She detailed escalating frustration and ethical discomfort with the leadership and financial practices at the charitable organization, leading to her decision to step back from her officer role to set boundaries and prioritize her family. She has experienced increased anxiety and distress while substitute teaching in an elementary school with challenging student behavior, causing her to withdraw from assignments. A persistent source of concern and emotional strain is her cousin's severe mental illness, which has involved recent psychotic episodes, destructive behaviors, and worries about her aunt's safety. The family is having difficulty navigating the legal and treatment systems. Additional stressors include disrupted sleep after recent travel delays (over 30 hours without sleep), persistent fatigue, and the emotional burden of supporting a family member with Alzheimer's. On a positive note, she has enjoyed supporting her stepson's involvement in sports and has had meaningful family connections.
+
+**O:** Appearance was well-groomed and appropriately dressed. She was cooperative and engaged with appropriate social behavior. Motor activity was within normal limits. Speech was spontaneous, fluent, and coherent with a normal rate and volume. Eye contact was consistent and appropriate. She reported feeling frustrated and anxious due to organizational and work stressors, and concerned about her family member’s mental health. Her affect was congruent and displayed a full range, showing warmth when discussing positive topics and tearfulness when discussing stressful ones. Thought process was logical, organized, and goal-directed. She denied suicidal or homicidal ideation and delusions. Perceptions were normal with no hallucinations. Cognition was sharp; she was alert and fully oriented. Memory, attention, and concentration were adequate. Insight into her emotional responses and stressors is intact, and her judgment appears sound (e.g., setting boundaries, prioritizing self-care).
+
+**A:** Patient continues to experience pronounced anxiety in high-stress work environments. She is also under persistent emotional distress from complex family dynamics and caregiving roles. Recent sleep disruption has led to fatigue. She has good insight into her stressors and is proactively setting boundaries. There is no evidence of psychosis, substance use, or medication non-adherence. She is engaged in therapy and utilizes her support systems. Risk is low. Protective factors include strong family support, good insight, willingness to seek help, and effective boundary setting. No acute risks identified. She has made meaningful progress in setting boundaries with the charitable organization and has responded to anxiety triggers by limiting her substitute teaching work.
+
+**P:**
+1.  Continue with CBT and supportive therapy to address anxiety management, personal boundaries, and family-related stress.
+2.  Encourage self-care, good sleep habits, and reduction of stressful work.
+3.  No new referrals are indicated at this time.
+4.  Monitor risk and symptoms. Reinforce safety planning and use of support systems.
+5.  Review progress and coping strategies at next session.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+Jan 21, 2026 13:01 CST
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-D | PAGE 10 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+**Nursing Intake Note**
+
+**Date:** 28-Jan-26
+**Time:** 09:50
+**Patient:** Valdez, Adriana
+**Nurse:** J. Brooks, RN
+
+**Reason for Visit:** Scheduled psychotherapy.
+**Vitals:** Not taken for this appt type.
+
+**Intake Notes:** Patlent reports a new physical complaint of persistent ocular irritation. States the skin around her eyes has been red, puffy, and peeling for some time. It is causing discomfort. She mentioned she has tried some antibiotics and antihistamines with only partial relief. Will discuss further with therapist. No other acute complaints reported.
+
+Signed: _J. Brooks, RN_
+
+---
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** 2026-01-28
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**S:** Patient's primary concerns today revolve around her child's academic difficulties and a suspicion of ADHD. She also discussed ongoing relationship strain due to physical separation from her partner and a lack of intimacy, as well as escalating financial stress. She feels lonely at night because she is not sleeping in the same bed as her partner. She expressed anxiety about her child's academic struggles and frustration over her limited access to school information due to family dynamics, creating an emotional burden of feeling unable to help. The relationship challenges include the physical separation from her partner, diminished intimacy, and the emotional toll of sleeping in separate rooms, which reminds her of her parents' marital discord during her childhood. Financial stress is a major issue, with concerns about high grocery expenses, reliance on food stamps, and difficulty communicating financial boundaries to her partner. She reflected on her patterns of avoidance and is striving to balance assertiveness with family harmony. She recognized parallels to past experiences and is working toward more open communication. Per nursing intake, she also has an ongoing issue with ocular irritation (redness, puffiness, peeling) that has been only partially responsive to antibiotics and antihistamines.
+
+**O:** Patient appeared well-groomed and appropriate for the setting. She was engaged, cooperative, and attentive. Her mood was mildly anxious and tense, with periods of sadness and frustration. Her affect was congruent, though occasionally restricted. Speech was of a normal rate, volume, and articulation; it was coherent and goal-directed. Her thought process was logical and organized. No suicidal or homicidal ideation, delusions, or perceptual disturbances were noted. She was fully oriented. Cognition was intact. Insight and judgment are adequate; she is aware of her challenges and motivated for change. No psychosis or risk behaviors were observed.
+
+**A:** Patient is experiencing moderate emotional distress stemming from her child's academic issues, suspected ADHD, and her limited access to information due to complex family dynamics. There is significant relationship strain from physical separation and reduced intimacy, with emotional responses shaped by past trauma. Financial stress is worsening due to insufficient income and communication difficulties with her partner. She demonstrates good insight and is engaged in therapy. No acute risk behaviors or medication side effects noted. Risk is low. She is making progress in altering her beliefs about the relationship separation and is more open to finding solutions for financial stress.
+
+**P:**
+1.  Continue CBT and supportive therapy to address emotional distress, relationship dynamics, and financial stress.
+2.  Provide ongoing psychoeducation regarding ADHD, school accommodations, and communication strategies.
+3.  Encourage her to express her personal feelings to her partner regarding intimacy and household responsibilities.
+4.  Support collaborative budgeting and assertive communication about financial arrangements.
+5.  Monitor emotional symptoms and risk factors.
+6.  Next session will focus on progress in relationship communication, financial negotiations, and supporting her child's academic needs.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+01/28/2026 11:05 CST
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-D | PAGE 11 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** 2026-02-04
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**S:** The patient's chief complaint is a strong desire to have a child, which is in conflict with her partner's reluctance. She is experiencing feelings of guilt about her plan to stop her birth control without informing him. She is navigating the emotional and practical implications of this, including her history of fertility challenges. She also discussed difficulties with her sleep, reporting excessive sleep duration and struggling to fall asleep at a reasonable time. Her doctor approved an increased dosage of Trazodone, which she has found effective for falling asleep. However, she still feels tired and hopes the medication will help establish a regular sleep pattern. She is contemplating the future care of her father, who had a stroke and is currently being cared for by his elderly parents. She is concerned about their ability to continue providing care and is considering having her father move closer, a situation complicated by her relationship with her partner and logistical challenges. She discussed her deep longing to have a child and experience parenting. She acknowledged her partner's opposition, which is based on his age and concerns about their ability to be effective parents. She revealed her plan to stop taking birth control after her birthday without informing her partner, believing he would eventually accept the situation.
+
+**O:** The client appeared appropriately dressed and groomed. Her behavior was engaged, and she maintained consistent eye contact. Her speech was articulate, spontaneous, and easy to follow, with an appropriate tone and volume. Her affect was congruent, shifting appropriately between reflective and contemplative states. Her thought process was organized. There was no evidence of psychomotor agitation or disorganized thinking. Judgment appeared sound. No SI, HI, AH, or VH were reported or observed.
+
+**A:** The patient is navigating a complex interplay of emotional, relational, and practical concerns. Her desire for a child is in direct conflict with her partner's wishes, creating guilt and internal conflict. She is processing past fertility challenges, including irregular cycles and fibroids. She is considering the impact a pregnancy would have on her relationship and future plans. She is also reflecting on familial dynamics related to her father's health and potential relocation. She shows insight into her emotional state and relational dynamics, openly discussing her plans and associated guilt.
+
+**P:**
+1.  Continue regular therapy to provide a supportive space for processing emotions and navigating her plans.
+2.  Explore strategies for managing guilt and foster open communication with her partner.
+3.  Monitor her emotional well-being closely.
+4.  Address emerging challenges related to her potential fertility journey.
+5.  Encourage reflection on relational dynamics and long-term goals.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+Feb 4, 2026 15:44 CST
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-D | PAGE 12 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**EXHIBIT E: ADDITIONAL CLINICAL & ADMINISTRATIVE DOCUMENTS**
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-E | PAGE 13 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**APPOINTMENT REMINDER**
+
+This is an automated message from Harmony Behavioral.
+This is a confirmation for your appointment with Renata Whitfield-Barnes, LPC-S.
+
+**Patient:** VALDEZ, ADRIANA
+**Date:** Wednesday, February 11, 2026
+**Time:** 10:00 AM
+**Location:** 2500 Bayou Rd, Bayfield, LA
+
+Please reply C to confirm or call (985) 555-0150 to reschedule.
+*Message generated on 02/05/2026*
+
+---
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** 2026-02-11
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**S:** Patient presents with complaints of persistent anxiety, financial strain, and sleep disturbances that are affecting her daily life. She reports significant tension and has been waking up drenched in sweat. The ongoing stress stems from chaotic substitute teaching assignments, challenges with household budgeting, and supporting her goddaughter, who has autism. She expressed frustration with frequent monetary requests from her partner's family and her goddaughter. She has concerns about her partner's financial priorities. Managing grocery expenses and setting boundaries around money has been a source of tension. She also described anxiety related to trapping and relocating stray cats in her neighborhood, which has led to conflicts with neighbors and the loss of equipment. There is uncertainty about her upcoming psychiatric care due to provider turnover at her clinic. She is also anxious about her pending disability claim and hearing. She has reduced her work hours. She wishes to improve her household organization to reduce stress and engage in more self-care, such as cleaning, going to the gym, and spending time with her pets. She noted recent onset of muscle tightness that required her to take Klonopin for relief.
+
+**O:** Patient's hygiene and dress were appropriate. She was cooperative and engaged. Her behavior was goal-directed, with occasional animated gestures. Motor activity was normal. Her speech was at times rapid and pressured, especially when discussing stressful events and financial concerns. Volume and prosody were normal, but content was occasionally tangential and overly detailed. Eye contact was adequate. Her mood was tense and anxious, with frustration evident. Her affect was congruent, ranging from flat to mildly anxious and animated. She showed humor at times. Thought process was logical and goal-directed, though sometimes circumstantial. Reasoning and organization were intact. No SI, HI, or delusions were present. Her concerns were reality-based. No perceptual disturbances were noted. She was fully oriented with intact memory and attention. Insight into her stressors and the impact of her anxiety is good. Judgment is intact regarding boundary-setting and financial planning.
+
+**A:** Patient continues to experience moderate to severe anxiety, sleep disruption, and muscle tension, which are linked to financial strain, caregiver burden, and occupational stress. She is engaged in treatment, has good insight, and is motivated. Medication adherence appears adequate, with PRN use of Klonopin as prescribed. She has gained confidence in her work and classroom management. Uncertainty regarding her psychiatric care and disability proceedings are significant stressors. Risk is low. Protective factors include her understanding of stressors, active therapy, a supportive partner, and proactive coping. No acute risks identified. She has made progress in classroom management and has communicated financial boundaries with her partner.
+
+**P:**
+1.  Next session will focus on reviewing anxiety management techniques, sleep hygiene, and boundary-setting.
+2.  Address the transition in her psychiatric care and her anxiety about the disability claim.
+3.  Homework: Assign a nightly symptom log, a budgeting worksheet, and phone reminders for stress-reduction techniques.
+4.  Referrals: Advised to follow up with her psychiatrist for medication management and to contact her lawyer for updates on her disability hearing.
+5.  Safety: Monitor for worsening anxiety or sleep disturbances. Instructed to inform clinician of any new or worsening symptoms.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+Feb 11, 2026 11:11 CST
+
+---
+**AETNA - EXPLANATION OF BENEFITS (THIS IS NOT A BILL)**
+---
+**MEMBER:** ADRIANA VALDEZ
+**CLAIM NUMBER:** 7922-014-58B
+**PROCESSED DATE:** 02/20/2026
+
+**PROVIDER:** HARMONY BEHAVIORAL BEHAVIORAL HEALTH
+**PATIENT:** ADRIANA VALDEZ
+
+| Date of Service | Service Description | Amount Billed | Plan Discount | Plan Paid | What You Owe |
+|-----------------|---------------------|---------------|---------------|-----------|--------------|
+| 01/21/2026 | Psychotherapy | $175.00 | $50.00 | $125.00 | $50.00 (Copay) |
+| 01/28/2026 | Psychotherapy | $175.00 | $50.00 | $125.00 | $50.00 (Copay) |
+| 02/04/2026 | Psychotherapy | $175.00 | $50.00 | $125.00 | $50.00 (Copay) |
+| 02/11/2026 | Psychotherapy | $175.00 | $50.00 | $125.00 | $50.00 (Copay) |
+
+*Your copayment is due directly to your provider.*
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-E | PAGE 14 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** 2026-02-18
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**S:** Patient's chief complaint is a worsening of depression and emotional distress related to a recent demotion at work and perceived unfair treatment. She was demoted to a one-person property, which has caused a significant depressive episode. She discussed the emotional impact of this demotion, including feelings of betrayal, loss, and depression. She reflected on strained relationships with coworkers and management, feeling that she was targeted, and described the loss of her work files and recognition for her contributions. She reports ongoing irritability and anxiety, which she manages with medication and by withdrawing to be alone. She explored her relationship dynamics with her partner and child, noting efforts to improve communication and intimacy. Financial stress and uncertainty about an upcoming court date for her disability benefits are major concerns, affecting her budgeting, savings, and ability to pay rent. She noted similarities between this episode and previous periods of mood instability that led to hospitalization, and she is apprehensive about falling into a negative cycle. She emphasized her need for privacy and safety. Her mood has been markedly worse since the demotion, with her sleeping during her lunch break and neglecting self-care. Irritability is frequent and triggered by minor stressors, managed with Klonopin and withdrawal. She has had a breakthrough in recognizing the early signs of this irritability.
+
+**O:** The patient was articulate and organized, but became visibly upset and agitated when discussing her job loss. Her behavior was mostly calm and reflective, but her speech became rapid and pressured with a strained voice during emotionally charged topics. Her mood was dysphoric and congruent with her reported depression. She was tense and anxious when discussing finances and legal matters, but had a positive affect and relaxed tone when describing progress in her personal relationships. Her speech was coherent and logical. Her thought process was organized and insightful, with no signs of disorientation or psychosis. She denied current SI or HI, but noted a past fabrication of a suicide attempt as a means to access care. No delusions or perceptual disturbances were present. She was fully oriented with appropriate insight and judgment. No overt risk behaviors or substance use were observed.
+
+**A:** The patient is experiencing pronounced depressive symptoms, irritability, and anxiety, triggered by her workplace demotion, loss of professional identity, and financial/legal stressors. Her improved relationship dynamics are a protective factor. She has good insight into her triggers and coping needs, using medication and withdrawal strategies effectively. No acute risk behaviors or psychosis were observed. Her history of exaggerating suicidal behavior to access care requires ongoing monitoring. Treatment adherence is stable. Risk is low, but ongoing monitoring is indicated.
+
+**P:**
+1.  Continue with evidence-based interventions such as CBT for mood and anxiety.
+2.  Reinforce her strategy of pausing before taking medication and consistently using withdrawal and self-care for irritability.
+3.  Support communication skills and positive reinforcement in her relationships.
+4.  Monitor financial stress and the impact of legal proceedings.
+5.  Follow up on sleep difficulties, privacy concerns, and any emerging SI or risk behaviors.
+6.  Review medication adherence and side effects.
+7.  Next session will focus on coping strategies for her upcoming court date, financial anxiety, and mood management.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+Feb 18, 2026 12:49 CST
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-E | PAGE 15 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**EXHIBIT F: HARMONY BEHAVIORAL PROGRESS NOTES (PART 3)**
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-F | PAGE 16 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** 2026-02-25
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**S:** The client expressed ongoing difficulty with sleep, which she attributes to racing thoughts at night, her bipolar disorder, and medication challenges. She reported significant trouble sleeping, describing her mind as active and restless. She mentioned mentally composing several chapters of a book during these episodes. She discussed her struggles with sleep hygiene, even with a structured nighttime routine. She reflected on her history of managing her bipolar disorder and the challenges of medication adjustments, noting that increasing or changing medications often involves trade-offs. She expressed frustration with the stigma surrounding mental health and shared her journey toward accepting her limitations. She described the realization that she is disabled and emphasized that accepting this is not the same as giving up. She shared her recent positive experiences volunteering at an animal shelter, which she finds fulfilling and provides her with a sense of purpose and joy. She also discussed relational dynamics with her partner, particularly around expectations and communication, and described a recent disagreement where she prioritized her mental health by setting a boundary.
+
+**O:** The patient was well-groomed and appropriately dressed. Her demeanor was calm overall, though she mentioned moments of irritability during the week. Her posture was relaxed, and she was actively engaged. No peculiar behaviors were noted. Motor activity was within normal limits. Her speech was clear, coherent, and appropriately paced, with a steady tone and volume. Eye contact was consistent. Her mood was generally good during the week, with occasional irritability. She expressed satisfaction with her volunteer work. Her affect was congruent, showing a range of emotional expressions including humor, frustration, and calmness. Her thought process was organized and logical. She reported racing thoughts at night, which she described as creative ideas and curiosity, but denied disorganized thinking during the session. Cognitive function, including memory and concentration, was intact. She was oriented. She reported difficulty sleeping due to her mind racing, but no daytime cognitive impairments. Her insight and judgment are good; she has accepted her disability and understands her limitations. Her judgment is thoughtful, as shown by her managing irritability by removing herself from a situation and taking her medication. No SI, HI, AH, or VH were reported.
+
+**A:** The patient is experiencing significant sleep disturbances due to racing thoughts, which are related to her bipolar disorder and medication challenges. Her structured routine and medications (Trazodone, Lamotrigine) are not consistently effective. She has strong insight, resilience, and adaptability. The sleep disruptions impact her energy levels and contribute to irritability. Her high self-awareness and acceptance of her condition are protective factors. Relational dynamics with her partner involve occasional stress, which she is managing with proactive boundary setting. Risk is low. No significant anxiety or depressive symptoms beyond irritability and sleep disturbances were noted.
+
+**P:**
+1.  Continue to work on sleep hygiene and monitor the effectiveness of her Trazodone and Lamotrigine.
+2.  Provide psychoeducation on managing racing thoughts, including relaxation techniques like mindfulness and guided imagery.
+3.  Suggest using a journal or notepad to write down racing thoughts at night.
+4.  Encourage her to approach her partner for conversations when she is stable and rested.
+5.  Recommend consulting her prescribing provider about medication management if sleep issues persist.
+6.  Continue to support her engagement in fulfilling activities like volunteering.
+7.  Next session is scheduled to review progress.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+Feb 25, 2026 10:59 CST
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-F | PAGE 17 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602
+
+**Harmony Behavioral & Counseling Services, LLC**
+2500 Bayou Rd, Bayfield, LA 70301
+
+**Psychotherapy Note**
+
+**Date of Service:** March 4, 2026
+**Provider:** Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+**Patient:** Valdez, Adriana | DOB: XX/XX/XXXX
+**Session Length:** 53 minutes
+
+**S:** Patient's chief complaints today are ongoing stress and anxiety related to her upcoming legal proceedings, financial uncertainty, and difficulties with co-parenting. She feels overwhelmed by the erratic behavior of her partner's child's mother, which creates tension and concerns about the stability of the co-parenting relationship. She is also worried about her own mental health, specifically fatigue and sleep disturbances. She provided updates on her legal case, including preparations for court and gathering records. She expressed frustration in her attempts to obtain documentation from a previous psychiatrist. She is worried about how her employment history and financial situation will be perceived in the proceedings. Her financial stability is precarious, as she is relying on her mother's support, and she is concerned about having to repay her if the case is unsuccessful. The co-parenting challenges with her partner's child's mother are ongoing and include unpredictable and irrational behavior, such as having a loaded gun in the vehicle, and resistance to the child's ADHD diagnosis. She is worried about being denied access to the child and is preparing for potential legal action. She also described relationship difficulties with her partner regarding communication, shared activities, and disagreements about watching TV. She reports feeling tired throughout the day and struggling with restful sleep, despite occasionally sleeping for longer periods.
+
+**O:** The client appeared appropriately dressed and groomed. No abnormalities in posture or behavior were noted. She engaged actively throughout the discussion, demonstrating fluid transitions between topics and maintaining consistent eye contact. Her speech was articulate, spontaneous, and easy to follow, with an appropriate tone and volume. Her mood appeared subdued yet reflective, with moments of engagement. Her affect was congruent with her verbal descriptions. Her thought process was organized, and she expressed herself clearly. Insight into her emotional state and challenges was evident. Cognitive abilities appeared intact, with functional memory and concentration. Judgment was sound. No SI, HI, AH, or VH were reported or observed.
+
+**A:** The patient is experiencing heightened stress and anxiety due to her legal proceedings, financial instability, and co-parenting challenges. These issues are compounded by her mental health concerns, including fatigue and sleep problems. She shows resilience but struggles with feeling overwhelmed. She is apprehensive about her disability status and its legal implications. She has taken initiative in addressing her mental health through weekly therapy and open communication. She recently started a higher dose of her mood stabilizer and is monitoring it closely. She is committed to the therapeutic process.
+
+**P:**
+1.  Continue weekly therapy to process anxiety and develop coping strategies for legal and co-parenting stressors.
+2.  Monitor the effects of the increased mood stabilizer.
+3.  Discuss techniques to improve sleep quality and reduce fatigue.
+4.  Encourage physical activity and outdoor engagement to support well-being.
+5.  Provide guidance on managing stress related to her disability status and legal case.
+6.  Follow-up scheduled for next week.
+
+Electronically Signed by:
+Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.
+03/04/2026 14:30 CST
+
+**ADDENDUM**
+Date: 03/05/2026
+Time: 09:15 CST
+Provider: Renata Whitfield-Barnes, LPC-S
+
+Clarification to yesterday's note: The patient mentioned that her frustration with her previous psychiatrist, which contributed to her discontinuing treatment, made her feel triggered and invalidated. This history is relevant to her current anxiety about gathering records for her legal case. No other changes to the assessment or plan.
+R.W.B.
+
+*** END OF RECORD ***
+
+---------------------------------------------------------------------------------------------------
+DOCUMENT ID: 88102-F | PAGE 18 of 28
+VALDEZ, ADRIANA | MRN: 489-11-602

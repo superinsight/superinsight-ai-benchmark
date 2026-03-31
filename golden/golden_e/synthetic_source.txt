@@ -1,0 +1,678 @@
+PATIENT ID: ABC-12345
+CLAIM NO: MVA-2024-001X
+
+***
+
+EXHIBIT A
+Summit Health System – Medical Records
+
+DOC ID: SUMMIT-NEURO-20250310-001 | PAGE 1 of 42
+
+PATIENT: Doe, Jane
+DOB: XX/XX/XXXX
+DATE OF SERVICE: March 10, 2025
+PROVIDER: Dr. Wendy Nakamura, MD
+FACILITY: Summit Neurology Associates
+
+CLINIC VISIT NOTE
+
+CHIEF COMPLAINT: Evaluation of persistent head pain and difficulty with concentration.
+
+HISTORY OF PRESENT ILLNESS:
+This established patienr presents following a referral for assessment of recurring headaches and memory-related issues. She describes experiencing daily head discomfort for approximately six months. The pain is characterized as a pressure sensation affecting both sides of her forehead, with a reported intensity ranging from five to seven out of ten. Associated symptoms include sensitivity to light and occasional feelings of nausea. Additionally, the patient reports a decline in her cognitive abilities, specifically struggling with focus, finding the correct words, and remembering recent information. These cognitive cornpaints began after a motor vehicle accident that occurred eight months prior to this visit. Prior to the accident, she states she had no history of headaches.
+
+0BJECTIVE FINDINGS:
+Mental status examination revealed the patient was alert and oriented to person, place, and time. All cranial nerves, from the second through the twelfth, were assessed and found to be intact. Motor strength was symmetrical and full (5/5) across all four extremities. Sensory perception was also intact. Cerebellar functions, including coordination and balance, appeared normal. Romberg's test yielded a negative result. A Mini-Mental Status Exam was administered, with the patient scoring 28 out of a possible 30 points. Points were deducted for errors in delayed recall and serial sevens subtraction tasks.
+
+ASSESSMENT AND PLAN:
+DIAGNOSES:
+1.  Post-traumatic headache syndrome.
+2.  Post-concussion syndrome with observed cognitive difficulties.
+3.  Migraine without aura.
+
+MEDICATIONS:
+*   Topiramate: Initiated at 25 milligrams once daily, with instructions to increase the dosage to 50 milligrams twice a day as tolerated.
+*   Sumatriptan: Prescribed 50 milligrams to be taken as needed for acute migraine episodes.
+
+PLAN:
+*   A comprehensive neuropsychological evaluation is strongly advised to objectively quantify the extent of her cognitive impairments.
+*   Patient instructed to maintain a detailed headache diary for the next four weeks.
+*   If the frequency or severity of headaches does not show improvement, a Magnetic Resonance Angiography (MRA) scan will be considered.
+*   Follow-up appointment scheduled for six weeks from today's date.
+*   Referral placed for neuropsychological testing.
+
+Electronic Signature: W. Nakamura, MD
+Date/Time: 03/10/2025 14:35
+
+***
+
+FAX TRANSMISSION REPORT
+DATE: 03/01/2025
+TIME: 10:15 AM
+FROM: ACME INSURANCE CLAIMS DEPT
+TO: SUMMIT NEUROLOGY ASSOCIATES
+PAGES: 1 (INCLUDING COVER)
+SUBJECT: Prior Authorization Request - Patient Jane Doe (Policy # 987654321)
+
+Please provide all relevant medical records for Jane Doe, DOB XX/XX/XXXX, regarding a prior authorization request for neurological services. Our reference number is PA-7890123. Your prompt attention to this matter is appreciated.
+
+***
+
+DOC ID: SUMMIT-NEURO-20250310-002 | PAGE 2 of 42
+
+EXHIBIT B
+RADIOLOGY REPORT
+
+FACILITY: Summit Imaging Center
+PATIENT: Doe, Jane
+DOB: XX/XX/XXXX
+MEDICAL RECORD #: ABC-12345
+DATE OF STUDY: March 10, 2025
+EXAM: MRI BRAIN W/ AND W/O CONTRAST
+
+CLINICAL INDICATION: Headaches, cognitive impairment following MVA.
+
+TECHNIQUE: Multiplanar, multisequence MRI of the brain was performed before and after intravenous administration of gadolinium contrast.
+
+COMPARISON: No prior comparable studies available.
+
+FINDINGS:
+BRAIN PARENCHYMA: No evidence of acute infarct, hemorrhage, or mass lesion. The ventricular system, sulci, and gyri appear normal for age. No hydrocephalus or significant atrophy.
+WHITE MATTER: Scattered small, nonspecific areas of T2/FLAIR hyperintensity are observed within the bilateral frontal lobes. These are non-enhancing and could be consistent with sequelae of prior trauma or chronic microvascular changes.
+INTRACRANIAL VASCULATURE: No evidence of significant stenosis, aneurysm, or arteriovenous malformation on standard sequences. MRA was not performed as part of this study.
+ORBITS/SINUSES/MASTOIDS: Unremarkable.
+POSTERIOR FOSSA: Cerebellum and brainstem appear normal.
+CONTRAST: No abnormal intracranial enhancement identified.
+
+IMPRESSION:
+1.  No acute intracranial pathology.
+2.  Small, nonspecific white matter hyperintensities in the bilateral frontal lobes, etiology non-specific but could represent post-traumatic changes given clinical history.
+3.  No evidence of mass effect or midline shift.
+
+RADIOLOGIST: Dr. Elias Vance, MD
+DATE OF REPORT: 2025-03-10
+TIME: 16:10
+
+***
+
+DOC ID: Clearwater-Neuro-20250422-001 | PAGE 3 of 42
+
+EXHIBIT C
+Clearwater Neuropsychology Center
+Comprehensive Neuropsychological Evaluation
+
+PATIENT: Jane Doe
+DOB: XX/XX/XXXX
+MRN: ABC-12345
+DATE OF SERVICE: April 22, 2025
+EVALUATING PSYCHOLOGIST: Dr. Thomas Reeves, PhD, ABPP-CN
+
+REFERRAL SOURCE: Dr. Wendy Nakamura, Summit Neurology Associates
+REASON FOR REFERRAL: Assessment of persistent cognitive difficulties following a motor vehicle accident.
+
+HISTORY AND BACKGROUND INFORMATION:
+The patienr underwent a comprehensive neuropsychological assessment today to investigate her ongoing cognitive cornpaints, specifically related to attention, memory, and executive functions, which she attributes to a motor vehicle collision occurring eight months ago. She asserts that she did not experience any cognitive problems prior to the accident. Currently, she is not employed. She resides independently and reports no difficulties managing her basic activities of daily living.
+
+TESTS ADMINISTERED:
+*   Wechsler Adult Intelligence Scale – Fourth Edition (WAIS-IV)
+*   Wechsler Memory Scale – Fourth Edition (WMS-IV)
+*   Trail Making Test, Parts A and B
+*   Stroop Color-Word Test
+*   Wisconsin Card Sorting Test (WCST)
+*   Boston Naming Test (BNT)
+*   California Verbal Learning Test – Second Edition (CVLT-II)
+*   Rey Complex Figure Test (RCFT)
+*   Conners Continuous Performance Test – Third Edition (Conners CPT-3)
+*   Minnesota Multiphasic Personality Inventory – 2 Restructured Form (MMPI-2-RF)
+*   Test of Memory Malingering (TOMM)
+
+RESULTS AND INTERPRETATION:
+COGNITIVE DOMAINS:
+*   Processing Speed: Performance was in the low average range, with a standard score (SS) of 85.
+*   Attention and Concentration: Functioning in this area was borderline, reflected by a standard score of 78.
+*   Verbal Memory: Results placed her in the low average range, with an SS of 82.
+*   Visual Memory: Her abilities in visual memory were within the average range, indicated by an SS of 95.
+*   Executive Function: Performance was at the low average level, yielding an SS of 84.
+*   Language: Her language skills were within the average range, with an SS of 98.
+
+EFFORT AND VALIDITY:
+The Test of Memory Malingering (TOMM) was administered, and the patient successfully passed both trials, suggesting a valid effort during the assessment. The MMPI-2-RF profile showed elevated scores on scales related to somatic complaints and diminished positive emotions, but there was no indication of symptom over-reporting or exaggerated distress.
+
+DIAGNOSTIC IMPRESSION:
+Mild neurocognitive disorder, directly attributable to traumatic brain injury.
+Post-concussion syndrome.
+
+RECOMMENDATIONS AND PLAN:
+The test results are consistent with a mild neurocognitive disorder resulting from a traumatic brain injury.
+*   Referral for cognitive rehabilitation therapy, two sessions per week, is recommended.
+*   Vocational rehabilitation assessment should be pursued to explore return-to-work options and strategies.
+*   For potential return-to-work, accommodations should include reduced screen exposure, the provision of written task lists, and a quiet work environment.
+*   Re-evaluation of cognitive functioning is suggested in approximately six months.
+
+Electronically signed by Dr. Thomas Reeves, PhD, ABPP-CN on 04/22/2025 at 17:10.
+
+***
+
+DOC ID: ClearPath-PA-20250401-001 | PAGE 4 of 42
+
+PRIOR AUTHORIZATION REQUEST FORM
+CLEARPATH HEALTH INSURANCE
+
+PATIENT NAME: Doe, Jane
+DOB: XX/XX/XXXX
+POLICY ID: 987654321
+PROVIDER: Dr. Thomas Reeves, PhD
+FACILITY: Clearwater Neuropsychology Center
+SERVICE REQUESTED: Neuropsychological Testing (CPT codes: 96132, 96133, 96136, 96137)
+DATE OF SERVICE(S): 04/22/2025
+REASON FOR REQUEST: Evaluation of post-concussion cognitive deficits following MVA.
+ATTACHED CLINICAL DOCUMENTATION: Referral from neurologist, initial consultation note.
+
+REQUESTING PHYSICIAN SIGNATURE: W. Nakamura, MD
+DATE: 04/01/2025
+CONTACT: Summit Neurology Associates
+PHONE: (555) 123-4567
+
+***
+
+DOC ID: SUMMIT-NEURO-20250605-001 | PAGE 5 of 42
+
+Summit Neurology Associates
+PROGRESS NOTE
+
+PATIENT: Jane Doe
+DOB: XX/XX/XXXX
+MRN: ABC-12345
+DATE: 06/05/2025
+PROVIDER: Dr. Wendy Nakamura, MD
+
+SUBJECTIVE:
+The patient returns for a foll0w-up after completing neuropsychological testing. She reports an improvement in the frequency of her headaches, which have decreased from a daily occurrence to about three to four times per week since starting topiramate. Her cognitive symptoms persist, though she feels a slight improvement has been noted since engaging in cognitive rehabilitation. She also describes experiencing tingling sensations in her fingers on both sides, which she recognizes as a potential side effect of the topiramate rnedication.
+
+OBJECTIVE:
+Physical exarn revealed intact cranial nerves (II through XII). Motor strength was 5/5 in all extremities. Sensory examination showed a reduced perception of pinprick stimuli at the distal fingertips bilaterally. Mini-Mental Status Examination score was 29 out of 30 points.
+
+ASSESSMENT:
+1.  Post-traumatic headache, showing signs of improvement.
+2.  Post-concussion cognitive impairment, ongoing.
+3.  Paresthesias induced by topiramate.
+
+MEDICATIONS:
+*   Topiramate: Dosage was adjusted. Previously 50 mg twice daily, it is now reduced to 25 milligrams twice daily due to the reported paresthesias.
+*   Sumatriptan: Continues to be prescribed for acute migraine relief as needed.
+*   Magnesium Glycinate: Added to the regimen at a dose of 400 milligrams once daily for migraine prevention.
+
+PLAN:
+*   Patient instructed to continue with cognitive rehabilitation sessions.
+*   Monitor resolution of paresthesias following the reduction in topiramate dosage.
+*   Should headaches worsen despite the current regimen, consideration will be given to switching to propranolol as an alternative prophylactic agent.
+*   Return to clinic for follow-up in eight weeks.
+
+Digital Signature: Wendy Nakamura, MD
+Date/Time: 06/05/2025 11:40 AM
+
+***
+
+DOC ID: PT-Referral-20250515 | PAGE 6 of 42
+
+REFERRAL CONFIRMATION - COGNITIVE REHABILITATION
+FAXED TO: Apex Cognitive Rehabilitation Clinic
+FROM: Clearwater Neuropsychology Center
+DATE: 05/15/2025
+
+PATIENT: Doe, Jane
+DOB: XX/XX/XXXX
+MEDICAL RECORD #: ABC-12345
+SERVICE: Cognitive Rehabilitation Therapy
+FREQUENCY: 2x/week
+DURATION: 8 weeks initially
+DIAGNOSES: Mild Neurocognitive Disorder due to TBI; Post-concussion Syndrome.
+REFERRING PROVIDER: Dr. Thomas Reeves, PhD
+
+Please contact patient to schedule initial assessment.
+
+***
+
+DOC ID: PINEPT-20250728-001 | PAGE 7 of 42
+
+Pinecrest Physical Therapy & Rehabilitation
+INITIAL EVALUATION REPORT
+
+PATIENT NAME: Doe, Jane
+DOB: XX/XX/XXXX
+DATE OF EVALUATION: July 28, 2025
+THERAPIST: Sarah Mitchell, DPT
+REFERRING PHYSICIAN: Dr. Wendy Nakamura, MD
+
+SUBJECTIVE HISTORY:
+This initial physical therapy assessment is conducted for complaints of neck pain and dizziness experienced after a motor vehicle accident. The patient reports stiffness in her neck and episodes of dizziness, particularly when performing quick movements of her head. She notes that she is separately participating in cognitive rehabilitation therapy.
+
+OBJECTIVE EXAMINATION FINDINGS:
+CERVICAL RANGE OF MOTION (ROM):
+*   Flexion: 35 degrees (normal range: 50 degrees)
+*   Extension: 40 degrees (normal range: 60 degrees)
+*   Rotation (Right): 55 degrees (normal range: 80 degrees)
+*   Rotation (Left): 60 degrees (normal range: 80 degrees)
+*   Lateral Flexion (Right): 30 degrees (normal range: 45 degrees)
+*   Lateral Flexion (Left): 35 degrees (normal range: 45 degrees)
+
+PALPATION: Tenderness was elicited bilaterally in the upper trapezius muscles and the suboccipital region.
+VESTIBULAR ASSESSMENT:
+*   Dix-Hallpike Maneuver: Negative on both sides.
+*   Benign Paroxysmal Positional Vertigo (BPPV) screen: Negative.
+*   Reported mild dizziness upon rapid horizontal head turns.
+
+BALANCE ASSESSMENT:
+*   Single Leg Stance: 15 seconds on the right; 12 seconds on the left (normative data indicates >30 seconds for her age group).
+*   Dynamic Gait Index (DGI): Score of 20 out of 24, indicating mild impairment.
+
+ASSESSMENT/DLAGNOSIS:
+1.  Cervicalgia (neck pain).
+2.  Cervicogenic dizziness.
+3.  Vestibular dysfunction, post-concussion type.
+
+PLAN OF CARE:
+*   Frequency: Two times per week.
+*   Duration: Eight weeks.
+*   Interventions to include: Vestibular rehabilitation exercises, stretching and strengthening for the cervical spine, gaze stabilization techniques, and balance training.
+*   Goals: Improve cervical ROM, decrease dizziness, enhance balance, and facilitate return to prior activity level.
+
+Sarah Mitchell, DPT
+Licensed Physical Therapist
+DATE: 07/28/2025
+TIME: 15:00
+
+***
+
+DOC ID: PINEPT-20250728-002 | PAGE 8 of 42
+
+Pinecrest Physical Therapy & Rehabilitation
+PHYSICAL THERAPY INITIAL MEASUREMENTS
+
+PATIENT: Doe, Jane
+DOB: XX/XX/XXXX
+DATE: 07/28/2025
+THERAPIST: Sarah Mitchell, DPT
+
+MEASURES OF IMPAIRMENT:
+Cervical Range of Motion (degrees):
+Flexion: 35 (norm 50)
+Extension: 40 (norm 60)
+Rotation R: 55 (norm 80)
+Rotation L: 60 (norm 80)
+Lateral Flexion R: 30 (norm 45)
+Lateral Flexion L: 35 (norm 45)
+
+Functional Outcome Measures:
+Dynamic Gait Index (DGI): 20/24 (indicating mild impairment)
+
+***
+
+DOC ID: Scheduling-Confirm-20250810 | PAGE 9 of 42
+
+APPOINTMENT CONFIRMATION
+PINEWOOD PHYSICAL THERAPY
+
+Dear Jane Doe,
+
+This is a confirmation of your upcoming physical therapy appointments.
+Your initial evaluation was on July 28, 2025.
+Your first scheduled follow-up session is on August 12, 2025, at 9:00 AM.
+Subsequent appointments will be scheduled directly with your therapist.
+Please arrive 15 minutes early for your first session.
+If you need to reschedule, please call (555) 987-6543 at least 24 hours in advance.
+
+Thank you,
+Pinecrest Physical Therapy & Rehabilitation
+Date Sent: August 10, 2025
+
+***
+
+DOC ID: SUMMIT-NEURO-20250915-001 | PAGE 10 of 42
+
+Summit Neurology Associates
+CLINICAL PROGRESS NOTE
+
+PATIENT: Jane Doe
+DOB: XX/XX/XXXX
+MRN: ABC-12345
+DATE OF VISIT: September 15, 2025
+PROVIDER: Dr. Wendy Nakamura, MD
+
+SUBJECTIVE COMPLAINTS:
+The patient reports a further reduction in headache frequency, now occurring approximately one to two times per week. The tingling sensations in her fingers, which were previously attributed to topiramate, have completely resolved since the dosage reduction. She also notes significant improvement in her dizziness, which she attributes to her vestibular physical therapy. Subjectively, her cognitive function feels better overall. She indicates plans to attempt returning to part-time work within the next month.
+
+OBJECTIVE FINDINGS:
+Cranial nerve examination (II-XII) was normal. Motor strength was full (5/5) in all extremities. Sensory examination was within normal limits. Cervical range of motion showed improvement compared to previous assessments. No nystagmus was observed during oculomotor examination.
+
+ASSESSMENT:
+1.  Post-traumatic headache, significantly improved.
+2.  Post-concussion syndrome, showing ongoing improvement.
+3.  Cervicogenic dizziness, now resolved.
+
+PLAN:
+*   Continue with current rnedication regimen.
+*   Consider gradual tapering of topiramate if headaches remain well-controlled.
+*   Support patient's planned return to part-time employment, emphasizing the need for appropriate accommodations.
+*   Follow-up appointment scheduled in three months.
+
+Electronically Signed: W. Nakamura, MD
+Date: 09/15/2025 10:55
+
+***
+
+DOC ID: RIDGEVIEW-OM-20251020-001 | PAGE 11 of 42
+
+Ridgeview Occupational Medicine
+Return-to-Work Evaluation Report
+
+PATIENT: Jane Doe
+DOB: XX/XX/XXXX
+DATE OF EVALUATION: October 20, 2025
+PHYSICIAN: Dr. Frank Delgado, MD, MPH
+FACILITY: Ridgeview Occupational Medicine
+
+REASON FOR EVALUATION: Assessment of fitness for duty for a planned return to part-time office work.
+
+SUBJECTIVE HISTORY:
+The patient, previously employed as a data analyst before her motor vehicle accident, is undergoing an evaluation to determine her readiness to return to work on a part-time basis. She states that her headaches and cognitive abilities have shown improvement. Her primary concerns revolve around her tolerance for screen time and her capacity for multitasking in a work environment.
+
+OBJECTIVE FINDINGS:
+*   Physical Examination: Overall, the physical exam was unremarkable.
+*   Neurological Examination: Found to be normal.
+*   Functional Capacity Assessment:
+    *   Sitting Tolerance: The patient demonstrated the ability to sit continuously for two hours before requiring a 10-minute break.
+    *   Sustained Attention: Adequate for simple, routine tasks, but showed a decrease when faced with complex, multi-step assignments.
+    *   Screen Tolerance: Reported onset of headache after approximately 90 minutes of continuous screen exposure.
+
+DIAGNOSES:
+1.  Post-concussion syndrome, in a recovery phase.
+2.  Fitness for modified duty.
+
+PLAN AND RECOMMENDATIONS:
+The patient is cleared for part-time work, defined as four hours per day, with the following necessary restrictions:
+1.  Frequent breaks from screen use, recommended every 60 to 90 minutes.
+2.  Provision of written instructions for all tasks to aid memory and organization.
+3.  Requirement for a quiet work environment to minimize distractions.
+4.  No driving for work-related purposes.
+Re-evaluation is advised in eight weeks to assess progress and potential for progression to full-time duty.
+
+Frank Delgado, MD, MPH
+Occupational Medicine Specialist
+Date of Report: 2025-10-20
+Time: 16:30
+
+***
+
+DOC ID: PATHFIND-INS-20251101-001 | PAGE 12 of 42
+
+PATHFINDER HEALTH PLANS
+CLAIMS DEPARTMENT
+DENIAL OF BENEFITS
+
+Date: November 1, 2025
+Claim Number: 987654321-003A
+Patient: Doe, Jane
+DOB: XX/XX/XXXX
+Policy Holder: Jane Doe
+Provider: Pathways Vocational Services
+Service: Vocational Rehabilitation Assessment (CPT 96112)
+Date of Service: 10/25/2025
+
+Dear Policy Holder,
+
+This letter is to inform you that the vocational rehabilitation assessment submitted by Pathways Vocational Services on 10/25/2025 for Jane Doe has been denied.
+
+Reason for Denial: Service not covered under current policy benefits for non-work-related injuries. While we understand the need for such services, your policy specifically excludes vocational rehabilitation services for conditions arising from non-occupational incidents. As this claim is linked to a motor vehicle accident, it falls outside the scope of your current health plan.
+
+You have the right to appeal this decision. Please refer to your plan documents or contact our member services at (800) 555-1234 for details on the appeals process.
+
+Sincerely,
+Pathfinder Health Plans
+Claims Department
+
+***
+
+DOC ID: SUMMIT-NEURO-20251210-001 | PAGE 13 of 42
+
+Summit Neurology Associates
+PATIENT CLINIC VISIT SUMMARY
+
+PATIENT: Jane Doe
+DOB: XX/XX/XXXX
+MRN: ABC-12345
+DATE OF SERVICE: December 10, 2025
+PROVIDER: Dr. Wendy Nakamura, MD
+
+SUBJECTIVE REPORT:
+The patient reports having been employed part-time for the past six weeks. Her headaches are now infrequent, occurring approximately once per week, and are described as mild in intensity. She experiences no dizziness. Her cognitive function is generally adequate for her current workload, though she notes some difficulty with longer meetings. She tolerates the topiramate 25 mg twice daily well.
+
+OBJECTIVE EXAMINATION:
+Physical and neurological examination findings were normal. Mini-Mental Status Examination score was 30 out of 30 points, indicating good cognitive function on screening.
+
+ASSESSMENT:
+1.  Post-traumatic headache disorder, nearing resolution.
+2.  Post-concussion cognitive impairment, with mild residual symptoms.
+
+PLAN:
+*   Initiate a gradual taper of Topiramate:
+    *   25 mg once daily for two weeks.
+    *   Then, 25 mg every other day for two weeks.
+    *   Following this, discontinue the rnedication.
+*   Continue Magnesium Glycinate 400 mg daily.
+*   Recommend follow-up with occupational medicine for assessment of full duty work.
+*   Consider repeating neuropsychological testing in approximately six months to formally document the extent of recovery.
+
+Digital Signature: W. Nakamura, MD
+Date: 12/10/2025 13:45
+
+***
+
+DOC ID: SUMMIT-NEURO-20251210-002 | PAGE 14 of 42
+
+Summit Neurology Associates
+PRESCRIPTION ORDER
+
+PATIENT: Doe, Jane
+DOB: XX/XX/XXXX
+DATE: December 10, 2025
+
+PHARMACY: CVS Pharmacy, 123 Main St, Anytown, USA
+PHONE: (555) 777-8888
+
+MEDICATION: Topiramate 25mg Tablets
+DIRECTIONS:
+1. Take one tablet by mouth once daily for 2 weeks.
+2. After 2 weeks, take one tablet by mouth every other day for 2 weeks.
+3. Then discontinue.
+QUANTITY: 21 tablets
+REFILLS: 0
+
+MEDICATION: Magnesium Glycinate 400mg Capsules
+DIRECTIONS: Take one capsule by mouth once daily.
+QUANTITY: 30 capsules
+REFILLS: 3
+
+MEDICATION: Sumatriptan 50mg Tablets
+DIRECTIONS: Take one tablet by mouth at onset of migraine headache, may repeat once after 2 hours if needed. Do not exceed 100mg in 24 hours.
+QUANTITY: 9 tablets
+REFILLS: 2
+
+PRESCRIBER: Dr. Wendy Nakamura, MD
+DEA #: XXXXXX
+NPI #: XXXXXXXX
+
+***
+
+DOC ID: RIDGEVIEW-OM-20260218-001 | PAGE 15 of 42
+
+Ridgeview Occupational Medicine
+FINAL WORK CAPACITY EVALUATION
+
+PATIENT: Jane Doe
+DOB: XX/XX/XXXX
+DATE OF EVALUATION: February 18, 2026
+PHYSICIAN: Dr. Frank Delgado, MD, MPH
+FACILITY: Ridgeview Occupational Medicine
+
+REASON FOR EVALUATION: Re-assessment for progression to full-time work duty.
+
+SUBJECTIVE HISTORY:
+The patient presents for re-evaluation regarding her ability to transition to full-time employment. She reports having worked part-time (four hours per day) for the past four months without experiencing any significant issues. Her headaches are now rare, occurring only two to three times per month. She has been off topiramate rnedication for four weeks. The patient denies any current dizziness or cognitive cornpaints at her present workload.
+
+OBJECTIVE FINDINGS:
+*   Physical Examination: The physical exarn was entirely normal.
+*   Functional Capacity Assessment:
+    *   Sitting Tolerance: Capable of sitting for four or more hours with standard breaks.
+    *   Screen Tolerance: Reported tolerance for screen exposure exceeding three hours.
+    *   Attention: Screening assessments for sustained and divided attention were within normal limits.
+
+DIAGNOSES:
+1.  Post-concussion syndrome, nearly resolved.
+2.  Cleared for full-time duty with minimal restrictions.
+
+PLAN AND RECOMMENDATIONS:
+The patient is cleared for full-time work, defined as eight hours per day. The following minimal restrictions and recommendations are advised:
+1.  Recommendation for an ergonomic workstation setup.
+2.  Advise screen breaks every two hours.
+3.  No restriction on driving for work purposes.
+A final follow-up with her neurologist is recommended to officially close the case.
+
+Frank Delgado, MD, MPH
+Occupational Medicine Specialist
+Date of Report: 2026-02-18
+Time: 14:10
+
+***
+
+DOC ID: RECORDS-REQ-20260105 | PAGE 16 of 42
+
+MEDICAL RECORDS REQUEST
+FAX TO: Summit Neurology Associates
+FAX TO: Clearwater Neuropsychology Center
+FAX TO: Pinecrest Physical Therapy & Rehabilitation
+FAX TO: Ridgeview Occupational Medicine
+
+FROM: Legal Counsel for Jane Doe
+DATE: January 5, 2026
+
+Dear Custodian of Records,
+
+Please provide a complete copy of all medical records, including but not limited to, office notes, consultation reports, imaging reports, laboratory results, billing statements, and correspondence for patient Jane Doe, DOB XX/XX/XXXX, MRN ABC-12345.
+
+This request is authorized by the attached signed HIPAA-compliant Authorization for Release of Medical Information. Please send records to:
+
+Law Offices of Smith & Jones
+123 Justice Way
+Legal City, ST 12345
+
+Phone: (555) 222-3333
+Fax: (555) 222-3334
+
+Thank you for your prompt attention to this matter.
+
+***
+
+DOC ID: PROVIDER-UPDATE-20250615 | PAGE 17 of 42
+
+PROVIDER DIRECTORY UPDATE
+EFFECTIVE DATE: June 15, 2025
+
+TO: All Participating Providers
+FROM: HealthNet Provider Services
+
+Please be advised of the following update to our provider directory.
+
+NEW PROVIDER ADDITION:
+Dr. Alice Chen, MD
+Specialty: Physical Medicine & Rehabilitation
+Facility: Evergreen Rehabilitation Clinic
+Address: 456 Recovery Road, Wellness City, ST 98765
+Phone: (555) 444-5555
+Accepting new patients.
+
+Please update your internal records accordingly.
+For any questions, contact Provider Relations at (800) 111-2222.
+
+***
+
+DOC ID: SUMMIT-BILLING-20250325 | PAGE 18 of 42
+
+Summit Health System
+Patient Billing Statement
+
+Account Number: SHS-12345-6789
+Patient: Jane Doe
+DOB: XX/XX/XXXX
+
+Date: 03/25/2025
+
+SERVICE DATE: 03/10/2025
+DESCRIPTION: Neurology Consultation (CPT 99204)
+CHARGES: $450.00
+INSURANCE PAID: $360.00
+PATIENT RESPONSIBILITY (CO-PAY): $50.00
+ADJUSTMENT: $40.00
+
+PREVIOUS BALANCE: $0.00
+NEW CHARGES: $50.00
+TOTAL DUE: $50.00
+
+Please remit payment by April 24, 2025.
+Payments can be made online at www.summithealth.com/billpay or by mail.
+
+Thank you,
+Summit Health System Billing Department.
+
+***
+
+DOC ID: LAB-REPORT-20250310-001 | PAGE 19 of 42
+
+1ABORATORY REPORT
+
+FACILITY: Summit Clinical Laboratories
+PATIENT: Doe, Jane
+DOB: XX/XX/XXXX
+MRN: ABC-12345
+COLLECTION DATE: 2025-03-10
+REPORT DATE: 2025-03-10
+ORDERING PROVIDER: Dr. Wendy Nakamura
+
+TEST RESULT REFERENCE RANGE UNITS
+
+COMPLETE BLOOD COUNT (CBC)
+WBC 7.2 4.0-10.5 K/uL
+RBC 4.50 4.20-5.40 M/uL
+Hemoglobin 13.8 12.0-16.0 g/dL
+Hematocrit 41.5 37.0-47.0 %
+MCV 92 80-100 fL
+MCH 30.7 27.0-33.0 pg
+MCHC 33.2 32.0-36.0 g/dL
+Platelets 280 150-450 K/uL
+RDW 13.0 11.5-14.5 %
+
+COMPREHENSIVE METABOLIC PANEL (CMP)
+Glucose 95 70-99 mg/dL
+BUN 15 7-20 mg/dL
+Creatinine 0.85 0.60-1.20 mg/dL
+eGFR >60 >60 mL/min/1.73m2
+Sodium 140 135-145 mmol/L
+Potassium 4.1 3.5-5.1 mmol/L
+Chloride 102 98-107 mmol/L
+CO2 25 22-32 mmol/L
+Calcium 9.2 8.5-10.2 mg/dL
+Total Protein 7.0 6.0-8.3 g/dL
+Albumin 4.2 3.5-5.0 g/dL
+Total Bilirubin 0.5 0.2-1.2 mg/dL
+Alkaline Phosphatase 70 30-120 U/L
+AST (SGOT) 22 10-35 U/L
+ALT (SGPT) 18 9-46 U/L
+
+Thyroid Stimulating Hormone (TSH) 2.15 0.40-4.00 mIU/L
+
+COMMENT: All values within normal limits.
+
+VERIFIED BY: Automated System, MD Review pending
+DATE/TIME: 2025-03-10 12:30
+
+DOC ID: LAB-REPORT-20250310-001 | PAGE 20 of 42

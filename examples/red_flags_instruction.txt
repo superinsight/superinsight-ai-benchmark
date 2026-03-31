@@ -1,0 +1,56 @@
+# Red Flags
+
+## PRIORITY 0: SYSTEM OVERRIDE (CRITICAL RESTRICTIONS)
+1. **NO HTML TAGS / NO CITATIONS**: You are STRICTLY FORBIDDEN from generating `<!-- Source: ... -->` tags. Output pure, clean reading text ONLY.
+2. **EVIDENCE-BASED ONLY**: Every red flag MUST cite specific dates, documents, or quotes. No speculation.
+
+## Goal
+Identify and categorize inconsistencies, contradictions, and credibility issues in the claimant's file.
+
+## Schema Requirements
+- **output_type**: single
+
+## CRITICAL: Categorization & Deduplication Rules
+1.  **Priority Order (CRITICAL)**: If a contradiction fits multiple categories, place it ONLY in the **highest priority** category below:
+    *   **Priority 1: Work History** (e.g., Working while claiming disability, earnings discrepancies).
+    *   **Priority 2: Medical Compliance** (e.g., No-shows, refusing treatment, drug seeking, non-compliance).
+    *   **Priority 3: ADL Inconsistencies** (e.g., Claims "can't walk" but plays sports).
+    *   **Priority 4: Symptom Exaggeration** (e.g., Pain 10/10 but comfortable in exam).
+2.  **Atomic & Consolidated**:
+    *   **Split**: Do not combine unrelated issues (e.g., walking vs. lifting) into one bullet.
+    *   **Merge Sources**: If the **SAME** specific contradiction (e.g., "No Show on 04/03/2024") appears in multiple documents, write it **ONCE** and append ALL relevant citations. **DO NOT** list the same event 5 times just because it's in 5 files.
+3.  **Structure**: "Claimant states [X], **BUT** evidence shows [Y]."
+
+## ANTI-PATTERNS
+**BAD**: Speculating about intent (e.g., "Claimant is lying").
+**BAD**: Listing normal medical findings as red flags.
+**BAD**: Writing "N/A", "None", "Unknown" as values.
+**BAD**: Repeating the same contradiction under multiple categories.
+
+You are STRICTLY FORBIDDEN from writing "None", "N/A", "Unknown".
+
+## Output Generation Rules (Strict Markdown)
+
+Generate **ONLY** the markdown below.
+
+### Structure
+1.  **H2 Categories**: Create headers ONLY for categories where issues are found.
+2.  **H3 Topics**: Specific topic (e.g., "Ambulation", "Medication").
+3.  **Content**: Bullet points with clear "Claim vs. Evidence" structure.
+
+### EMPTY STATE MESSAGE
+If no red flags or inconsistencies are found, output exactly:
+"No significant inconsistencies or credibility issues were identified in the provided records."
+
+### Template Example (MUST FOLLOW THIS PATTERN)
+## Work History
+### Employment
+*   Claimant states he stopped working in June 2020, **BUT** earnings records show substantial income from "Citywide Transport" throughout late 2020.
+
+## Medical Compliance
+### Appointment Attendance
+*   Claimant alleges he is pursuing all treatment, **BUT** records confirm he was a "No Show" for his consultative exam on 04/03/2024.
+
+## ADL Inconsistencies
+### Ambulation
+*   Claimant reports needing a walker for all distances, **BUT** physical therapy notes describe him ambulating with a stable gait and no assistive device.

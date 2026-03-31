@@ -1,0 +1,420 @@
+{
+  "claude-opus-4.5": {
+    "latency_seconds": {
+      "mean": 82.52,
+      "std": 34.83,
+      "min": 30.78,
+      "max": 149.57,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 11030.33,
+      "std": 3640.08,
+      "min": 6228.0,
+      "max": 17137.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 5125.89,
+      "std": 1810.54,
+      "min": 2262.0,
+      "max": 7573.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 16156.22,
+      "std": 5255.79,
+      "min": 8490.0,
+      "max": 24309.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.55,
+      "std": 0.18,
+      "min": 0.26,
+      "max": 0.79,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "claude-opus-4.6": {
+    "latency_seconds": {
+      "mean": 104.35,
+      "std": 40.53,
+      "min": 56.77,
+      "max": 200.39,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 11030.33,
+      "std": 3640.08,
+      "min": 6228.0,
+      "max": 17137.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 6042.44,
+      "std": 2003.16,
+      "min": 3749.0,
+      "max": 11021.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 17072.78,
+      "std": 4849.93,
+      "min": 9977.0,
+      "max": 23659.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.12,
+      "std": 0.04,
+      "min": 0.07,
+      "max": 0.19,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "gemini-2.5-flash": {
+    "latency_seconds": {
+      "mean": 40.82,
+      "std": 11.63,
+      "min": 22.73,
+      "max": 64.37,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 12059.83,
+      "std": 6766.41,
+      "min": 5891.0,
+      "max": 25978.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 9029.67,
+      "std": 2711.86,
+      "min": 4750.0,
+      "max": 15178.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 21089.5,
+      "std": 8051.13,
+      "min": 10641.0,
+      "max": 36333.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.01,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.01,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "gemini-2.5-pro": {
+    "latency_seconds": {
+      "mean": 66.7,
+      "std": 17.37,
+      "min": 50.45,
+      "max": 109.49,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 12059.83,
+      "std": 6766.41,
+      "min": 5891.0,
+      "max": 25978.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 3055.56,
+      "std": 930.02,
+      "min": 1631.0,
+      "max": 4343.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 20220.56,
+      "std": 7218.87,
+      "min": 12010.0,
+      "max": 34962.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.05,
+      "std": 0.02,
+      "min": 0.02,
+      "max": 0.07,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "gemini-3-flash": {
+    "latency_seconds": {
+      "mean": 21.84,
+      "std": 12.91,
+      "min": 8.97,
+      "max": 54.49,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 12060.83,
+      "std": 6766.41,
+      "min": 5892.0,
+      "max": 25979.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 2875.67,
+      "std": 741.86,
+      "min": 1777.0,
+      "max": 3827.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 15805.78,
+      "std": 7112.41,
+      "min": 7669.0,
+      "max": 29806.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.01,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "gemini-3.1-pro": {
+    "latency_seconds": {
+      "mean": 94.25,
+      "std": 25.39,
+      "min": 62.07,
+      "max": 151.22,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 12060.83,
+      "std": 6766.41,
+      "min": 5892.0,
+      "max": 25979.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 3816.78,
+      "std": 1674.82,
+      "min": 1935.0,
+      "max": 7397.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 23192.83,
+      "std": 9375.7,
+      "min": 13026.0,
+      "max": 45065.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.05,
+      "std": 0.02,
+      "min": 0.03,
+      "max": 0.11,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "gpt-5.4": {
+    "latency_seconds": {
+      "mean": 40.34,
+      "std": 12.59,
+      "min": 20.84,
+      "max": 58.33,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 9644.17,
+      "std": 3263.6,
+      "min": 5474.0,
+      "max": 15268.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 3498.17,
+      "std": 1100.51,
+      "min": 1893.0,
+      "max": 5408.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 13142.33,
+      "std": 3917.08,
+      "min": 7785.0,
+      "max": 19661.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.06,
+      "std": 0.02,
+      "min": 0.04,
+      "max": 0.08,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "gpt-5.4-mini": {
+    "latency_seconds": {
+      "mean": 11.07,
+      "std": 3.35,
+      "min": 6.03,
+      "max": 18.04,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 9644.17,
+      "std": 3263.6,
+      "min": 5474.0,
+      "max": 15268.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 2399.89,
+      "std": 695.98,
+      "min": 1330.0,
+      "max": 3557.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 12044.06,
+      "std": 3523.22,
+      "min": 7055.0,
+      "max": 18056.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.01,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.01,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "gpt-5.4-pro": {
+    "latency_seconds": {
+      "mean": 536.21,
+      "std": 232.3,
+      "min": 350.64,
+      "max": 1165.03,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 9644.17,
+      "std": 3263.6,
+      "min": 5474.0,
+      "max": 15268.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 16812.17,
+      "std": 4727.96,
+      "min": 10619.0,
+      "max": 24744.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 26456.33,
+      "std": 5051.65,
+      "min": 16093.0,
+      "max": 33032.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.77,
+      "std": 0.18,
+      "min": 0.48,
+      "max": 1.07,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "minimax-m2.5": {
+    "latency_seconds": {
+      "mean": 163.95,
+      "std": 76.06,
+      "min": 57.13,
+      "max": 377.06,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 9260.0,
+      "std": 2762.66,
+      "min": 5409.0,
+      "max": 13474.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 5222.56,
+      "std": 2688.73,
+      "min": 2339.0,
+      "max": 14697.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 14482.56,
+      "std": 3895.18,
+      "min": 7748.0,
+      "max": 23365.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.02,
+      "std": 0.01,
+      "min": 0.01,
+      "max": 0.03,
+      "n": 18
+    },
+    "total_runs": 18
+  },
+  "qwen3-235b": {
+    "latency_seconds": {
+      "mean": 178.24,
+      "std": 200.01,
+      "min": 10.43,
+      "max": 806.4,
+      "n": 18
+    },
+    "prompt_tokens": {
+      "mean": 10420.33,
+      "std": 3447.8,
+      "min": 5895.0,
+      "max": 16331.0,
+      "n": 18
+    },
+    "completion_tokens": {
+      "mean": 3709.83,
+      "std": 1158.52,
+      "min": 1769.0,
+      "max": 5082.0,
+      "n": 18
+    },
+    "total_tokens": {
+      "mean": 14130.17,
+      "std": 4185.57,
+      "min": 7664.0,
+      "max": 20675.0,
+      "n": 18
+    },
+    "estimated_cost_usd": {
+      "mean": 0.01,
+      "std": 0.0,
+      "min": 0.01,
+      "max": 0.02,
+      "n": 18
+    },
+    "total_runs": 18
+  }
+}

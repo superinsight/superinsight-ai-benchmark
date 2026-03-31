@@ -1,0 +1,411 @@
+{
+  "created_at": "2026-03-25T08:02:06.435118+00:00",
+  "method": "multi-model-consensus",
+  "source_outputs": "outputs/mc_source_b_small_v2",
+  "consensus_models_used": 6,
+  "consensus_threshold": 2,
+  "style": "clinical_note",
+  "source_file": "synthetic_source.txt",
+  "total_must_extract": 10,
+  "total_may_extract": 1,
+  "entries": [
+    {
+      "index": 0,
+      "encounter_date": "2025-11-19",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychiatric Diagnostic Evaluation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Client is seeking therapy to address ongoing challenges with anxiety, bipolar disorder, and interpersonal stress. Desires a safe space to process emotions and improve coping. Long history of mental health struggles. Previous therapy unsuccessful due to logistical/emotional triggers (disorganized therapist, therapist's office in former employer's building causing distress, night sweats, nightmares). Voluntarily admitted to a behavioral health hospital in September due to suicidal ideation and self-harm (cutting). Drove to Lakeview Medical Center, transferred to Riverside Hospital in Clearwater for inpatient care. Advised to continue therapy post-discharge. Under psychiatric care since age 17 (currently 39). Frustration with previous psychiatrist (untimely care, missed virtual appointment during father's stroke). Now seen at Bayside Behavioral Health. Mood fluctuations, mixed states triggered by anxiety (rapid thinking, insomnia, hyper-fixation, feeling hot). Depressive episodes (confusion, lack of motivation, withdrawal). Mood cycles typically alternate monthly. Significant stressors: financial strain (unemployment, pending disability claim), caregiving for father after stroke. Relationship strain with fianc\u00e9 (perceives resentment, disappointment). Irritability and harsh communication during disagreements, managed by taking time apart. Fianc\u00e9 struggles to understand mental health issues. Feeling isolated, no close friends. Symptoms: Night sweats and nightmares (onset earlier this year, triggered by therapy, resolved after discontinuing); Suicidal ideation (onset September, led to hospitalization, currently not active); Self-harm behaviors (cutting and pricking, occasional, not for suicide); Anxiety (persistent, worsens with external pressures/financial strain, triggers manic episodes); Bipolar episodes (monthly cycles of mania/depression, mixed states triggered by anxiety); Insomnia (associated with mania, resolved with Trazodone); Mood swings (alternating manic/depressive, managed with preparation strategies). Sleep: Significant improvement since starting Trazodone, falls asleep, stays asleep, wakes refreshed. Previously insomnia during manic, excessive sleeping during depressive. Mood: Anxious during session due to new environment. Fluctuates, currently stable due to improved sleep.",
+        "objective": "Appeared appropriately dressed and groomed. Calm demeanor, tired and emotionally drained after recounting history. Engaged and cooperative. Motor activity: None observed or reported. Speech: Clear, coherent, appropriately paced. Articulated thoughts well, mentioned tendency to speak quickly during manic episodes. Eye Contact: Consistent. Mood: Anxious during session (new environment, emotional discussion). Affect: Congruent, appropriate emotional expression. Thought Process: Logical, goal-directed. Detailed accounts. Racing thoughts/hyperfixation during manic episodes, no disorganized thinking observed. Cognition: Oriented to person, place, time. Intact memory/concentration. Occasional confusion/difficulty thinking clearly during depressive episodes. Insight & Judgment: Good insight into mental health, triggers, coping. Actively managing symptoms, preparing for mood episodes. Judgment intact. SI: History of suicidal ideation, led to hospitalization. Denies current suicidal thoughts/plans. HI: Denies. AH/VH: Denies.",
+        "social": "Lives with fianc\u00e9 and his nine-year-old son. No housing instability. Unemployed, previously real estate/data entry (stressful, anxiety-inducing). Stopped working July, awaiting disability claim. With fianc\u00e9 10 years, occasional strain due to bipolar/financial pressures. Stepmother to fianc\u00e9's son. Mother in California (pragmatic support), father (stroke) offers emotional support. Hobbies: Movies (horror), pool hall with fianc\u00e9. Values spontaneous outings. No active/past legal issues. Trauma: Emotional toll of father's stroke, financial burden of travel to care for him. No other trauma. Denies Alcohol, THC, Nicotine/Tobacco, Amphetamines, Barbiturates/Benzodiazepines, Cocaine, Psychedelics.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Anxiety and bipolar disorder.",
+        "plan": "Assessment: 39-year-old female with history of bipolar disorder and anxiety, presenting for therapy following September behavioral health hospitalization (suicidal ideation, self-harm). Under psychiatric care since age 17, recently transitioned to new psychiatrist, adjusted medications (Trazodone for sleep, Zoloft for mood stabilization). Significant improvement in sleep/overall mood stability since Trazodone. Continues anxiety (new environments, busy days), mood fluctuating (manic/depressive every 3-5 weeks). Stressors: financial strain, disability claim, relationship dynamics (fianc\u00e9 struggles to understand mental health). Limited social support. Developed coping mechanisms (distancing from triggers), seeks strategies for irritability/emotional regulation. Denies current SI/self-harm, acknowledges history of mixed episodes from stress. Plan: Continue weekly therapy (mood regulation, anxiety management, relationship dynamics). Explore/reinforce coping strategies (irritability, emotional regulation, self-removal from triggers). Develop structured plan for anxiety during busy/unpredictable days. Encourage expanding social support network. Address financial stressors (disability claim, resources). Psychoeducation on bipolar disorder for client/fianc\u00e9. Monitor for SI/self-harm. Follow-Up: Weekly therapy. Risk Factors: History of SI/self-harm (denies current ideation/intent). Stressors (financial, relationship) may elevate risk. No immediate risk for violence/non-compliance.",
+        "mss": "Not applicable.",
+        "medications": "Trazodone (effective for sleep), Zoloft, 2PFM. Past: Latuda, Rexulti, Vraylar (discontinued due to adverse effects).",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 1,
+      "encounter_date": "2025-12-03",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Chief Complaint: Concerns about managing stress and maintaining boundaries while planning/hosting large family holiday party. Challenges with partner's family overstepping, difficulty asserting control in own home. Focused on organized, enjoyable event while navigating family dynamics. Problems Discussed: Feeling fatigued, attributed to increased activity and temporary lapse in medication. Energy levels improved since resuming medication, productive with gardening, decorating, holiday prep. Ongoing stress from holiday party planning, managing contributions/involvement from partner's family. Frustration with family members taking liberties in planning without consulting her, feeling undermined. Working on communication with partner for clear boundaries. Efforts to remain calm/measured in responses to family dynamics. Progress in pausing/asking clarifying questions before reacting, reduced conflict, improved relationship with partner. Pride in growth. Symptoms Recap: Stress and Fatigue (increased stress from holiday planning/family dynamics, compounded by temporary fatigue from medication lapse); Boundary Challenges (difficulty maintaining boundaries with partner's family, frustration, overwhelmed); Emotional Regulation (improved managing emotional responses/communication, focus on calm/collaborative).",
+        "objective": "Appeared well-groomed and appropriately dressed. Engaged and communicative, reflective and thoughtful demeanor. Speech articulate, spontaneous, easy to follow, appropriate tone/volume. Maintained consistent eye contact. No psychomotor agitation or unusual movements. Mood generally positive, acknowledged moments of frustration. Affect congruent, shifting appropriately. Thought processes organized. Good insight into emotional state/interpersonal challenges, sound judgment. Memory/concentration intact. No SI, HI, AH, VH reported or observed.",
+        "social": "Lives with fianc\u00e9 and stepson. Employed previously in real estate/data entry; currently unemployed.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Stress and Fatigue, Boundary Challenges, Emotional Regulation issues.",
+        "plan": "Assessment: Navigating significant stress from holiday gathering, boundary-setting challenges with partner's family. Strong sense of organization, proactive planning. Overstepping by family leads to frustration, need for improved communication. Mindful of emotional responses, importance of measured reactions. Insight into progress in managing interpersonal dynamics, acknowledges collaboration with partner. Treatment Progress: Notable progress in managing emotional responses (family stressors). Increased ability to pause, ask clarifying questions, approach conflicts calmly. Contributed to constructive conversations with partner, greater control over reactions. Resilience/adaptability in holiday planning. Confidence in navigating dynamics with continued focus on collaboration/boundary-setting. Plan: Continue exploring strategies for boundaries/stress during family interactions. Encourage using communication/emotional regulation skills (pausing, reflecting). Identify additional coping mechanisms for stress/balance. Schedule follow-up.",
+        "mss": "Not applicable.",
+        "medications": "\"temporary lapse in her medication\" and \"resuming the medication\". Specific names not mentioned in this note.",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 2,
+      "encounter_date": "2025-12-09",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Reported feeling tired throughout previous week, possibly due to missing a dose of Trazodone. Some improvement in energy past couple days. Concern about resurgence in desire to binge eat. Managing bipolar disorder well, active and productive (selling items on eBay, tutoring a fifth-grade student). Discussed family dynamics, challenges with partner's ex regarding child's activities (child wants to play basketball, ex not supportive due to sickle cell trait). Pride in partner for standing up to ex. Concerns about child's upbringing. Reflected on own extended family, issues with estranged cousin, worry about erratic behavior. Preparing for family trip, acknowledging potential stressors. Finds joy in tutoring, community activities (supporting family in need through church). Preparing for holiday events and partner's friend visit. Focused on maintaining mental health and finding happiness.",
+        "objective": "Appeared engaged and appropriately dressed, composed. Discussed fatigue, family dynamics, activities. Speech coherent and articulate, occasionally frustrated tone (family-related stressors). Volume and pace appropriate. Congruence between affect and stated mood. Exhibited strong insight, actively exploring practical solutions. Maintained focus, recounted events/feelings with clarity/detail. Good understanding of emotional experiences/external stressors. No reported or observed SI, HI, AH, VH.",
+        "social": "Tutoring a 5th grader. Participating in church group activities.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Bipolar Disorder \u2013 F31.9, Family Discord \u2013 Z63.0, Anxiety Related to Extended Family Dynamics \u2013 F41.8, Sleep Disturbance \u2013 G47.00.",
+        "plan": "Assessment: Ongoing stress related to family dynamics and fatigue. Demonstrated resilience and proactive reflection. Engagement in meaningful activities (tutoring). Anxiety regarding extended family's instability. No immediate risks. Would benefit from continued therapeutic sessions emphasizing boundary-setting, emotional regulation, and purpose-building. Plan: Encourage consistent sleep schedule, explore medication adjustments for fatigue. Continue support for boundary setting (partner\u2019s previous relationship, child\u2019s upbringing). Explore strategies to manage binge eating (emotional triggers, healthier coping). Encourage engaging in joyful/fulfilling activities. Schedule follow-up for family dynamics progress, coping strategies. Monitor mood/energy.",
+        "mss": "Not applicable.",
+        "medications": "Trazodone (mentioned as missed dose).",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 3,
+      "encounter_date": "2026-01-21",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Chief Complaint: Frustration with leadership/ethical concerns in charitable organization. Anxiety/difficulty managing substitute teaching assignments. Ongoing worry about family member's severe mental illness and legal issues. Feeling overwhelmed, considering stepping back. Problems Discussed: Explored escalating frustration/ethical discomfort with leadership/financial practices in charitable organization. Decision to step back from officer role to set boundaries/prioritize family. Increased anxiety/distress during substitute teaching (elementary, challenging student behavior), withdrew from assignments. Persistent concern/emotional strain for cousin's severe mental illness, recent psychotic episodes, destructive behaviors, aunt's safety, family's difficulty navigating legal/treatment systems. Additional stressors: disrupted sleep after travel delays, ongoing fatigue, emotional burden of supporting family with Alzheimer's. Positive experiences: supporting stepson's involvement in sports, meaningful family connections. Symptoms Recap: Anxiety (worsening, pronounced during substitute teaching, early withdrawal from work, avoidance, overwhelming); Sleep disturbance (recent onset after travel, over 30 hours without sleep, persistent fatigue, difficulty reestablishing regular schedule); Emotional distress related to family (moderate to severe worry about cousin's mental illness/legal issues, aunt's safety, grandfather's Alzheimer's, rumination, emotional exhaustion); Frustration/ethical discomfort (escalating, related to perceived mismanagement/lack of transparency in charitable organization, morally distressing/draining).",
+        "objective": "Appearance & Behavior: Well-groomed, appropriately dressed, cooperative, engaged, appropriate social behavior. No abnormal/disruptive behaviors. Motor Activity: Within normal limits, fluid, congruent. Speech: Spontaneous, fluent, coherent, normal rate/volume/prosody. No pressured/slowed speech. Eye Contact: Within normal limits, consistent, appropriate. Mood & Affect: Reported feeling frustrated/anxious (organizational/work stressors), concerned (family member\u2019s mental health). Affect congruent, full range, appropriate reactivity (warmth/humor for positive topics, tearfulness/tension for stressful). Thought Process: Logical, organized, goal-directed. No tangentiality, circumstantiality, thought blocking. Thought Content: No SI, HI, delusions. Concerns about family reality-based. Perception: No perceptual disturbances/hallucinations. Cognition: Alert, fully oriented. Memory intact, attention/concentration adequate. Insight & Judgment: Insight into emotional responses/stressors intact. Judgment sound (boundaries, self-care, family safety).",
+        "social": "Supporting stepson's sports involvement. Caregiving for family members with Alzheimer's.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Anxiety, Sleep disturbance, Emotional distress related to family, Frustration/ethical discomfort.",
+        "plan": "Assessment: Continues pronounced anxiety in high-stress work environments. Persistent emotional distress (complex family dynamics, caregiving roles). Sleep disruption, fatigue. Insight into stressors, proactive boundary setting. No psychosis, substance use, medication non-adherence. Engaged in therapy, uses support systems. Low risk. Risk Assessment: Self-harm: Denied. Harm to others: Denied. Psychosis: No symptoms. Substance relapse: Not indicated. Non-compliance: Not observed. Protective factors: Strong family support, insight, willingness to seek help, effective boundary setting. No acute risks. Treatment Progress: Made meaningful progress in setting boundaries (charitable organization), prioritizing family/personal well-being. Responded to anxiety triggers by limiting substitute teaching. Persistent challenges: ongoing anxiety, disrupted sleep, emotional strain from family. Highly engaged/motivated. No recent changes to treatment plan. Plan: Continue CBT/supportive therapy (anxiety management, personal boundaries, family stress). Encourage self-care, good sleep habits, reduce stressful work. No new referrals. Monitor risk/symptoms. Reinforce safety planning/support systems. Review progress/coping strategies.",
+        "mss": "Not applicable.",
+        "medications": "Klonopin (implied use for anxiety/sleep in context of session discussion, though not explicitly prescribed in this note, patient reports using coping strategies).",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 4,
+      "encounter_date": "2026-01-28",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Chief Complaint: Concerns about child's academic difficulties and possible ADHD. Ongoing relationship strain due to physical separation and lack of intimacy. Escalating financial stress. Feels lonely at night due to not sleeping in same bed as partner. Problems Discussed: Anxiety about child's academic struggles and suspected ADHD. Frustration with limited access to school info due to family dynamics, emotional burden from feeling unable to help. Relationship challenges: physical separation from partner, diminished intimacy, emotional toll of sleeping in separate rooms (reminded her of childhood marital discord). Financial stress: concerns about high grocery expenses, reliance on food stamps, difficulty communicating financial boundaries to partner. Reflected on patterns of avoidance, striving to balance assertiveness with family harmony, recognized parallels to past experiences, working toward open communication. Symptoms Recap: Ocular irritation (persistent redness, puffiness, peeling, discomfort around eyes; moderate severity, partially responsive to antibiotics/antihistamines, ongoing functional impact); Emotional distress (loneliness, tension related to relationship separation/lack of physical touch; intermittent, more pronounced evenings, negatively affects mood/connection); Anxiety regarding child's academics (ongoing worry, frustration, inability to intervene/access info; moderate severity, linked to family dynamics/suspected ADHD); Financial stress (marked concern over insufficient income, high grocery costs, difficulty negotiating financial arrangements with partner; worsening, adds to emotional strain); Residual trauma-related patterns (childhood associations between parental separation/marital discord influence current emotional responses to relationship issues).",
+        "objective": "Appearance: Well-groomed, appropriate for setting. Behavior: Engaged, cooperative, attentive. Mood: Mildly anxious and tense, with periods of sadness and frustration; affect congruent, occasionally restricted. Speech: Normal rate, volume, articulation; coherent, goal-directed. Thought process: Logical, organized, without derailment or tangentiality. Thought content: No suicidal/homicidal ideation, delusions, perceptual disturbances. Orientation: Fully oriented. Cognition: Intact; insight/judgment adequate, aware of challenges, motivated for change. No psychosis or risk behaviors observed.",
+        "social": "Financial strain, reliance on food stamps. Relationship tension with partner.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Moderate emotional distress, relationship strain, financial stress.",
+        "plan": "Assessment: Moderate emotional distress (child's academics, suspected ADHD, limited parental access, complex family dynamics). Relationship strain (physical separation, reduced intimacy, emotional responses shaped by past trauma/familial patterns). Financial stress (insufficient income, high grocery costs, communication with partner). Demonstrates insight, engages in therapy, uses protective strategies. No acute risk behaviors/medication side effects. Risk Assessment: Denied SI/HI, intent, plan. No risk behaviors, substance use, psychosis. Protective factors: strong motivation to support child, active therapy, understanding of stressors. Overall low risk. Treatment Progress: Active engagement, increased insight. Progress in altering beliefs about relationship separation, more open to solutions for financial stress. Ongoing difficulties obtaining school info, communicating intimacy needs. Motivated. No major setbacks. Plan: Continue CBT/supportive therapy (emotional distress, relationship dynamics, financial stress). Ongoing psychoeducation (ADHD, school accommodations, communication). Encourage expressing personal feelings to partner (intimacy, household responsibilities). Support collaborative budgeting, assertive communication (financial arrangements). Monitor emotional symptoms/risk factors. Next session: progress in relationship communication, financial negotiations, child\u2019s academic support.",
+        "mss": "Not applicable.",
+        "medications": "Ocular irritation partially responsive to antibiotics and antihistamines (not psychiatric).",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 5,
+      "encounter_date": "2026-02-04",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Chief Complaint: Strong desire to have a child, despite partner's reluctance. Feelings of guilt about plan to stop birth control without informing him. Navigating emotional/practical implications, previous fertility challenges. Problems Discussed: Difficulties with sleep (excessive, struggling to fall asleep at reasonable time). Doctor approved increased dosage of Trazodone, found effective for falling asleep. Still feels tired, hopes medication establishes regular sleep pattern. Contemplating future care of father (stroke, elderly grandparents caring for him). Concerned about grandparents' ability to continue care, considering father moving closer. Situation compounded by relationship with partner, logistical challenges. Discussed desire to have child, longing for parenting experience. Acknowledged partner's opposition (age, concerns about effective parenting). Plans to stop birth control after birthday without informing partner, believes he would eventually accept. Symptoms Recap: Sleep Disturbance (difficulty falling asleep, excessive sleep duration, despite medication adjustments); Emotional Conflict (guilt, anxiety related to desire for child against partner's wishes); Family Concerns (worry about father's care, potential relocation, impacting living situation).",
+        "objective": "The client appeared appropriately dressed and groomed. Behavior was engaged with consistent eye contact. Speech was articulate, spontaneous, and easy to follow, with appropriate tone and volume. Affect was congruent, shifting appropriately between reflective and contemplative. Thought process was organized. No evidence of psychomotor agitation or disorganized thinking. Judgment appeared sound. No SI, HI, AH, or VH reported or observed.",
+        "social": "Navigating relationship dynamics regarding family planning.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Bipolar Disorder, Sleep Disturbance, Emotional Conflict.",
+        "plan": "Assessment: Navigating complex interplay of emotional, relational, practical concerns (desire for child, partner's reluctance, guilt, past fertility challenges). Internal conflict (respecting partner's wishes vs. personal aspiration). Processing past fertility challenges (irregular cycles, fibroids). Considering impact of pregnancy on relationship/future plans. Reflecting on familial dynamics (father's health, potential relocation). Treatment Progress: Insight into emotional state/relational dynamics, openly discussing plans/guilt. Resilience in addressing past fertility challenges, actively considering practical steps. Thoughtful reflection about relationship/future aspirations. Plan: Continue regular therapy (supportive space for processing emotions, navigating plans). Explore strategies for guilt, foster open communication with partner. Monitor emotional well-being. Address emerging challenges (fertility journey). Encourage reflection on relational dynamics/long-term goals.",
+        "mss": "Not applicable.",
+        "medications": "Trazodone (increased dosage), birth control.",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 6,
+      "encounter_date": "2026-02-11",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Chief Complaint: Persistent anxiety, financial strain, sleep disturbances affecting daily life. Significant tension, waking up drenched in sweat. Problems Discussed: Ongoing stress from chaotic substitute teaching assignments, household budgeting challenges, supporting goddaughter (autism). Frustration with frequent monetary requests from partner's family/goddaughter. Concerns about partner's financial priorities. Managing grocery expenses, tension around setting boundaries. Anxiety from trapping/relocating stray cats (neighborhood conflicts, loss of equipment). Uncertainty about upcoming psychiatric care (provider turnover). Anxiety regarding disability claim/hearing. Reduced work hours. Wish to improve household organization, reduce stress, engage in self-care (cleaning, gym visits, pets). Symptoms Recap: Anxiety (ongoing, moderate to severe; worsened over past week; persistent tension, rapid speech, difficulty organizing thoughts, preoccupation with stressors); Sleep disturbance (recent onset, several days; moderate impact; night sweats, tense dreams, waking drenched, difficulty staying warm); Muscle tightness (recent, several days; moderate severity; associated with anxiety, required Klonopin for relief); Financial stress (persistent; considerable functional impact; budgeting, supporting goddaughter, household expenses); Caregiver burden (chronic; moderate impact; responsibility for goddaughter, monetary requests, boundary difficulties); Occupational stress (ongoing; moderate; chaotic substitute teaching, difficult classroom management, work uncertainty); Cat-related stress (recent, ongoing; moderate; preoccupation with trapping/relocating, neighborhood conflicts, equipment loss).",
+        "objective": "Appearance & Behavior: Appropriate hygiene/dress, cooperative, engaged. Goal-directed behavior, occasional animated gestures. Normal motor activity. Speech: Rapid/pressured at times (stressful events, financial concerns). Volume/prosody normal, content occasionally tangential/detailed. Eye Contact: Adequate. Mood & Affect: Tension/anxiety, frustration. Affect congruent, ranging from flat to mild anxiety/animation. Humor/light-hearted demeanor at times. Thought Process: Logical/goal-directed, sometimes circumstantial/tangential. Reasoning/organization intact. Thought Content: No SI, HI, delusions. Realistic concerns. Perception: No perceptual disturbances/hallucinations. Cognition: Fully oriented. Memory/attention intact. Insight & Judgment: Good insight (stressors, coping, impact of anxiety). Judgment intact (boundary-setting, financial planning, seeking help).",
+        "social": "Caregiver burden for goddaughter. Occupational stress from substitute teaching.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Anxiety, Sleep disturbance, Muscle tightness, Financial stress, Caregiver burden, Occupational stress.",
+        "plan": "Assessment: Continues moderate to severe anxiety, sleep disruption, muscle tension (financial strain, caregiver burden, occupational stress). Engaged in treatment, insight, motivated. Medication adherence adequate (Klonopin PRN). Increased confidence in work/classroom management. Uncertainty regarding psychiatric care/disability proceedings. Low risk. Risk Assessment: Self-harm: None reported. Harm to others: None reported. Psychosis: None observed. Substance relapse: None reported. Non-adherence to medication: None; Klonopin used as prescribed. Protective factors: Understanding of stressors, active therapy, supportive partner, proactive coping, motivation for self-care. No acute risks. Treatment Progress: Improved classroom management, increased confidence in substitute teaching. Communicated financial boundaries with partner. Identified practical coping strategies. Ongoing challenges: persistent anxiety, sleep disturbance, muscle tension, preoccupation with cat responsibilities. Motivated/engaged. No adjustments to treatment plan beyond encouraging coping/monitoring. Plan: Next session focus: Review anxiety management, sleep hygiene, boundary-setting; address psychiatric care transition, disability claim. Homework: nightly symptom log, budgeting worksheet, phone reminders for stress, relaxation techniques, self-care. Referrals: Follow up with psychiatrist for medication management; contact lawyer about disability hearing updates. Safety: Monitor for worsening anxiety/sleep disturbances; inform clinician of new symptoms/risks.",
+        "mss": "Muscle tightness (associated with anxiety, required Klonopin for relief).",
+        "medications": "Klonopin (clonazepam) as needed for acute anxiety and muscle tightness.",
+        "referrals": "Follow up with psychiatrist for medication management; contact lawyer about updates regarding the disability hearing."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 7,
+      "encounter_date": "2026-02-18",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Chief Complaint: Worsening depression and emotional distress related to workplace demotion and perceived unfair treatment. Demoted to one-person property, experienced significant depression. Problems Discussed: Emotional impact of workplace demotion (betrayal, loss, depression after transfer). Reflected on strained relationships with coworkers/management, perceived targeting, loss of work files/recognition. Ongoing irritability/anxiety, managed through medication and withdrawal for alone time. Explored relationship dynamics with partner/child (efforts to improve communication/intimacy). Financial stress/uncertainty about upcoming court date for disability benefits (budgeting, loss of savings, rent). Similarities to previous episodes of mood instability/hospitalization, apprehension about negative cycles. Emphasized privacy/safety. Symptoms Recap: Depressed mood (marked worsening since workplace demotion; sleeping during lunch, neglecting self-care, significantly depressed); Irritability (frequent, sometimes intense; triggered by minor stressors; managed with Klonopin and withdrawal; breakthrough in recognizing early signs); Anxiety (persistent, especially regarding legal proceedings, finances, employment; worry, tension, avoidance of triggering environments); Sleep disturbance (nightmares, difficulty resting after triggers; not fully explored); Trauma-related symptoms (avoidance of locations associated with workplace trauma; physical agitation, nightmares); Financial stress (ongoing, uncertainty about rent/budgeting); Relationship distress (past conflict/communication challenges, current improvement in intimacy/mutual support); Residual symptoms (mood instability, difficulty focusing, functional impairment related to bipolar disorder, ongoing despite medication).",
+        "objective": "Appearance: Articulate, detailed, organized; occasionally visibly upset/agitated when discussing work loss. Behavior: Calm/reflective mostly; rapid, pressured speech, strained voice during emotionally charged topics. Mood/Affect: Dysphoric and congruent with reported depression; tense/anxious when discussing stress (finances, legal matters); positive affect/relaxed tone when describing progress in personal relationships. Speech: Coherent, logical, goal-directed; occasional rapid speech during agitation. Thought process: Logical, organized, insightful; no disorientation/psychosis. Thought content: No current SI/HI; past fabrication of suicide attempt noted as means to access care; no delusions/perceptual disturbances. Orientation/Cognition: Fully oriented; appropriate insight/judgment. No overt risk behaviors/substance use observed.",
+        "social": "Relationship dynamics improved (intimacy/mutual support). Financial uncertainty impacting mood.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Depressed mood, Irritability, Anxiety, Sleep disturbance, Trauma-related symptoms, Financial stress.",
+        "plan": "Assessment: Pronounced depressive symptoms, irritability, anxiety (workplace demotion, loss of professional identity, financial/legal stressors). Improved relationship dynamics (protective factor). Good insight into triggers/coping needs. Uses medication/withdrawal strategies. No acute risk behaviors/psychosis observed; previous suicidal behavior intentionally exaggerated, requires monitoring. Treatment adherence stable. Risk Assessment: Denied current SI/HI, intent, plan. Past fabrication of suicide attempt to obtain emergency care, but denied current risk. No risk behaviors, substance use, psychosis. Protective factors: strong motivation for therapy, insight into triggers, supportive relationship, coping strategies. Overall low risk, but ongoing monitoring indicated. Treatment Progress: Increased insight into emotional triggers, improved use of coping strategies (medication, withdrawing). Progress in relationship dynamics (intimacy, mutual support). Financial stress/legal uncertainty remain challenges, but actively budgeting/tracking expenses. No setbacks in adherence/engagement. No adjustments to treatment plan, but continued monitoring. Plan: Continue evidence-based interventions (CBT for mood/anxiety). Reinforce strategy of pausing before medication, consistent use of withdrawal/self-care for irritability. Support communication skills/positive reinforcement in relationships. Monitor financial stress/legal proceedings. Follow up on sleep difficulties, privacy concerns, emerging SI/risk behaviors. Review medication adherence/side effects. Next session: coping with court date, financial anxiety, strategies.",
+        "mss": "Not applicable.",
+        "medications": "Klonopin (mentioned for irritability management).",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 8,
+      "encounter_date": "2026-02-25",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "The client expressed ongoing difficulty with sleep, primarily due to racing thoughts at night, which she attributes to her bipolar disorder and medication challenges. She reported significant trouble sleeping, describing her mind as active and restless, and mentioned mentally composing several chapters of a book during these episodes. She discussed her struggles with sleep hygiene despite maintaining a structured nighttime routine. She also reflected on her history of managing her bipolar disorder and the challenges of medication adjustments, noting that increasing or changing medications often comes with trade-offs. She expressed frustration with the stigma surrounding mental health and shared her journey toward accepting her limitations, describing the realization that she is disabled and emphasizing that accepting this is not the same as giving up. She shared her recent experiences volunteering at an animal shelter, which she described as fulfilling and providing her with a sense of purpose and joy. She also discussed relational dynamics with her partner, particularly around expectations and communication, and described a recent disagreement where she prioritized her mental health by setting boundaries.",
+        "objective": "General Appearance and Behavior: Well-groomed, appropriately dressed. Calm demeanor overall, mentioned moments of irritability during week. Relaxed posture, engaged actively. No peculiar behaviors. Motor Activity: None. Speech: Clear, coherent, appropriately paced. Steady tone/volume, no pressured/slowed speech. Eye Contact: Consistent. Mood: Generally good during week, occasional irritability. Satisfaction with volunteer work, finding purpose/joy. Affect: Congruent, range of emotional expressions (humor, frustration, calmness). Thought Process: Organized/logical. Racing thoughts at night (creative ideas/curiosity), denied disorganized thinking during session. Cognition: Intact cognitive function (memory, concentration, attention). Oriented. Difficulty sleeping with mind racing, no daytime cognitive impairments. Insight & Judgment: Good insight into condition (acceptance of disability, understanding limitations). Thoughtful judgment (managing irritability by removing self, taking medication). SI/HI/AH/VH: None.",
+        "social": "Volunteering at animal shelter. Relationship strain regarding expectations.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Racing thoughts, Sleep disturbances, Irritability, Fatigue.",
+        "plan": "Assessment: Significant sleep disturbances (racing thoughts, bipolar disorder, medication challenges). Structured routine/meds not consistently effective. Strong insight, resilience, adaptability. Sleep disruptions impact energy/irritability. High self-awareness/acceptance (protective factor). Relational dynamics with partner (occasional stress, proactive boundary setting). Low risk. Risk Assessment: Denied current self-harm/harm to others. No significant anxiety/depressive symptoms beyond irritability/sleep disturbances. No immediate risk factors. Treatment Progress: Progress in accepting diagnosis, adapting lifestyle. Actively engaging in meaningful activities (volunteering). Strong insight, motivated to address sleep challenges. Resilience in managing relational stressors/setting boundaries. Plan: Continue sleep hygiene/med regimen, monitor Trazodone/Lamotrigine effectiveness. Psychoeducation on racing thoughts, relaxation techniques (mindfulness, guided imagery). Journaling/notepad for racing thoughts. Approach partner for conversation when stable/rested. Revisit medication management, consult prescribing provider if sleep persists. Continue fulfilling activities. Next session scheduled.",
+        "mss": "Not applicable.",
+        "medications": "Trazodone, Lamotrigine.",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 9,
+      "encounter_date": "2026-03-04",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, LPC-S, NCC, ACS, M.Ed.",
+      "visit_type": "Psychotherapy, 53 min",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Chief Complaint: Ongoing stress/anxiety related to upcoming legal proceedings, financial uncertainty, difficulties with co-parenting. Overwhelmed by erratic behavior of partner's child's mother (tension, concerns about co-parenting stability). Worries about mental health (fatigue, sleep disturbances). Problems Discussed: Updates regarding legal case (preparations for court, gathering records). Frustration obtaining documentation from previous psychiatrist. Worries about employment history/financial situation for proceedings. Financial stability precarious (relying on mother's support), concerns about repayment if case unsuccessful. Ongoing challenges in co-parenting with partner's child's mother (unpredictable/irrational behavior, loaded gun in vehicle, resistance to child's ADHD). Worried about being denied access to child, preparing for legal action. Relationship difficulties with partner (communication, shared activities, disagreement about watching TV). Symptoms Recap: Stress and Anxiety (persistent worry/emotional strain related to legal proceedings, financial instability, co-parenting challenges); Fatigue and Sleep Issues (tired throughout day, struggling with restful sleep, despite occasionally sleeping longer); Emotional Impact (triggered/invalidated by past interactions with previous psychiatrist, contributed to discontinuing treatment); Relationship Strain (tension with partner, stemming from communication challenges/external stressors).",
+        "objective": "The client appeared appropriately dressed and groomed. No abnormalities in posture or behavior were noted. She engaged actively throughout the discussion, demonstrating fluid transitions between topics and maintaining consistent eye contact. Speech was articulate, spontaneous, and easy to follow, with appropriate tone and volume. Mood appeared subdued yet reflective, with moments of engagement. Affect was congruent with her verbal descriptions. Thought process was organized, and the client expressed herself clearly. Insight into her emotional state and challenges was evident. Cognitive abilities appeared intact, with functional memory and concentration. Judgment was sound. No SI, HI, AH, or VH reported or observed.",
+        "social": "Co-parenting challenges. Financial reliance on mother. Legal case preparations.",
+        "lab_results": "None mentioned.",
+        "procedures": "None mentioned.",
+        "imaging_findings": "None mentioned.",
+        "diagnoses": "Stress and Anxiety, Fatigue and Sleep Issues, Emotional Impact, Relationship Strain.",
+        "plan": "Assessment: Heightened stress/anxiety (legal proceedings, financial instability, co-parenting challenges). Compounded by mental health/sleep concerns. Resilience, but struggles with fatigue/emotional overwhelm. Apprehension about disability status/legal implications. Treatment Progress: Initiative in addressing mental health (weekly therapy, open communication). Recently started higher dose of mood stabilizer, monitoring closely. Committed to process, scheduled follow-up. Engages in activities promoting emotional well-being (exercise, outdoors). Plan: Continue weekly therapy (processing anxiety, coping strategies for legal/co-parenting). Monitor effects of increased mood stabilizer. Techniques to improve sleep quality/reduce fatigue. Encourage physical activity/outdoor engagement. Guidance on disability status/legal implications.",
+        "mss": "Not applicable.",
+        "medications": "Mood stabilizer (dosage increased, specific name not listed in this note but Lamotrigine noted in prior records).",
+        "referrals": "None mentioned."
+      },
+      "consensus_count": 6,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b",
+        "qwen3.5-397b"
+      ]
+    },
+    {
+      "index": 10,
+      "encounter_date": "2025-10-19",
+      "facility_name": "Harmony Behavioral & Counseling Services, LLC",
+      "provider_name": "Renata Whitfield-Barnes, M.Ed, NCC, ACS",
+      "visit_type": "Intake",
+      "must_extract": "may_extract",
+      "key_fields": {
+        "subjective": "Patient seeking individual therapy as she has no neutral person to discuss personal problems with. Recently hospitalized for anxiety and bipolar symptoms. Goals: talk through problems, dissect feelings/thoughts, learn tools to calm down and manage emotions/thoughts. Unemployed, seeking disability. Previously worked as residential property manager for 13 years, demoted in 2023, left for IOP. Then real estate agent, data entry for mom's law office (stressful, couldn't meet deadlines). Not working since July, underemployed since Jan 2023. Experienced in past 6 months: Increased appetite, difficulty sleeping, excessive sleep, low motivation, isolation, fatigue/low energy, low self-esteem, depressed mood, tearful/crying spells, anxiety, fear, hopelessness, panic.",
+        "objective": "Not applicable.",
+        "social": "Lives with fianc\u00e9 and dog; fianc\u00e9's son visits some nights. Dating fianc\u00e9 for 10 years, official for 9. Family history of mental illness (Yes). Hospitalized for psychiatric issue (Yes). Seen mental health professional before (Yes). Denies alcohol, recreational drugs, suicidal thoughts, attempted suicide, thoughts/urges to harm others.",
+        "lab_results": "Not specified.",
+        "procedures": "Not specified.",
+        "imaging_findings": "Not specified.",
+        "diagnoses": "Not explicitly stated on the form, but patient reports recent hospitalization for \"anxiety and bipolar symptoms\" and family history of mental illness.",
+        "plan": "Not applicable.",
+        "mss": "Not specified.",
+        "medications": "Lamotrigine 300mg (bipolar mood stabilization), Topiramate 200mg (bipolar mood stabilization), Sertraline 50mg (bipolar depression), Spironolactone 25mg (acne and hypertension), Jencycla 0.35mg (progesterone only birth control pill).",
+        "referrals": "Primary care physician: Dr. Nathan Bradshaw, Family Care Magnolia Clinic. Prescribing MD: Dr. Priya Ramanathan (will have new one from Lakeview after Oct 30)."
+      },
+      "consensus_count": 1,
+      "consensus_models": [
+        "gemini-2.5-flash"
+      ]
+    },
+    {
+      "index": 11,
+      "encounter_date": "1986-05-16",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 12,
+      "encounter_date": "2025-12-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 13,
+      "encounter_date": "2026-01-06",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 14,
+      "encounter_date": "2026-01-10",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 15,
+      "encounter_date": "2026-01-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 16,
+      "encounter_date": "2026-02-05",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 17,
+      "encounter_date": "2026-02-20",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 18,
+      "encounter_date": "2026-03-05",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    }
+  ],
+  "total_noise": 8
+}

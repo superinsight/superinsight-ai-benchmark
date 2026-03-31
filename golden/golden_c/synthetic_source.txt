@@ -1,0 +1,516 @@
+PATIENT: DOE, JOHN A.
+MRN: 987654321
+DOB: XX/XX/XXXX
+CLAIM#: PA-2025-XYZ-001
+RECORD COMPILATION DATE: 03/15/2025
+
+**EXHIBIT A: Bridgewater Psychiatry Walnut Street - Progress Notes & Correspondence**
+
+**Provider Note**
+Patient: DOE, JOHN A. (MRN: 987654321)
+Date of Service: May 2, 2024
+Attending: Liu, Andrew K, MD
+Encounter Type: Telemedicine / Behavioral Health Outpatient Clinic Follow-up
+
+SUBJECTIVE:
+This is a return visit for medication management. The patient, accompanied by his mother, reports that his psychiatric symptoms have been stable since his last appointment in November of 2023. He is currently unemployed but is actively searching for a job while taking classes to become an electrician. His sleep is described as "ok," typically from around midnight until 12:00 or 1:00 PM. He denies any recent changes in appetite but notes a weight increase of three to four pounds. Exercise is intermittent. The patient denies experiencing any side effects from his clozapine rnedication. He continues to endorse chronic delusions, specifically thought broadcasting and thought insertion. He denies any suicidal or homicidal ideation.
+
+0BJECTIVE:
+Mental Status Examination: Grooming is appropriate, and a fair effort has been made to his appearance. Eye contact was fair. There was no evidence of psychomotor agitation or retardation, and no choreoathetoid movements were observed. Speech was of a normal rate and rhythm. He described his mood as "Ok." His affect was predominantly blunted, though it was intermittently reactive. Thought process was linear and goal-directed. The content of his thoughts includes chronic delusions, with endorsement of thought broadcasting and thought insertion. He denies suicidal or homicidal ideation. Perception: The patient denies auditory or visual hallucinations and does not appear to be responding to internal stimuli. Cognition: He is alert and oriented. Insight is judged to be fair to limited, and judgment is fair. A note from Dr. Fischer estimated his weight at 218 lbs. He is a pleasant man, but his weight gain is again noted. His speech is mostly expressive. No EPS noted on exam. His last recorded weight on 12/19/23 was 231 lbs, with a BMI of 34.11 kg/m².
+
+SOCIAL HISTORY:
+Patient is currently out of work and is pursuing vocational training in electrical work. He resides with his parents. He has expressed interest in applying for SSI benefits. His primary social outlet is online gaming.
+
+ASSESSMENT/PLAN:
+1.  Schizophrenia, Paranoid type (F20.0): Symptoms are chronic but stable. We will continue the current regimen of clozapine at 250 mg daily. Discussed potential benefits of considering Caplyta in the future.
+2.  Hyperlipidemia: This is being managed by his PCP.
+3.  Long term current use of antipsychotic medication (Z79.899).
+4.  Metabolic Monitoring: Orders were placed for a Hemoglobin A1c and a Lipid Panel to assess for metabolic syndrome. He will need to continue monthly CBC checks for ANC monitoring as per clozapine protocol.
+5.  Counseling: Provided psychoeducation regarding lifestyle modifications for weight management, including encouragement to increase exercise and adopt a healthier diet. The possibility of a ketogenic diet was mentioned. Encouraged him to follow up with the metabolic specialist again.
+6.  Follow-up: Patient to return to clinic in 5-6 months for continued management. Counseled on clozapine side effects.
+
+Medications:
+- Clozapine 100 mg tablet, take 2.5 tablets by mouth daily.
+- Omega-3 fatty acids 1000 mg capsule, take 2 capsules by mouth daily.
+
+Referrals:
+- Continue follow-up with PCP for hypertriglyceridernia.
+- Follow up with metabolic specialist as previously recommended.
+
+Electronically Signed By: Liu, Andrew K, MD on 05/02/2024 15:45 EDT
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 1 of 12
+--- PAGE BREAK ---
+**Provider Note**
+Patient: DOE, JOHN A. (MRN: 987654321)
+Date of Service: 2024-11-14
+Attending: Nair, Kavitha, MD
+Encounter Type: Telemedicine / Psychiatry Follow Up
+
+S: Patient presents for a return visit and medication management. He indicates a period of stability, reporting no significant changes to his mental health or overall life circumstances. He continues to live at home with his parents and is enrolled in classes for an electrician certification. He is not currently employed. His sleep and mood are unchanged. He does report experiencing occasional, fleeting paranoid thoughts a couple of times per month, involving feelings of being watched or monitored. He notes some morning grogginess which he attributes to the clozapine but denies any other side effects. He explicitly denies any suicidal or homicidal ideation.
+
+O: Mental Status Exam: The patient's attention to hygiene and grooming is appropriate. No abnormal motor activity was observed. He was cooperative and polite during the interview. His speech was normal in rate and rhythm. He described his mood as "Fine." His affect was noted to be mildly blunted but reactive. His thought process was linear, organized, and goal-directed. Regarding thought content, he denies SI/HI. Mild paranoia was noted, but there were no other overt delusions or grandiosity. He denies any auditory or visual hallucinations. He is grossly oriented. Insight and judgment are both considered fair. On examination, he is euthymic with a slightly blunted affect. No AVH/delusions, no RIS, no SI/HI.
+
+Social Hx: No problematic use of alcohol, cannabis, or nicotine was reported.
+
+A/P:
+1.  Paranoid schizophrenia (CMS-HCC) F20.0: Stable on current treatment.
+2.  Long term current use of antipsychotic medication Z79.89.
+
+Plan:
+- Continue clozapine 250 mg by mouth daily. We will monitor his response and tolerability.
+- An order will be placed to obtain a Clozapine level with his next set of labs.
+- Continue monthly ANC monitoring.
+- Patient to return for follow-up in approximately 6 months.
+- Provided psychoeducation. Encouraged continued follow-up with his PCP for general health maintenance.
+- The risks and benefits of clozapine were discussed. The current treatment plan remains appropriate for outpatient care. He is not deemed to be at any acute risk at this time. Will check cloz level and continue to follow ANCs.
+
+Medications:
+- Clozapine 250 mg tablet, take 2.5 tablets by mouth daily at bedtime for 180 days.
+
+Electronically Signed By: Nair, Kavitha, MD on 11/14/2024 11:22 EST
+---
+**Telephone Encounter Note**
+Patient: DOE, JOHN A. (MRN: 987654321)
+Date of Call: 27-Dec-24
+Provider: Nair, Kavitha, MD
+
+A telephone call was received from the patient's mother regarding recent 1aboratory results. She stated that the clozapine level came back with a value slightly above 600.
+Based on this information, a decision was made to adjust the patient's medication. The daily dose of clozapine has been reduced from 250 mg to 225 mg.
+The plan is to recheck the clozapine level in one month, to be drawn at the same time as his next scheduled ANC. Mother verbalized understanding of the plan.
+
+Electronically Signed By: Nair, Kavitha, MD on 12/27/2024 14:10 EST
+---
+**Orders Only Encounter**
+Patient: DOE, JOHN A. (MRN: 987654321)
+Date of Service: 2025-01-27
+Provider: Liu, Andrew K, MD
+
+Purpose: Lab Review
+Recent lab results for HEME PROFILE + ELECT DIFF were reviewed and acknowledged by the provider. No additional clinical findings or changes to the plan of care were documented for this date.
+Diagnoses associated with this order: Paranoid schizaphrenia (CMS-HCC) [F20.0], Long term current use of antipsychotic medication [Z79.899].
+
+Electronically Signed By: Liu, Andrew K, MD on 01/28/2025 09:00 EST
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 2 of 12
+--- PAGE BREAK ---
+**EXHIBIT B: Bridgewater Heart and Vascular Center Briarwood - Consultation Notes**
+
+**Bridgewater University Health System - Specialist Consultation**
+Patient Name: Doe, John A.
+MRN: 987-654-321
+Date of Visit: December 17, 2024
+Referring Provider: Reyes, Gabriela, MD
+Consulting Provider: Brennan, Thomas E, MD
+
+This office visit is a follow-up appointment stemming from an original referral for a more detailed evaluation of hyperlipidemia (HL). The patient attended the appointment with his mother.
+
+ASSESSMENT:
+1.  Combined hyperlipidemia.
+2.  Class 1 obesity with serious comorbidity, body mass index (BMI) of 34.0 to 34.9 in an adult, unspecified obesity type.
+
+PLAN:
+Recommendations were provided to the patient and his mother for the management of his combined hyperlipidemia and obesity. A detailed discussion was had regarding dietary modification, the importance of regular physical activity, and potential future pharmacologic interventions if lifestyle changes are not sufficient. Patient and mother verbalized understanding. Follow up as needed.
+
+Electronically Signed: Thomas E Brennan, MD
+12/17/2024 16:30
+---
+**Orders Only Encounter**
+Patient Name: Doe, John A.
+MRN: 987-654-321
+Date of Service: Jan 7, 2025
+Ordering Provider: Brennan, Thomas E, MD
+
+New laboratory orders have been entered into the electronic health record for this patient.
+Primary Dx: Combined hyperlipidemia (E78.2)
+Secondary Dx: Insulin resistance (R73.03)
+
+Order Details:
+- LIPID PANEL W/ REFLEX TO DIRECT LDL
+- INSULIN, FASTING
+- COMPREHENSIVE METABOLIC PANEL
+
+Order transmitted to preferred lab. Patient to complete prior to next follow-up.
+
+Authenticated by: Brennan, Thomas E, MD
+01/07/2025 11:48
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 3 of 12
+--- PAGE BREAK ---
+**EXHIBIT C: Bridgewater Adolescent and Young Adult Medicine Briarwood - Clinical Notes**
+
+**Telephone Encounter**
+Patient: Doe, John A.
+MRN: 987654321
+Date: 12/26/2024
+Provider on Call: Reyes, Gabriela, MD
+Documented by: Cardenas, Rosa M, LPN
+
+A telephone message was received from the patient. He expressed a concern regarding hair loss. A message was routed to Dr. Reyes's clinical inbox for review and to determine if an appointment is needed. Patient was advised we would call him back.
+---
+**Office Visit Progress Note**
+Patient: Doe, John A. (MRN: 987654321)
+Date of Service: February 10, 2025
+Provider: Reyes, Gabriela, MD
+
+CHIEF COMPLAINT: Hair loss.
+
+HISTORY OF PRESENT ILLNESS:
+The patient, who is here today with his mother, presents with a primary concern of hair loss. He reports this has been occurring for some time. He has attempted over-the-counter remedies including rosemary oil and topical minoxidil, but he has not noticed any benefit from these interventions. There is a family history of receding hair lines on his mother's side and male pattern baldness on his father's side.
+
+REVIEW OF SYSTEMS / PAST MEDICAL HISTORY:
+- Hypertriglyceridemia: He is being followed by Dr. Brennan for this condition. He is currently off Lovaza and is focusing on diet and exercise for management.
+- H/o parnoid schizophrenia: He is followed by Bridgewater psychiatry for this. His primary rnedication is clozapine, which requires monthly CBC monitoring. He mentioned some recent challenges with getting his clozaril prescription filled.
+
+SOCIAL HISTORY:
+The patient is in the process of applying for SSI and is working with an attorney, Eleanor Caldwell.
+
+OBJECTIVE:
+Vitals: Blood pressure was 111/76 mmHg. Pulse was 84 bpm. Temperature was 97.6 F. Weight was 227 lbs (103 kg), with a calculated BMI of 32.39 kg/m². SpO2 was 97% on room air.
+Physical Exam:
+- Mouth/Throat: Mucous membranes are moist.
+- Eyes: Conjunctivae appear normal.
+- Cardiovascular: Heart rate and rhythm are normal. Heart sounds are normal.
+- Pulmonary: Respiratory effort is normal, with normal breath sounds auscultated bilaterally.
+- Skin: Skin is warm and dry, with no rash noted. Examination of the scalp reveals a receding hair line, anteriorly. There are no bald patches.
+- Neurological: No focal deficits identified.
+- Psychiatric: Mood and behavior appear normal.
+
+ASSESSMENT & PLAN:
+1.  Hair loss (L65.9) (primary dlagnosis): Given the family history and presentation, this is likely androgenic alopecia. We will begin a trial of oral minoxidil at a dose of 1.25 mg daily. A follow-up appointment will be scheduled in 2 months to evaluate for any response to treatment.
+2.  Hypertriglyceridemia (E78.1): Reinforced the importance of lifestyle factors, including diet and exercise, as discussed by Dr. Brennan.
+3.  Paranoid schizophrenia (F20.0): Management of his clozapine and associated monitoring will continue under the direction of his Bridgewater psychiatry team.
+4.  Health Maintenance: Patient to return in approximately 2 years for a general follow-up and medication check, or sooner as needed.
+
+Electronically Signed: Gabriela Reyes, MD
+Date: 2025-02-10 14:51
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 4 of 12
+--- PAGE BREAK ---
+**EXHIBIT D: Consolidated Laboratory Reports**
+
+**National Clinical Laboratories**
+Patient: DOE, JOHN A.
+MRN: 987654321
+DOB: XX/XX/XXXX
+Ordering MD: Liu, Andrew K, MD
+
+**Test Name: LIPID SCREEN**
+Collection Date: 05/02/2024 10:30
+Result Date: 05/03/2024 08:15
+Specimen: SERUM
+
+| Test Name             | Result | Flag | Reference Range      | Units   |
+|-----------------------|--------|------|----------------------|---------|
+| Total Cholesterol     | 220    | H    | <200                 | mg/dL   |
+| Triglycerides         | 397    | H    | <150                 | mg/dL   |
+| HDL Cholesterol       | 27     | L    | >40                  | mg/dL   |
+| VLDL Cholesterol Cal  | 71     | H    | 5-40                 | mg/dL   |
+| LDL Cholesterol Calc  | 122    | H    | <100                 | mg/dL   |
+*Comment: LDL is a calculated value. Calculation is invalid if triglycerides > 400 mg/dL.*
+
+**Test Name: HEMOGLOBIN A1C**
+Collection Date: 05/02/2024 10:30
+Result Date: 05/03/2024 09:00
+Specimen: WHOLE BLOOD
+
+| Test Name       | Result | Flag | Reference Range | Units |
+|-----------------|--------|------|-----------------|-------|
+| HEMOGLOBIN A1C  | 5.2    |      | 4.8 - 5.6       | %     |
+*Interpretation: Normal, non-diabetic range.*
+---
+**Allied Diagnostics - Patient Report**
+Patient: DOE, JOHN A.
+Acct #: 456-7890
+MRN: 987654321
+DOB: XX/XX/XXXX
+Ordering MD: Nair, Kavitha, MD
+
+**Test Name: HEME PROFILE + ELECT DIFF (CBC/Differential)**
+Collection Date: 11/14/2024 09:45
+Result Date: 11/14/2024 16:20
+Specimen: WB (EDTA)
+
+| Component               | Result | Reference Range | Units |
+|-------------------------|--------|-----------------|-------|
+| WBC                     | 5.3    | 4.0 - 11.0      | K/uL  |
+| RBC                     | 5.59   | 4.50 - 5.90     | M/uL  |
+| Hemoglobin              | 15.9   | 13.5 - 17.5     | g/dL  |
+| Hematocrit              | 47.4   | 41.0 - 53.0     | %     |
+| MCV                     | 85     | 80 - 100        | fL    |
+| MCH                     | 28.4   | 27.0 - 33.0     | pg    |
+| MCHC                    | 33.5   | 32.0 - 36.0     | g/dL  |
+| RDW                     | 12.7   | 11.5 - 14.5     | %     |
+| Platelets               | 201    | 150 - 450       | K/uL  |
+| Neutrophils %           | 64     | 42 - 75         | %     |
+| Lymphs %                | 23     | 20 - 45         | %     |
+| Monocytes %             | 9      | 2 - 10          | %     |
+| Eos %                   | 2      | 0 - 6           | %     |
+| Basos %                 | 1      | 0 - 2           | %     |
+| Neutrophils (Absolute)  | 3.5    | 1.8 - 7.7       | K/uL  |
+| Lymphs (Absolute)       | 1.2    | 1.0 - 4.8       | K/uL  |
+| Monocytes (Absolute)    | 0.5    | 0.1 - 0.8       | K/uL  |
+| Eos (Absolute)          | 0.1    | 0.0 - 0.5       | K/uL  |
+| Baso (Absolute)         | 0.0    | 0.0 - 0.2       | K/uL  |
+| Immature Granulocytes % | 1      | 0 - 1           | %     |
+| Immature Grans (Abs)    | 0.0    | 0.0 - 0.1       | K/uL  |
+*ANC (Absolute Neutrophil Count) is within normal limits for clozapine monitoring.*
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 5 of 12
+--- PAGE BREAK ---
+**EXHIBIT D: Consolidated Laboratory Reports (Cont.)**
+
+**Allied Diagnostics - Patient Report**
+Patient: DOE, JOHN A.
+Acct #: 456-7890
+MRN: 987654321
+DOB: XX/XX/XXXX
+Ordering MD: Liu, Andrew K, MD
+
+**Test Name: HEME PROFILE + ELECT DIFF (CBC/Differential)**
+Collection Date: 01/27/2025 11:00
+Result Date: 01/27/2025 18:45
+Specimen: WB (EDTA)
+
+| Component               | Result | Reference Range | Units |
+|-------------------------|--------|-----------------|-------|
+| WBC                     | 4.4    | 4.0 - 11.0      | K/uL  |
+| RBC                     | 5.47   | 4.50 - 5.90     | M/uL  |
+| Hemoglobin              | 15.5   | 13.5 - 17.5     | g/dL  |
+| Hematocrit              | 46.3   | 41.0 - 53.0     | %     |
+| MCV                     | 85     | 80 - 100        | fL    |
+| MCH                     | 28.3   | 27.0 - 33.0     | pg    |
+| MCHC                    | 33.5   | 32.0 - 36.0     | g/dL  |
+| RDW                     | 12.8   | 11.5 - 14.5     | %     |
+| Platelets               | 194    | 150 - 450       | K/uL  |
+| Neutrophils %           | 58     | 42 - 75         | %     |
+| Lymphs %                | 31     | 20 - 45         | %     |
+| Monocytes %             | 7      | 2 - 10          | %     |
+| Eos %                   | 2      | 0 - 6           | %     |
+| Basos %                 | 1      | 0 - 2           | %     |
+| Neutrophils (Absolute)  | 2.6    | 1.8 - 7.7       | K/uL  |
+| Lymphs (Absolute)       | 1.4    | 1.0 - 4.8       | K/uL  |
+| Monocytes (Absolute)    | 0.3    | 0.1 - 0.8       | K/uL  |
+| Eos (Absolute)          | 0.1    | 0.0 - 0.5       | K/uL  |
+| Baso (Absolute)         | 0.0    | 0.0 - 0.2       | K/uL  |
+| Immature Granulocytes % | 1      | 0 - 1           | %     |
+| Immature Grans (Abs)    | 0.0    | 0.0 - 0.1       | K/uL  |
+*ANC (Absolute Neutrophil Count) is within normal limits for clozapine monitoring.*
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 6 of 12
+--- PAGE BREAK ---
+**EXHIBIT E: Administrative and Billing Records**
+
+**AETNA HEALTH - PRIOR AUTHORIZATION REQUEST**
+FAXED ON: 11/20/2024 10:05 AM
+FROM: Bridgewater Psychiatry Walnut Street
+TO: Aetna Pharmacy Benefits Management
+
+PATIENT NAME: DOE, JOHN A.
+PATIENT ID: 123456789
+DOB: XX/XX/XXXX
+REQUESTING PROVIDER: Nair, Kavitha, MD
+NPI: 1234567890
+
+DRUG REQUESTED: Clozapine (brand Clozaril) 100mg tablets
+QUANTITY: 75 tablets per 30 days
+DIAGNOSIS CODE: F20.0 (Paranoid Schizophrenia)
+
+CLINICAL JUSTIFICATION: Patient has a long-standing diagnosis of treatment-resistant schizophrenia. He has failed trials of multiple other antipsychotic agents. Clozapine is medically necessary for the management of his psychotic symptoms. Patient is enrolled in the Clozapine REMS program and undergoes required monthly ANC monitoring. Continuation of therapy is requested.
+
+STATUS: APPROVED
+APPROVAL #: PA-CLZ-98765
+VALID FROM: 12/01/2024
+VALID TO: 11/30/2025
+---
+**Bridgewater Health - Scheduling Communication Log**
+MRN: 987654321
+Date: 12/10/2024
+Time: 11:15 AM
+User: Wilson, T. (Scheduler)
+
+Note: Inbound call from patient's mother to schedule follow-up appointment with Dr. Brennan at the Briarwood Heart and Vascular Center. Patient was scheduled for 12/17/2024 at 16:00. Appointment confirmation sent via MyBridgewaterHealth portal.
+---
+**FAX COVER SHEET**
+
+DATE: January 16, 2025
+TO: Eleanor Caldwell, Esq. - Caldwell Law Offices
+FAX: 215-555-0199
+FROM: Bridgewater Health Information Management
+PHONE: 215-555-0123
+RE: Records Request for John A. Doe, MRN 987654321
+PAGES: 1 (this cover) + 25 pages of records
+
+MESSAGE:
+Per your signed authorization dated 01/15/2025, please find attached the requested medical records for the above-named patient for dates of service from 01/01/2024 to present. These records are being furnished for the patient's SSI application.
+
+CONFIDENTIALITY NOTICE: This facsimile contains confidential information.
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 7 of 12
+--- PAGE BREAK ---
+**Bridgewater Health - Patient Billing Inquiry**
+Account: 987654321
+Date of Inquiry: 06/15/2024
+Inquiry Type: Patient Call
+
+Summary: Patient's mother called regarding a statement dated June 1, 2024. She had questions about the patient responsibility portion for the lab services performed on 05/02/2024. Explained that the amount shown is after insurance processing and reflects her son's deductible and coinsurance for specialist lab services. Directed her to contact Aetna member services for details on her specific plan benefits. Call ended. No further action required from billing.
+---
+**AETNA HEALTH - Member Services Correspondence**
+Date: April 30, 2024
+Member: John A. Doe
+Member ID: 123456789
+
+Subject: Verification of Eligibility and Benefits
+
+This letter confirms that as of the date of this letter, John A. Doe is an active member of the Aetna Choice POS II plan. This verification is not a guarantee of payment. All services are subject to medical necessity review, plan limitations, and member eligibility on the date services are rendered. For specific coverage details, please refer to your plan documents or contact member services.
+---
+**Bridgewater Health - Provider Directory Update Notification**
+Date: July 1, 2024
+To: All Contracted Payers
+From: Bridgewater Health Credentialing Department
+
+Subject: Provider Roster Update - Q3 2024
+
+Please be advised of the following updates to the Bridgewater Health provider network directory. This information is effective immediately. Please update your systems to ensure accurate claims processing and member-facing directories.
+Additions:
+- Amy Chen, MD - Family Medicine, Cedarville
+Terminations:
+- David Park, PA-C - Orthopedics, Maplewood
+Location Changes:
+- Kavitha Nair, MD - Psychiatry. Primary practice location remains Bridgewater Psychiatry Walnut Street. Telehealth services expanded.
+
+This is an automated notification. Please do not reply.
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 8 of 12
+--- PAGE BREAK ---
+**Bridgewater Health - Patient Account Statement**
+Statement Date: 02/28/2025
+Account Number: 987654321
+Patient: DOE, JOHN A.
+Amount Due: $75.00
+
+Dear John A. Doe,
+
+This is a reminder regarding the outstanding balance on your account. Your prompt payment is appreciated.
+
+| Date of Service | Provider/Facility                               | Billed to Insurance | Patient Responsibility |
+|-----------------|-------------------------------------------------|---------------------|------------------------|
+| 12/17/2024      | Brennan, Thomas E, MD / Bridgewater Heart and Vascular  | Aetna               | $50.00 (Copay)         |
+| 02/10/2025      | Reyes, Gabriela, MD / Bridgewater Adol & Young Adult   | Aetna               | $25.00 (Copay)         |
+
+Total Outstanding Balance: $75.00
+
+Payment can be made via the MyBridgewaterHealth portal, by phone, or by returning the remittance slip below. If you have questions about this statement, please contact Patient Financial Services at 1-800-555-1234.
+---
+**MyBridgewaterHealth Secure Message**
+From: Doe, John A.
+To: Reyes, Gabriela, MD
+Sent: 12/26/2024 09:18 AM
+Subject: Question
+
+Hi Dr. Reyes, I am worried because I think my hair is falling out. What should I do?
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 9 of 12
+--- PAGE BREAK ---
+**EXHIBIT F: Imaging Reports**
+
+**Bridgewater Health - Department of Radiology**
+**Chest X-Ray Report**
+
+Patient Name: Doe, John A.
+MRN: 987654321
+Accession #: 55443322
+Date of Study: 08/19/2023
+Ordering Physician: Fischer, Nathan, MD
+
+EXAMINATION: CHEST, 2 VIEWS (PA AND LATERAL)
+
+CLINICAL HISTORY: 24-year-old male with cough. Rule out pneumonia.
+
+COMPARISON: None available.
+
+FINDINGS:
+The cardiomediastinal silhouette is within normal limits for size and contour. The pulmonary vasculature is unremarkable. The lungs are clear. There is no evidence of focal consolidation, pleural effusion, or pneumothorax.
+
+Visualized osseous structures of the thorax are intact and without acute abnormality. The soft tissues of the chest wall are unremarkable.
+
+IMPRESSION:
+No acute cardiopulmonary process.
+
+Electronically Signed:
+Mehta, Sunita, MD
+Radiologist
+Signed on: 08/19/2023 14:20
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 10 of 12
+--- PAGE BREAK ---
+**EXHIBIT G: Consent Forms**
+
+**Bridgewater Health - CONSENT FOR TREATMENT**
+
+Patient Name: John A. Doe
+MRN: 987654321
+
+1.  **General Consent for Care and Treatment:** I, the undersigned, voluntarily consent to receive medical care, testing, and treatment at facilities operated by the Trustees of Bridgewater University (Bridgewater Health). This includes routine diagnostic procedures, medical treatment, and nursing care that my attending physician or their designees (consultants, residents, physician assistants, nurses) may consider necessary or advisable.
+
+2.  **Acknowledgement of Patient Rights:** I acknowledge that I have been offered a copy of the Bridgewater Health Notice of Privacy Practices and the Patient's Bill of Rights.
+
+3.  **Financial Responsibility:** I understand that I am financially responsible for all charges not covered by my insurance or other third-party payers. I authorize direct payment of benefits to Bridgewater Health for services rendered.
+
+4.  **Release of Information:** I authorize Bridgewater Health to release any medical information necessary to process my insurance claims or as otherwise required by law.
+
+This consent is valid and will remain in effect for all my outpatient care unless I revoke it in writing.
+
+Signature of Patient: _________________________
+(Signature on file)
+Date: 01/05/2023
+---
+**Bridgewater Health - TELEHEALTH CONSENT**
+
+Patient Name: John A. Doe
+MRN: 987654321
+
+I hereby consent to engaging in telehealth services with my Bridgewater Health providers. I understand that "telehealth" includes the practice of health care delivery, diagnosis, consultation, treatment, transfer of medical data, and education using interactive audio, video, or data communications.
+
+I understand that telehealth may involve electronic communication of my personal medical information to other medical practitioners who may be located in other areas, including out of state.
+
+I understand that I have the right to withhold or withdraw my consent to the use of telehealth at any time, without affecting my right to future care or treatment.
+
+I understand the potential risks of this technology, including but not limited to: interruptions, unauthorized access, and technical difficulties. I understand that my Bridgewater Health provider or I can discontinue the telehealth consult at any time if it is felt that the technology is not adequate for the situation.
+
+By signing this form, I certify that I have read and understand the information provided above.
+
+Signature of Patient: _________________________
+(Signature on file)
+Date Signed: 04/15/2023
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 11 of 12
+--- PAGE BREAK ---
+**Bridgewater Health - CLOZAPINE REMS PROGRAM PATIENT ACKNOWLEDGEMENT**
+
+Patient: John A. Doe
+MRN: 987654321
+
+This form is to confirm your understanding of the risks associated with clozapine and the requirements of the Clozapine Risk Evaluation and Mitigation Strategy (REMS) Program.
+
+**Key Risks of Clozapine:**
+-   **Severe Neutropenia:** A serious blood condition where you have a low number of neutrophils, a type of white blood cell that fights infection. This can be life-threatening.
+-   **Orthostatic Hypotension, Bradycardia, Syncope:** Dizziness, low blood pressure, slow heart rate, and fainting, especially when starting the medication or increasing the dose.
+-   **Seizures**
+-   **Myocarditis and Cardiomyopathy:** Inflammation or disease of the heart muscle.
+
+**REMS Program Requirements:**
+-   You must be enrolled in the Clozapine REMS Program to receive this medication.
+-   You must have your Absolute Neutrophil Count (ANC) checked regularly through a blood test.
+-   Your ANC must be checked *before* you can receive your next supply of clozapine.
+-   Your pharmacy cannot dispense clozapine unless your ANC is within the acceptable range and has been reported to the REMS program.
+-   The frequency of your blood tests will be determined by your doctor (e.g., weekly, every 2 weeks, or monthly).
+
+**Patient Acknowledgement:**
+I have discussed the risks and benefits of clozapine with my doctor. I understand the risk of severe neutropenia and the need for regular blood monitoring (ANC checks). I agree to comply with the required blood tests. I know that if I miss my blood tests, I will not be able to get my medication.
+
+Patient Signature: _________________________
+(Signature on file)
+Date: 01/05/2023
+---
+PATIENT: DOE, JOHN A. | MRN: 987654321 | CLAIM#: PA-2025-XYZ-001 | Page 12 of 12

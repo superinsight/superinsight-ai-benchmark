@@ -1,0 +1,238 @@
+{
+  "version": "2.0",
+  "description": "Medical Chronology Extraction Benchmark Leaderboard",
+  "metrics_description": {
+    "avg_f1": "Average F1 score across 6 golden datasets, 3 rounds",
+    "avg_precision": "Average precision",
+    "avg_recall": "Average recall",
+    "avg_rouge_l": "Average ROUGE-L F1 for content fidelity",
+    "avg_semantic_fidelity": "Average embedding cosine similarity",
+    "avg_hallucination_score": "Average hallucination-free rate (higher=better)",
+    "formatting_score": "Markdown formatting compliance",
+    "chronological_score": "Date ordering compliance",
+    "composite_score": "Weighted composite (F1 30%, Semantic 20%, Halluc 20%, Format 10%, Chrono 10%, ROUGE 10%)",
+    "avg_latency_seconds": "Mean generation latency (seconds)"
+  },
+  "leaderboard": [
+    {
+      "model": "claude-opus-4.6",
+      "avg_f1": 1.0,
+      "avg_f1_std": 0.0,
+      "avg_precision": 1.0,
+      "avg_recall": 1.0,
+      "avg_rouge_l": 0.5192,
+      "avg_token_overlap": 0.4623,
+      "formatting_score": 0.982,
+      "chronological_score": 1.0,
+      "avg_hallucination_score": 0.9404,
+      "avg_latency_seconds": 104.35,
+      "total_tokens_mean": 17072.78,
+      "bootstrap_ci_95": [
+        0.7158,
+        0.7539
+      ],
+      "composite_score": 0.9228,
+      "rank": 1
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "avg_f1": 0.9957,
+      "avg_f1_std": 0.0074,
+      "avg_precision": 1.0,
+      "avg_recall": 0.9921,
+      "avg_rouge_l": 0.4809,
+      "avg_token_overlap": 0.4301,
+      "formatting_score": 0.9943,
+      "chronological_score": 1.0,
+      "avg_hallucination_score": 0.9163,
+      "avg_latency_seconds": 40.82,
+      "total_tokens_mean": 21089.5,
+      "bootstrap_ci_95": [
+        0.707,
+        0.7517
+      ],
+      "composite_score": 0.9119,
+      "rank": 2
+    },
+    {
+      "model": "claude-opus-4.5",
+      "avg_f1": 0.9815,
+      "avg_f1_std": 0.0,
+      "avg_precision": 1.0,
+      "avg_recall": 0.9667,
+      "avg_rouge_l": 0.4792,
+      "avg_token_overlap": 0.428,
+      "formatting_score": 0.987,
+      "chronological_score": 1.0,
+      "avg_hallucination_score": 0.9388,
+      "avg_latency_seconds": 82.52,
+      "total_tokens_mean": 16156.22,
+      "bootstrap_ci_95": [
+        0.7027,
+        0.7534
+      ],
+      "composite_score": 0.911,
+      "rank": 3
+    },
+    {
+      "model": "gemini-3-flash",
+      "avg_f1": 1.0,
+      "avg_f1_std": 0.0,
+      "avg_precision": 1.0,
+      "avg_recall": 1.0,
+      "avg_rouge_l": 0.4427,
+      "avg_token_overlap": 0.3842,
+      "formatting_score": 0.9918,
+      "chronological_score": 1.0,
+      "avg_hallucination_score": 0.9073,
+      "avg_latency_seconds": 21.84,
+      "total_tokens_mean": 15805.78,
+      "bootstrap_ci_95": [
+        0.6875,
+        0.7509
+      ],
+      "composite_score": 0.9061,
+      "rank": 4
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "avg_f1": 0.9687,
+      "avg_f1_std": 0.0,
+      "avg_precision": 1.0,
+      "avg_recall": 0.9428,
+      "avg_rouge_l": 0.4488,
+      "avg_token_overlap": 0.3977,
+      "formatting_score": 0.9909,
+      "chronological_score": 0.9905,
+      "avg_hallucination_score": 0.9539,
+      "avg_latency_seconds": 11.07,
+      "total_tokens_mean": 12044.06,
+      "bootstrap_ci_95": [
+        0.7016,
+        0.7518
+      ],
+      "composite_score": 0.9055,
+      "rank": 5
+    },
+    {
+      "model": "gemini-2.5-pro",
+      "avg_f1": 0.9788,
+      "avg_f1_std": 0.028,
+      "avg_precision": 0.9735,
+      "avg_recall": 0.9861,
+      "avg_rouge_l": 0.4104,
+      "avg_token_overlap": 0.3501,
+      "formatting_score": 0.9906,
+      "chronological_score": 1.0,
+      "avg_hallucination_score": 0.9236,
+      "avg_latency_seconds": 66.7,
+      "total_tokens_mean": 20220.56,
+      "bootstrap_ci_95": [
+        0.6766,
+        0.7455
+      ],
+      "composite_score": 0.8981,
+      "rank": 6
+    },
+    {
+      "model": "minimax-m2.5",
+      "avg_f1": 0.9779,
+      "avg_f1_std": 0.016,
+      "avg_precision": 0.9841,
+      "avg_recall": 0.9762,
+      "avg_rouge_l": 0.4666,
+      "avg_token_overlap": 0.4114,
+      "formatting_score": 0.9922,
+      "chronological_score": 0.9884,
+      "avg_hallucination_score": 0.8888,
+      "avg_latency_seconds": 163.95,
+      "total_tokens_mean": 14482.56,
+      "bootstrap_ci_95": [
+        0.6887,
+        0.7442
+      ],
+      "composite_score": 0.8948,
+      "rank": 7
+    },
+    {
+      "model": "gpt-5.4",
+      "avg_f1": 0.9729,
+      "avg_f1_std": 0.0074,
+      "avg_precision": 1.0,
+      "avg_recall": 0.9508,
+      "avg_rouge_l": 0.4894,
+      "avg_token_overlap": 0.4327,
+      "formatting_score": 0.9932,
+      "chronological_score": 1.0,
+      "avg_hallucination_score": 0.8633,
+      "avg_latency_seconds": 40.34,
+      "total_tokens_mean": 13142.33,
+      "bootstrap_ci_95": [
+        0.6902,
+        0.7345
+      ],
+      "composite_score": 0.891,
+      "rank": 8
+    },
+    {
+      "model": "gpt-5.4-pro",
+      "avg_f1": 0.9697,
+      "avg_f1_std": 0.0,
+      "avg_precision": 0.9444,
+      "avg_recall": 1.0,
+      "avg_rouge_l": 0.4705,
+      "avg_token_overlap": 0.415,
+      "formatting_score": 0.9948,
+      "chronological_score": 1.0,
+      "avg_hallucination_score": 0.8638,
+      "avg_latency_seconds": 536.21,
+      "total_tokens_mean": 26456.33,
+      "bootstrap_ci_95": [
+        0.6805,
+        0.739
+      ],
+      "composite_score": 0.8878,
+      "rank": 9
+    },
+    {
+      "model": "gemini-3.1-pro",
+      "avg_f1": 0.992,
+      "avg_f1_std": 0.0138,
+      "avg_precision": 0.9907,
+      "avg_recall": 0.9944,
+      "avg_rouge_l": 0.4152,
+      "avg_token_overlap": 0.3608,
+      "formatting_score": 0.9927,
+      "chronological_score": 1.0,
+      "avg_hallucination_score": 0.8355,
+      "avg_latency_seconds": 94.25,
+      "total_tokens_mean": 23192.83,
+      "bootstrap_ci_95": [
+        0.6314,
+        0.7592
+      ],
+      "composite_score": 0.8819,
+      "rank": 10
+    },
+    {
+      "model": "qwen3-235b",
+      "avg_f1": 0.9853,
+      "avg_f1_std": 0.0181,
+      "avg_precision": 1.0,
+      "avg_recall": 0.973,
+      "avg_rouge_l": 0.5136,
+      "avg_token_overlap": 0.4573,
+      "formatting_score": 0.9925,
+      "chronological_score": 0.9596,
+      "avg_hallucination_score": 0.8122,
+      "avg_latency_seconds": 178.24,
+      "total_tokens_mean": 14130.17,
+      "bootstrap_ci_95": [
+        0.6545,
+        0.7362
+      ],
+      "composite_score": 0.8808,
+      "rank": 11
+    }
+  ]
+}

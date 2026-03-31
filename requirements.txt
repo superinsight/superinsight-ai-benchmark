@@ -1,0 +1,25 @@
+# Benchmark Module Dependencies
+# LLM Providers
+google-genai==1.52.0
+openai==2.14.0
+anthropic==0.86.0
+boto3==1.42.23
+httpx>=0.27.0
+
+# Core
+python-dotenv==1.1.0
+pydantic==2.12.4
+rich==14.2.0
+click==8.2.1
+tiktoken==0.12.0
+
+# Evaluation & Analysis
+scipy==1.16.3
+numpy==1.26.4
+matplotlib==3.10.6
+seaborn==0.13.2
+sentence-transformers==3.3.1
+
+# Testing
+pytest==8.4.2
+pytest-cov==7.0.0

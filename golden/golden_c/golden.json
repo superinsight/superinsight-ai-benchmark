@@ -1,0 +1,320 @@
+{
+  "created_at": "2026-03-25T08:06:59.682193+00:00",
+  "method": "multi-model-consensus",
+  "source_outputs": "outputs/mc_source_c_small_v2",
+  "consensus_models_used": 5,
+  "consensus_threshold": 2,
+  "style": "mixed",
+  "source_file": "synthetic_source.txt",
+  "total_must_extract": 5,
+  "total_may_extract": 3,
+  "entries": [
+    {
+      "index": 0,
+      "encounter_date": "2024-05-02",
+      "facility_name": "Bridgewater Psychiatry Walnut Street",
+      "provider_name": "Liu, Andrew K, MD",
+      "visit_type": "Telemedicine / Behavioral Health Outpatient Clinic Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Return Visit and Medication Management. Stable symptoms since 11/9/23. Recently unemployed, looking for job. Taking classes for electrical work. Sleep \"ok\" (midnight-12/1pm). Denies appetite changes, weight increased 3-4lb. Exercising intermittently. Denies clozapine side effects. Chronic delusions, +Thought broadcasting, +thought insertion. Denies SI/HI. Patient seen with mother.",
+        "objective": "Weight 231 lb (104.8 kg) on 12/19/23, BMI 34.11 kg/m\u00b2. MSE: appropriate grooming, fair effort to appearance. Fair eye contact, no psychomotor agitation/retardation; no choreoathetoid movements. Normal speech. Mood: \"Ok\". Affect: Mostly blunted, reactive intermittently. Thought process: linear, goal directed. Thought content: Chronic delusions. +Thought broadcasting, +thought insertion. Denies SI/HI. Perception: Denies AH/VH. Not responding to internal stimuli. Cognition: Alert, oriented. Insight: fair to limited. Judgment: fair. Estimated 218 lbs (Fischer's note). Pleasant man, obvious weight gain again noted. Speech mostly expressive. No SHI. Affect mildly blunted +/- euthymic. No EPS.",
+        "social": "Recently unemployed, looking for job. Taking classes for electrical work. Lives with parents. Interested in applying for SSI. Socializes through gaming.",
+        "lab_results": "HEMOGLOBIN A1C 5.2% (normal) on 05/03/2024 (collected 05/02/2024). LIPID SCREEN (Abnormal) on 05/03/2024 (collected 05/02/2024): Total Cholesterol 220 mg/dL (H), Triglycerides 397 mg/dL (H), HDL Cholesterol 27 mg/dL (L), VLDL Cholesterol Cal 71 mg/dL (H), LDL Cholesterol Calc 122 mg/dL (H).",
+        "diagnoses": "Schizophrenia; Hyperlipidemia; Paranoid schizophrenia (CMS-HCC) F20.0; Long term current use of antipsychotic medication Z79.899.",
+        "plan": "Continue clozapine 250 mg. Ordered Hemoglobin A1c and Lipid Panel. Continue follow-up with PCP for hypertriglyceridemia. Monthly CBC for ANC. Return in 5-6 months. Discussed lifestyle changes for weight loss and metabolic syndrome. Counseled on clozapine side effects. Consider Caplyta. Encouraged exercise and healthy diet, consider ketogenic diet. Encouraged meeting with metabolic specialist again.",
+        "medications": "Clozapine 100 mg tablet (take 2.5 tablets), Omega-3 fatty acids 1000 mg capsule (take 2 capsules).",
+        "referrals": "Follow up with PCP for hypertriglyceridemia, metabolic specialist."
+      },
+      "consensus_count": 5,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b"
+      ]
+    },
+    {
+      "index": 1,
+      "encounter_date": "2024-11-14",
+      "facility_name": "Bridgewater Psychiatry Walnut Street",
+      "provider_name": "Nair, Kavitha, MD",
+      "visit_type": "Telemedicine / Psychiatry Follow Up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Patient presents for return visit and medication management. Reports things feel steady with no large changes in mental health or circumstances. Still taking classes to become an electrician, not currently working, living at home with parents. No changes in sleep or mood. Reports occasional fleeting paranoid thoughts (a couple times a month) about being watched or monitored. Reports some morning grogginess from clozapine but denies other side effects. Denies SI/HI.",
+        "objective": "MSE: Appropriate attention to hygiene/grooming. No abnormal motor activity. Cooperative, polite. Normal speech. Mood: \"Fine\". Affect: Mildly blunted, reactive. Thought process: Linear, goal directed, organized. Thought content: Denies SI/HI, mild paranoia, no other overt delusions/grandiosity. Denies auditory/visual hallucinations. Grossly oriented. Insight: Fair. Judgment: Fair. On exam is euthymic, slightly blunted, no AVH/del, no RIS, no SI/HI.",
+        "social": "No problematic use of alcohol, cannabis, or nicotine reported. Lives at home with parents.",
+        "lab_results": "HEME PROFILE + ELECT DIFF: WBC 5.3, RBC 5.59, Hemoglobin 15.9, Hematocrit 47.4, MCV 85, MCH 28.4, MCHC 33.5, RDW 12.7, Platelets 201, Neutrophils 64%, Lymphs 23%, Monocytes 9%, Eos 2%, Basos 1%, Neutrophils (Absolute) 3.5, Lymphs (Absolute) 1.2, Monocytes(Absolute) 0.5, Eos (Absolute) 0.1, Baso (Absolute) 0.0, Immature Granulocytes 1%, Immature Grans (Abs) 0.0",
+        "diagnoses": "Paranoid schizophrenia (CMS-HCC) F20.0; Long term current use of antipsychotic medication Z79.89.",
+        "plan": "Continue clozapine 250 mg daily. Monitor response/tolerability. Obtain Clozapine level with next labs. Monthly ANC. Return in ~6 months. Psychoeducation. Continue follow-up with PCP. Risk/benefit of clozapine discussed. Cont current tx; remains appropriate for outpt care. No acute risk at this time. Will check cloz level + follow ANCs.",
+        "medications": "Clozapine 250 mg tablet, take 2.5 tablets by mouth daily at bedtime for 180 days.",
+        "referrals": "None at this time."
+      },
+      "consensus_count": 5,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b"
+      ]
+    },
+    {
+      "index": 2,
+      "encounter_date": "2024-12-17",
+      "facility_name": "Bridgewater Heart and Vascular Center Briarwood",
+      "provider_name": "Brennan, Thomas E, MD",
+      "visit_type": "Office Visit",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Follow up from original referral for further evaluation of HL (Hyperlipidemia). Patient and mother present.",
+        "diagnoses": "Combined hyperlipidemia; Class 1 obesity with serious comorbidity and body mass index (BMI) of 34.0 to 34.9 in adult, unspecified obesity type.",
+        "plan": "Recommendations provided for management of combined hyperlipidemia and obesity."
+      },
+      "consensus_count": 4,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro"
+      ]
+    },
+    {
+      "index": 3,
+      "encounter_date": "2024-12-26",
+      "facility_name": "Bridgewater Adolescent and Young Adult Medicine Briarwood",
+      "provider_name": "Reyes, Gabriela, MD; Cardenas, Rosa M, LPN",
+      "visit_type": "Telephone Encounter",
+      "must_extract": "may_extract",
+      "key_fields": {
+        "subjective": "Patient concern regarding hair loss.",
+        "diagnoses": "Hair loss."
+      },
+      "consensus_count": 2,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro"
+      ]
+    },
+    {
+      "index": 4,
+      "encounter_date": "2024-12-27",
+      "facility_name": "Bridgewater Psychiatry Walnut Street",
+      "provider_name": "Nair, Kavitha, MD",
+      "visit_type": "Telephone Encounter",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Patient's mother reached out noting clozapine level results were slightly above 600.",
+        "lab_results": "Clozapine level was slightly above 600.",
+        "plan": "The dose of clozapine was reduced from 250 mg to 225 mg. Plan to recheck levels in one month with the next ANC.",
+        "medications": "Clozapine dose reduced to 225 mg."
+      },
+      "consensus_count": 3,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3.1-pro"
+      ]
+    },
+    {
+      "index": 5,
+      "encounter_date": "2025-01-07",
+      "facility_name": "Bridgewater Heart and Vascular Center Briarwood",
+      "provider_name": "Brennan, Thomas E, MD",
+      "visit_type": "Orders Only",
+      "must_extract": "may_extract",
+      "key_fields": {
+        "diagnoses": "Combined hyperlipidemia (Primary Dx); Insulin resistance.",
+        "lab_results": "Lab orders placed."
+      },
+      "consensus_count": 2,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro"
+      ]
+    },
+    {
+      "index": 6,
+      "encounter_date": "2025-01-27",
+      "facility_name": "Bridgewater Psychiatry Walnut Street",
+      "provider_name": "Liu, Andrew K, MD",
+      "visit_type": "Orders Only",
+      "must_extract": "may_extract",
+      "key_fields": {
+        "lab_results": "HEME PROFILE + ELECT DIFF ordered; WBC 4.4, RBC 5.47, Hemoglobin 15.5, Hematocrit 46.3, MCV 85, MCH 28.3, MCHC 33.5, RDW 12.8, Platelets 194, Neutrophils 58%, Lymphs 31%, Monocytes 7%, Eos 2%, Basos 1%, Neutrophils (Absolute) 2.6, Lymphs (Absolute) 1.4, Monocytes(Absolute) 0.3, Eos (Absolute) 0.1, Baso (Absolute) 0.0, Immature Granulocytes 1%, Immature Grans (Abs) 0.0",
+        "diagnoses": "Paranoid schizophrenia (CMS-HCC) [F20.0], Long term current use of antipsychotic medication [Z79.899]",
+        "plan": "Acknowledged lab results; no additional clinical findings documented for this visit"
+      },
+      "consensus_count": 5,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b"
+      ]
+    },
+    {
+      "index": 7,
+      "encounter_date": "2025-02-10",
+      "facility_name": "Bridgewater Adolescent and Young Adult Medicine Briarwood",
+      "provider_name": "Reyes, Gabriela, MD",
+      "visit_type": "Office Visit",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Hair loss (primary concern). Has been experiencing for some time, tried rosemary oil and topical minoxidil without help. Family history of receding hair lines (mother's side) and male pattern baldness (father's side). Hypertriglyceridemia: following with Dr. Brennan, off Lovaza, working on diet/exercise. H/o paranoid schizophrenia: following with Bridgewater psychiatry, on clozapine, monthly CBC monitoring. Some challenges getting clozaril filled. Patient here with mother.",
+        "objective": "BP 111/76, Pulse 84, Temp 97.6 \u00b0F, Wt 227 lb (103 kg), SpO2 97%, BMI 32.39 kg/m\u00b2. Physical Exam: Mouth/Throat: Mucous membranes moist. Eyes: Conjunctivae normal. Cardiovascular: Normal rate/rhythm, normal heart sounds. Pulmonary: Normal effort, normal breath sounds. Skin: Warm/dry, no rash. Receding hair line, anteriorly; no bald patches. Neurological: No focal deficit. Psychiatric: Mood normal, behavior normal.",
+        "social": "Applying for SSI; meeting with attorney Eleanor Caldwell.",
+        "diagnoses": "Hair loss (L65.9) (primary); Hypertriglyceridemia (E78.1); Paranoid schizophrenia (F20.0).",
+        "plan": "Hair loss: trial minoxidil 1.25 mg, follow-up in 2 months. Hypertriglyceridemia: reinforced lifestyle factors. Paranoid schizophrenia: per Bridgewater psychiatry, management of clozaril and monitoring. Return in ~2 years for follow-up/med check.",
+        "mss": "Receding hair line, anteriorly; no bald patches.",
+        "medications": "Minoxidil 1.25 mg (trial); Clozapine (mentioned as current)."
+      },
+      "consensus_count": 4,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro"
+      ]
+    },
+    {
+      "index": 8,
+      "encounter_date": "1999-06-12",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 9,
+      "encounter_date": "2023-01-05",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 10,
+      "encounter_date": "2023-04-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 11,
+      "encounter_date": "2023-08-19",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 12,
+      "encounter_date": "2024-01-01",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 13,
+      "encounter_date": "2024-05-03",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 14,
+      "encounter_date": "2024-06-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 15,
+      "encounter_date": "2024-11-20",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 16,
+      "encounter_date": "2024-12-01",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 17,
+      "encounter_date": "2024-12-10",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 18,
+      "encounter_date": "2025-01-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 19,
+      "encounter_date": "2025-01-28",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 20,
+      "encounter_date": "2025-02-28",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 21,
+      "encounter_date": "2025-03-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 22,
+      "encounter_date": "2025-11-30",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    }
+  ],
+  "total_noise": 15
+}

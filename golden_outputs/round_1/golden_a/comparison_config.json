@@ -1,0 +1,14 @@
+{
+  "comparison_name": "Model Comparison - instruction",
+  "instruction": "../../../instruction.txt",
+  "source": "../../../golden/golden_a/synthetic_source.txt",
+  "parser": "auto",
+  "models": [
+    {
+      "name": "gpt-5.4-pro",
+      "output": "gpt-5.4-pro/output.md",
+      "provider": "openai",
+      "model_id": "gpt-5.4-pro"
+    }
+  ]
+}

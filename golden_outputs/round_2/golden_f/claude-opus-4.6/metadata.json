@@ -1,0 +1,13 @@
+{
+  "label": "claude-opus-4.6",
+  "provider": "anthropic",
+  "model": "claude-opus-4-6",
+  "prompt_tokens": 17137,
+  "completion_tokens": 6428,
+  "total_tokens": 23565,
+  "duration_seconds": 102.9,
+  "output_chars": 21784,
+  "output_path": "golden_outputs/round_2/golden_f/claude-opus-4.6/output.md",
+  "generated_at": "2026-03-27T01:20:46.721885Z",
+  "status": "success"
+}

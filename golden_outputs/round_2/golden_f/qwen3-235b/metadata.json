@@ -1,0 +1,13 @@
+{
+  "label": "qwen3-235b",
+  "provider": "nebius",
+  "model": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "prompt_tokens": 16331,
+  "completion_tokens": 4330,
+  "total_tokens": 20661,
+  "duration_seconds": 437.06,
+  "output_chars": 16037,
+  "output_path": "golden_outputs/round_2/golden_f/qwen3-235b/output.md",
+  "generated_at": "2026-03-27T01:17:41.741146Z",
+  "status": "success"
+}

@@ -1,0 +1,7 @@
+Create a section of a report call Medical Chronology
+
+Create a section summarizing each medical visit. Use ## for visit date heading (MM/DD/YYYY format).
+Include the following fields: **Facility Name:**, **Provider Name:**, **Diagnoses:**, **Plan:**
+Only include a visit if both Facility Name and Provider Name are present.
+Add Source References at the end of each visit.
+Do not include any information that is not in the source documents.

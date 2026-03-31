@@ -1,0 +1,74 @@
+# Medical Chronology
+
+## PRIORITY 0: SYSTEM OVERRIDE (CRITICAL RESTRICTIONS)
+1. **NO HTML TAGS / NO CITATIONS**: You are STRICTLY FORBIDDEN from generating, copying, or appending `<!-- Source: ... -->` tags in ANY field. Output pure, clean reading text ONLY. The system will automatically inject sources later. If you include HTML comments, the system will fail.
+2. **STRICT DATE FORMAT**: `encounter_date` MUST be strictly formatted as `YYYY-MM-DD` (e.g., "2023-05-12"). If only month/year is known, use "YYYY-MM-01".
+## Goal
+Produce a strict chronological list of **clinical medical encounters** from the provided records.
+## Schema Requirements
+- **output_type**: list
+- **sort_by**: encounter_date (ascending)
+## CRITICAL: Schema Contract (MUST FOLLOW)
+
+| Field | Type | Required | Rules |
+|-------|------|----------|-------|
+| include | boolean | yes | **MUST be boolean true or false (NOT string).** Set true ONLY if this is a valid clinical encounter with date, facility, AND provider. |
+| exclude_reason | string | yes | If include=false, state why (e.g., "Nurse only", "administrative", "no date"). |
+| encounter_date | string | yes | Date of Service. **MUST BE YYYY-MM-DD.** **If missing → set null AND include=false.** |
+| date_display | string | no | **Optional.** Original date text for display (e.g., "MM/DD/YYYY" or "MM/YYYY"). |
+| facility_name | string | yes | Facility/clinic/hospital name. **If value is an address without a facility name → set null AND include=false.** |
+| provider_name | string | yes | Clinician name with credentials. See Provider Name Validation below. |
+| visit_type | string | yes | Clinical type (Office Visit, Surgery, PT, MRI, Hospital Admission, etc.) |
+
+### CRITICAL: Provider Name Validation (THE KILL LIST)
+You MUST set `include=false` AND `provider_name=null` if ANY of these conditions are met:
+1. **NURSES (ABSOLUTE BAN)**: The provider has ONLY "RN", "LPN", "PCA", or "MA" credentials (e.g., "JENKINS RN", "BARTON RN"). **Nurses DO NOT qualify as providers unless they are an NP (Nurse Practitioner).**
+2. **Generic/Missing**: Value is "None", "Unknown", "N/A", "Staff", "Tech", or empty.
+3. **Status Phrases**: Value is "Cleared by PCP", "See attached", "Treating Physician".
+4. **Non-Person**: Value is a facility address or department name.
+5. **PROVIDER LISTS / DIRECTORIES (CRITICAL EXCLUSION)**: The document is a "Provider List", "Directory", "Staff Update", or "Summary of Treating Providers". These are administrative lists, NOT clinical visits.
+
+*A valid provider_name MUST be a person's actual name with qualifying credentials (e.g., MD, DO, PA, PA-C, NP, PT, OT, DPT, PhD, LCSW, LSW).*
+
+### CRITICAL: Text Summarization Rules
+For `subjective`, `objective`, `plan`, and `imaging`:
+- **DO NOT COPY-PASTE** entire paragraphs.
+- **SUMMARIZE** key clinical findings into concise sentences or bullet points.
+- Omit boilerplate text and administrative details.
+
+Optional clinical fields (include only when data is present):
+- subjective (text): **Summarized** Chief complaint, HPI, hospital course
+- objective (text): **Summarized** Physical exam findings, vital signs
+- social (text): Social history if explicitly stated
+- labs (text): Laboratory results
+- procedure (text): Surgical procedures performed
+- imaging (text): **Summarized** imaging studies and key findings
+- diagnoses (text): Diagnoses, ICD codes
+- plan (text): **Summarized** Treatment plan, recommendations
+- mss (text): Mental status if documented
+- medications (text): Medications prescribed
+- referrals (text): Referrals made
+
+## Inclusion / Exclusion Rules
+- **Include**: Clinical encounters with specific date, valid facility name, AND valid provider name. Office visits, ER visits, hospitalizations, surgeries, diagnostic reports, PT/OT evaluations.
+- **Exclude (include=false)**: Provider is an RN/LPN, missing date/facility/provider, legal/administrative forms, hearings, notices, provider directories, consent forms.
+
+### Template Example (MUST FOLLOW THIS PATTERN)
+## Date of Medical Visit: MM/DD/YYYY
+
+### MM/DD/YYYY
+* **Type of Visit:** [value]
+* **Facility Name:** [value]
+* **Provider Name:** [value]
+* **Subjective/HPI/CC/Hospital Course:** [value]
+* **Objective/PE:** [value]
+* **Social:** [value]
+* **Labs:** [value]
+* **Surgery/Procedure:** [value]
+* **Imaging:** [value]
+* **Diagnoses:** [value]
+* **Plan/Assessment:** [value]
+* **MSS:** [value]
+* **Medication(s):** [value]
+* **Referrals:** [value]
+* **Source References:** <!-- Source: ... -->

@@ -1,0 +1,222 @@
+CLAIMANT: Harrison, John P.
+CLAIM NUMBER: 388-00-9123
+*** FOR OFFICIAL USE ONLY ***
+
+**DISABILITY DETERMINATION EXPLANATION**
+
+**SECTION A - JURISDICTIONAL AND PROCEDURAL DATA**
+
+Claim Type: Disability Insurance Benefits (DIB)
+Date of Filing: 09/01/2023
+Alleged Onset Date: 08/15/2022
+Date Last Insured: 12/31/2027
+Field Office: 543 - OAK BROOK, IL
+Adjudicative Team: DDS Unit 21B
+
+---
+Doc ID: 388009123-DDE-01 | Page 1 of 9
+---
+
+**SECTION B - EVIDENCE LIST (NON-MEDICAL SOURCES EXCLUDED)**
+
+1F - Records from Wellness Consultants Ltd
+2F - Records from Metro Health & Wellness Center
+3F - Records from Central Plains Medical Center
+4F - Records from Cardiology Associates
+5F - Imaging Reports, Central Plains Radiology
+6F - Records from Sterling Health Clinic
+7F - Consultative Examination Report, M. Jennings, MD
+8F - Function Report - Claimant
+9F - Third Party Function Report - Adult
+
+**SECTION C - CLAIMANT ALLEGATIONS**
+
+The claimant, a 58-year-old male, alleges inability to work beginning August 15, 2022, due to conditions including severe right hip pain, history of shoulder and back problems, and hypertension. He reports that pain in his right hip made it impossible to stand or walk for more than a few minutes at a time. He states he underwent a right hip replacement which has helped, but he still has significant limitations. He reports difficulty lifting, carrying, bending, and squatting. He also mentions a history of a shoulder injury and back issues from many years ago that still cause him problems. Daily activities are limited; he reports needing help with shopping, cleaning, and cooking. He states he can no longer engage in hobbies like gardening or fishing.
+
+**SECTION D - MEDICAL EVIDENCE OF RECORD**
+
+**EXHIBIT 1F: Records from Wellness Consultants Ltd**
+MER Received 10-11-2023. A report from a magnetic resonance imaging study performed on 2013-03-15 provides historical context for the claimant's musculoskeletal complaints. The imaging of the right shoulder revealed a large, complex partial-thickness tear involving the distal rotator cuff tendon, which was superimposed with a small full-thickness tear. Abnormal signal in the bone marrow of the superolateral humeral head was noted, possibly reflecting a contusion where the tendon attaches at the tuberosity. A Grade 2 SLAP tear was identified in the anterior glenoid labrum. Concurrent imaging of the cervical spine demonstrated a right-sided paracentral disc herniation at the C4-C5 level, resulting in right-sided foraminal narrowing. A lumbar spine MRI was also performed, which showed a right paracentral disc herniation at the L5-S1 level. No surgical intervention is documented in relation to these findings.
+
+**EXHIBIT 2F: Records from Metro Health & Wellness Center**
+FAX RECEIVED: 10/15/2023 14:30. These records span multiple visits. On an examination dated 2022-09-15, the claimant was seen for hip pain. He was noted to be sitting in a chair without apparent distress and reported that rest improved his discomfort. He was ambulating without any assistive device. His weight was recorded as 69.85 kilograms with a BMI of 24.9. Blood pressure was one-twenty-six over eighty-six. Gait and coordination were observed to be within normal limits. A hip examination revealed flexion to 120 degrees, adduction to 15, extension to 20, and abduction to 40 degrees. Internal rotation was 5/5. Strength in the lower extremities was full at 5/5. Sensation was normal bilaterally, and vascular status was 2+. Deep tendon reflexes in the lower extremities were 2+ and symmetric at the patella and Achilles. A dlagnosis of Avascular Necrosis of the right hip bone was made. An X-ray of the right hip was interpreted as showing arthritic changes with increased sclerosis and diminished joint space. Electronically Signed: 09/16/2022 17:04 EST.
+
+---
+Doc ID: 388009123-DDE-01 | Page 2 of 9
+---
+
+The claimant returned on 26-Jan-23, complaining of persistent right hip pain and expressing a desire to consider surgical options. The 0bjective examination on this date showed the right hip could be flexed to ninety degrees. There was no deformity or tenderness to palpation. The right lower extremity was documented as being neurovascularly intact, with a 2+ dorsalis pedis pulse noted. The diagnosis was updated to Osteoarthritis of the Right hip. A referral for surgical consultation was made.
+
+A post-operative visit occurred on 2023-04-13. The note indicates this was a follow-up for a right total hip arthroplasty performed on 2/8/23. The claimant reported he was no longer in physical therapy and was not taking any rnedication for pain control, stating he was happy with his progress and did not require analgesics. On examination, his gait was stable, though he was using a cane. The surgical incision was observed to be healed nicely. Range of motion in the hip was improving. The right lower extremity was again found to be neurovascularly intact with a 2+ DP pulse. Motor function including EHL, FHL, GSC, and TA was positive. Sensation was intact to light touch throughout. There was no calf pain, and Homan's sign was negative. The assessment was status post right total hip arthroplasty.
+
+**EXHIBIT 3F: Records from Central Plains Medical Center**
+These records pertain to a surgical admission. The claimant was admitted on 2023-02-08 to undergo a planned procedure. A pre-operative note indicates the patient understood the risks and benefits and wished to proceed with a robotic-assisted right total hip arthroplasty for severe osteoarthritis. The procedure was completed without complication. A discharge summary note confirms the patient is status post right total hip arthroplasty and was discharged in stable condition with instructions for follow-up and physical therapy.
+
+**PRIOR AUTHORIZATION REQUEST**
+DATE: 11-JAN-2023
+PATIENT: Harrison, John P.
+PROVIDER: Metro Health & Wellness Center
+INSURER: Blue Shield PPO
+REQUEST: Prior authorization for CPT 27130 (Total Hip Arthroplasty, Robotic-Assisted)
+DIAGNOSIS: M16.11 - Unilateral primary osteoarthritis, right hip
+JUSTIFICATION: Severe, debilitating pain refractory to conservative management. Radiographic evidence of advanced joint space narrowing and sclerosis. Patient desires definitive treatment to improve function.
+STATUS: PENDING REVIEW
+
+**EXHIBIT 4F: Records from Cardiology Associates**
+A report from Dr. Emily Carter, MD, was received. An echocardiogram was performed on 2023-01-20 as part of a pre-operative cardiac clearance. The study was technically adequate. The key finding was a calculated left ventricular ejection fraction (LVEF) of 55%. The report concludes that there is normal left ventricular systolic function. No significant valvular abnormalities or wall motion abnormalities were seen.
+
+---
+Doc ID: 388009123-DDE-01 | Page 3 of 9
+---
+
+**INSURANCE CORRESPONDENCE**
+DATE: Jan 18, 2023
+TO: Metro Health & Wellness Center, ATTN: Surgical Scheduling
+FROM: Blue Shield PPO, Utilization Management Dept.
+RE: Harrison, John P., Member ID BS987654321
+Auth Request #772A9B345
+The requested procedure, CPT 27130 - Total Hip Arthroplasty, for date of service on or after Feb 1, 2023, is medically necessary and has been APPROVED. This authorization is valid for 90 days.
+
+**EXHIBIT 5F: Imaging Reports, Central Plains Radiology**
+This report is associated with the admission on February 8, 2023. Post-operative radiographs of the right hip were obtained. The interpretation states that the arthroplasty components, including the acetabular cup and femoral stem, are in good position and alignment. No evidence of fracture or dislocation is seen. The contralateral left hip was partially visualized and appears unremarkable, as do the sacroiliac joints and symphysis pubis.
+
+**EXHIBIT 6F: Records from Sterling Health Clinic**
+A progress note from an office visit on 2023-07-06 documents a chief complaint of a lump in the right nipple area associated with mild tenderness. During the physical examination, a lump was palpated in the right breast. The examination of the neck revealed mild tenderness upon palpation of the posterior cervical spine, localized to approximately the C7 vertebral area. Several diagnoses were listed for this visit, including Hypertension (HTN), Lump in right breast, C-spine pain, and Thyroid abnormality. A referral for a mammogram and a thyroid ultrasound was recommended.
+
+**PROVIDER DIRECTORY NOTIFICATION**
+DATE: 2022-10-05
+TO: All Referring Providers and Payors
+FROM: Central Plains Medical Center
+SUBJECT: Change of Remittance Address
+Please be advised that effective November 1, 2022, all payments and billing correspondence for Central Plains Medical Center should be directed to our new lockbox address: PO Box 7890, Chicago, IL 60678. Our physical location and contact numbers remain unchanged.
+
+---
+Doc ID: 388009123-DDE-01 | Page 4 of 9
+---
+
+**SECTION E - CONSULTATIVE EXAMINATION**
+
+A general internal medicine consultative examination was performed by M. Jennings, MD, on October 28, 2023. The claimant is 5'11" and weighs 158 lbs. Blood pressure was 138/88. He ambulates with a slow but steady gait without an assistive device, though he states he uses a cane at home for longer distances. Examination of the right hip reveals a well-healed surgical scar. Range of motion is limited to 100 degrees of flexion, 20 degrees of abduction, and 10 degrees of internal rotation. Strength in the right lower extremity is 4/5 in hip flexors and abductors, and 5/5 distally. Left lower extremity is 5/5 throughout. Lumbar spine flexion is to 60 degrees. He is able to squat about halfway. Grip strength is normal bilaterally. He reports some neck stiffness but has full cervical ROM. The doctor opines that the claimant can stand/walk for about 4 hours in an 8-hour day and can lift/carry 20 pounds occasionally and 10 pounds frequently. He would have difficulty with frequent climbing of stairs, balancing, stooping, or crouching.
+
+**BILLING INQUIRY - METRO HEALTH & WELLNESS CENTER**
+Date: 03-MAR-2023
+Account: 459-HARRISON-J
+Inquiry: Patient called regarding statement dated Feb 25, 2023. Questions co-insurance amount for DOS 01/26/23. Explained that deductible was not met at time of service. Patient states he will contact his insurance carrier. No further action needed by billing staff at this time. - C.M.
+
+**APPOINTMENT SCHEDULING LOG**
+Date: May 10, 2023
+Patient: Harrison, John P.
+Note: Patient called to reschedule 6-month post-op f/u with ortho, originally scheduled for 06/15/23. Cites a scheduling conflict. Rescheduled for 07/12/23. Reminder call scheduled.
+
+---
+Doc ID: 388009123-DDE-01 | Page 5 of 9
+---
+
+**SECTION F - RESIDUAL FUNCTIONAL CAPACITY (RFC) ASSESSMENT**
+
+ASSESSMENT DATE: November 5, 2023
+ADJUDICATOR: K. Williams, Disability Analyst
+MEDICAL CONSULTANT: R. Desai, MD
+
+The claimant has the residual functional capacity to perform sedentary work. He can lift and/or carry 10 pounds frequently and 20 pounds occasionally. He can stand and/or walk (with normal breaks) for a total of about 4 hours in an 8-hour workday. He can sit (with normal breaks) for a total of about 6 hours in an 8-hour workday. He can never climb ladders, ropes, or scaffolds. He can occasionally climb ramps and stairs, balance, stoop, kneel, crouch, and crawl. He must avoid concentrated exposure to hazards such as machinery and unprotected heights.
+
+RATIONALE: The medical evidence supports the conclusion that the claimant's impairments are severe but do not meet or equal a listing. The claimant has a history of significant musculoskeletal issues. The imaging from 2013-03-15 (Exhibit 1F) showing a complex rotator cuff tear and cervical/lumbar disc herniations establishes long-standing degenerative changes that would support limitations in overhead reaching and lifting.
+
+The primary impairment is severe osteoarthritis of the right hip. The evidence from 2022-09-15 (Exhibit 2F) documents significant pre-operative findings, including a diagnosis of avascular necrosis and radiographic evidence of arthritis. The claimant subsequently underwent a right total hip arthroplasty on 2023-02-08 (Exhibit 3F), which is a significant surgical procedure. The post-operative course appears favorable, as noted in the follow-up visit on 2023-04-13 (Exhibit 2F), where the claimant reported being happy with his progress and was no longer using pain medication. However, he was still using a cane at that time, and the consultative examination in October 2023 still shows some residual weakness and ROM deficits in the operative hip. The post-op imaging (Exhibit 5F) confirms good placement of the prosthesis. The pre-operative cardiac evaluation on January 20, 2023 (Exhibit 4F) showed normal heart function with an LVEF of 55%, indicating no cardiac limitations.
+
+The claimant's other documented conditions, including hypertension and the breast lump/cervicalgia noted on 2023-07-06 (Exhibit 6F), are considered non-severe at this time as they do not appear to impose any significant functional limitations beyond those already assessed. The RFC is consistent with the opinion of the consultative examiner (Exhibit 7F) and is supported by the totality of the evidence. The claimant is limited to sedentary work.
+
+---
+Doc ID: 388009123-DDE-01 | Page 6 of 9
+---
+
+**EXHIBIT 8F: FUNCTION REPORT - ADULT (Completed by Claimant)**
+Date Completed: September 12, 2023
+
+Describe your illnesses, injuries, or conditions: Right hip is shot. Had a replacement in February. Still hurts. Can't walk far. Back and shoulder hurt all the time from old injuries. High blood pressure.
+
+Daily Activities: I wake up around 8 AM. It takes me a while to get moving because of stiffness. My wife helps me get dressed sometimes, especially with socks and shoes. I eat breakfast. I try to walk around the house but have to sit down every 10-15 minutes. I watch TV. I can't do any chores. My wife does all the cooking, cleaning, and laundry. I can't drive much because sitting in the car hurts my hip. I can't lift anything heavier than a milk jug. I go to bed early. I have trouble sleeping because of pain.
+
+Personal Care: I can shower myself but I have a shower chair. My wife has to help me with my feet.
+
+Meals: I can make a sandwich or get a bowl of cereal. My wife does all the cooking for dinner. I can't stand long enough to cook a meal.
+
+House/Yard Work: None. I used to do all the yard work but I can't anymore.
+
+Shopping: I never go. My wife does all the shopping.
+
+Social Activities: I don't go out much. It's too hard to get around. We used to see friends but not anymore.
+
+Abilities:
+Lifting/Carrying: Maybe 5-10 lbs.
+Standing/Walking: 10 minutes at a time, then I need to sit. Maybe 1 hour total in a day.
+Sitting: I can sit for about 30 minutes before my hip gets stiff and I have to stand up or shift.
+Reaching: I can reach up but it hurts my shoulder.
+Bending: I can't bend over at all.
+
+I use a cane all the time when I walk.
+
+---
+Doc ID: 388009123-DDE-01 | Page 7 of 9
+---
+
+**EXHIBIT 9F: THIRD PARTY FUNCTION REPORT - ADULT (Completed by Mary Harrison, Spouse)**
+Date Completed: September 12, 2023
+
+Relationship to Claimant: Wife
+
+Describe the claimant's illnesses, injuries, or conditions: He had a hip replacement this year for terrible arthritis. He also has a bad back and a bad right shoulder from years ago.
+
+Daily Activities: He gets up and has breakfast. He spends most of the day in his recliner watching television or reading. He gets up and walks around the house every so often. He can get his own lunch, like a sandwich or soup. I do all the housework and cooking for dinner. He will sometimes help me by folding laundry while he sits. He can drive for short trips, like to the pharmacy. He doesn't sleep well and is often up during the night.
+
+Personal Care: He showers and shaves himself. He has a bench in the shower. I help him with his socks because he can't bend that far.
+
+Meals: He can prepare simple things for himself. He made eggs the other day. He can't stand long enough to make a full dinner.
+
+House/Yard Work: He doesn't do any. I handle all of it or we hire someone for the yard.
+
+Shopping: He comes with me to the grocery store sometimes but he uses the electric cart. He can't walk through the store.
+
+Social Activities: We don't go out as much, but we have friends over for cards about once a month. He sits the whole time.
+
+Abilities:
+Lifting/Carrying: He can carry a bag of groceries, maybe 15 lbs.
+Standing/Walking: He can walk for about 15-20 minutes with his cane before he needs a break.
+Sitting: He seems to sit okay in his recliner, but complains if he sits in a hard chair for too long.
+Bending: He avoids it. He uses a grabber tool to pick things up.
+
+He uses a cane when he leaves the house. He doesn't always use it inside.
+
+---
+Doc ID: 388009123-DDE-01 | Page 8 of 9
+---
+
+**FAX TRANSMITTAL SHEET**
+
+DATE: August 01, 2023
+TO: Social Security Administration, Records Dept.
+FAX: 1-888-555-1212
+FROM: Law Offices of Miller & Cohen
+PHONE: 312-555-9876
+RE: Records Request for John P. Harrison, SSN: XXX-XX-9123
+
+PAGES: 2 (including cover)
+
+MESSAGE:
+Please see attached signed HIPAA authorization (Form SSA-827). We are requesting 
+
+--- ADDENDUM / LATE ENTRY ---
+Date of Service: 1/26/2023
+Location: Metro Health & Wellness Center
+Visit Type: Office Visit
+Clinical Note:
+  Subjective: Patient complains of right hip pain; expresses interest in surgery.
+  Objective: Exam intact distally; Right hip flexion to 90 degrees; no deformity or tenderness. Right lower extremity neurovascularly intact; 2+ DP pulse.
+  Diagnoses: Osteoarthritis Right hip.
+  Mss: R Hip Flex to 90 degrees; no deformity or tenderness; R LE neurovascularly intact; 2+ DP pulse.
+--- END ADDENDUM ---
+a complete copy of the claim file for the above-referenced claimant. Please provide all medical and non-medical evidence in the file to date. Thank you.
+
+---
+Doc ID: 388009123-DDE-01 | Page 9 of 9
+---

@@ -1,0 +1,13 @@
+{
+  "label": "gpt-5.4-mini",
+  "provider": "openai",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "prompt_tokens": 8066,
+  "completion_tokens": 2538,
+  "total_tokens": 10604,
+  "duration_seconds": 12.12,
+  "output_chars": 10565,
+  "output_path": "golden_outputs/round_1/golden_e/gpt-5.4-mini/output.md",
+  "generated_at": "2026-03-26T15:16:47.095402Z",
+  "status": "success"
+}

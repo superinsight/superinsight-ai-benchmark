@@ -1,0 +1,177 @@
+{
+  "created_at": "2026-03-26T14:28:03.798013+00:00",
+  "method": "synthetic-design",
+  "source_outputs": "",
+  "consensus_models_used": 0,
+  "consensus_threshold": 2,
+  "style": "mixed",
+  "source_file": "synthetic_source.txt",
+  "total_must_extract": 8,
+  "total_may_extract": 0,
+  "entries": [
+    {
+      "index": 0,
+      "encounter_date": "2025-03-10",
+      "facility_name": "Summit Neurology Associates",
+      "provider_name": "Dr. Wendy Nakamura, MD",
+      "visit_type": "Neurology Consultation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Referred for evaluation of recurrent headaches and cognitive complaints. Patient reports daily headaches for 6 months, bifrontal, pressure-like, rated 5-7/10. Associated photophobia and nausea. Also reports difficulty concentrating, word-finding difficulty, and short-term memory lapses since a motor vehicle accident 8 months ago. Pre-accident: no headache history.",
+        "objective": "Alert, oriented x3. Cranial nerves II-XII intact. Motor 5/5 all extremities. Sensation intact. Cerebellar function normal. Romberg negative. Mini-Mental Status Exam 28/30 (lost points on delayed recall and serial 7s).",
+        "imaging_findings": "MRI brain with contrast (reviewed): No acute intracranial pathology. Small nonspecific white matter hyperintensities in bilateral frontal lobes, possibly post-traumatic. No mass or midline shift.",
+        "diagnoses": "Post-traumatic headache syndrome; Post-concussion syndrome with cognitive impairment; Migraine without aura.",
+        "medications": "Topiramate 25mg daily, titrate to 50mg BID. Sumatriptan 50mg PRN for acute migraine.",
+        "plan": "Neuropsychological testing recommended to quantify cognitive deficits. Headache diary for 4 weeks. MRA if headaches do not improve. Return 6 weeks.",
+        "referrals": "Neuropsychological evaluation."
+      }
+    },
+    {
+      "index": 1,
+      "encounter_date": "2025-04-22",
+      "facility_name": "Clearwater Neuropsychology Center",
+      "provider_name": "Dr. Thomas Reeves, PhD, ABPP-CN",
+      "visit_type": "Neuropsychological Evaluation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Comprehensive neuropsychological evaluation for post-concussion cognitive complaints. Patient reports persistent difficulty with attention, memory, and executive function since MVA. Denies pre-accident cognitive issues. Currently not working. Lives alone, manages basic ADLs independently.",
+        "objective": "Testing administered over 4 hours: WAIS-IV, WMS-IV, Trail Making A&B, Stroop Color-Word, Wisconsin Card Sorting Test, Boston Naming Test, CVLT-II, Rey Complex Figure, Conners CPT-3, MMPI-2-RF, TOMM. Results: Processing speed: low average (SS 85); Attention/concentration: borderline (SS 78); Verbal memory: low average (SS 82); Visual memory: average (SS 95); Executive function: low average (SS 84); Language: average (SS 98). Effort measures (TOMM): passed both trials, valid profile. MMPI-2-RF: Elevated somatic complaints and low positive emotions scales; no evidence of over-reporting.",
+        "diagnoses": "Mild neurocognitive disorder due to traumatic brain injury; Post-concussion syndrome.",
+        "plan": "Results consistent with mild neurocognitive disorder secondary to TBI. Recommend cognitive rehabilitation therapy 2x/week. Vocational rehabilitation assessment. Accommodations for return-to-work: reduced screen time, written task lists, quiet workspace. Re-evaluate in 6 months."
+      }
+    },
+    {
+      "index": 2,
+      "encounter_date": "2025-06-05",
+      "facility_name": "Summit Neurology Associates",
+      "provider_name": "Dr. Wendy Nakamura, MD",
+      "visit_type": "Neurology Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Follow-up after neuropsych testing. Headache frequency reduced from daily to 3-4 per week with topiramate. Cognitive symptoms persist but slightly improved with cognitive rehab. Reports tingling in fingers bilaterally, a known topiramate side effect.",
+        "objective": "CN II-XII intact. Motor 5/5. Decreased sensation to pinprick distal fingertips bilaterally. MMSE 29/30.",
+        "diagnoses": "Post-traumatic headache, improving; Post-concussion cognitive impairment; Topiramate-induced paresthesias.",
+        "medications": "Reduce topiramate to 25mg BID (from 50mg BID) due to paresthesias. Continue sumatriptan PRN. Add magnesium glycinate 400mg daily for migraine prophylaxis.",
+        "plan": "Continue cognitive rehabilitation. Monitor paresthesias after dose reduction. If headaches worsen, consider switching to propranolol. Follow-up 8 weeks."
+      }
+    },
+    {
+      "index": 3,
+      "encounter_date": "2025-07-28",
+      "facility_name": "Pinecrest Physical Therapy & Rehabilitation",
+      "provider_name": "Sarah Mitchell, DPT",
+      "visit_type": "Physical Therapy Evaluation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Initial PT evaluation for cervicalgia and post-concussion vestibular symptoms. Patient reports neck stiffness and dizziness with quick head movements since MVA. Has been doing cognitive rehab separately.",
+        "objective": "Cervical ROM: Flexion 35/50 degrees; Extension 40/60; Rotation R 55/80, L 60/80; Lateral flexion R 30/45, L 35/45. Cervical tenderness bilateral upper trapezius and suboccipital muscles. Dix-Hallpike: negative bilaterally. BPPV screen negative. Mild dizziness with rapid horizontal head turns. Balance: single leg stance 15 sec R, 12 sec L (normative >30 sec). Dynamic Gait Index: 20/24 (mild impairment).",
+        "diagnoses": "Cervicalgia; Cervicogenic dizziness; Post-concussion vestibular dysfunction.",
+        "plan": "Plan: 2x/week for 8 weeks. Vestibular rehabilitation exercises, cervical stretching and strengthening, gaze stabilization exercises, balance training.",
+        "mss": "Cervical ROM limited all planes; Flexion 35/50; Extension 40/60; Rotation R 55/80, L 60/80; Lateral flexion R 30/45, L 35/45. DGI 20/24."
+      }
+    },
+    {
+      "index": 4,
+      "encounter_date": "2025-09-15",
+      "facility_name": "Summit Neurology Associates",
+      "provider_name": "Dr. Wendy Nakamura, MD",
+      "visit_type": "Neurology Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Headaches now 1-2 per week. Paresthesias resolved after topiramate dose reduction. Dizziness much improved with vestibular PT. Cognitive function subjectively better. Plans to attempt part-time work next month.",
+        "objective": "CN II-XII intact. Motor 5/5. Sensation normal. Cervical ROM improved. No nystagmus.",
+        "diagnoses": "Post-traumatic headache, significantly improved; Post-concussion syndrome, improving; Cervicogenic dizziness, resolved.",
+        "plan": "Continue current medication regimen. Taper topiramate if headaches remain controlled. Support return to part-time work with accommodations. Follow-up in 3 months."
+      }
+    },
+    {
+      "index": 5,
+      "encounter_date": "2025-10-20",
+      "facility_name": "Ridgeview Occupational Medicine",
+      "provider_name": "Dr. Frank Delgado, MD, MPH",
+      "visit_type": "Return-to-Work Evaluation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Fitness for duty evaluation for return to part-time office work. Patient was data analyst prior to MVA. Reports improved headaches and cognition. Concerned about screen tolerance and multitasking capacity.",
+        "objective": "Physical exam unremarkable. Neurological exam normal. Functional capacity assessment: Can sit for 2 hours continuously before requiring 10 min break. Sustained attention adequate for simple tasks, decreased with complex multi-step tasks. Screen tolerance 90 min before onset of headache.",
+        "diagnoses": "Post-concussion syndrome, recovering; Fitness for modified duty.",
+        "plan": "Cleared for part-time work (4 hours/day) with restrictions: 1) Frequent screen breaks every 60-90 min, 2) Written task instructions, 3) Quiet work environment, 4) No driving for work purposes. Re-evaluate in 8 weeks for progression to full duty."
+      }
+    },
+    {
+      "index": 6,
+      "encounter_date": "2025-12-10",
+      "facility_name": "Summit Neurology Associates",
+      "provider_name": "Dr. Wendy Nakamura, MD",
+      "visit_type": "Neurology Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Working part-time for 6 weeks. Headaches infrequent, about 1 per week, mild intensity. No dizziness. Cognition adequate for current workload but struggles with longer meetings. Tolerating topiramate 25mg BID well.",
+        "objective": "Exam normal. MMSE 30/30.",
+        "diagnoses": "Post-traumatic headache disorder, near resolution; Post-concussion cognitive impairment, mild residual.",
+        "plan": "Begin tapering topiramate: 25mg daily x2 weeks, then 25mg every other day x2 weeks, then discontinue. Continue magnesium. Occupational medicine follow-up for full duty evaluation. Consider repeat neuropsych testing in 6 months to document recovery.",
+        "medications": "Topiramate taper as above. Continue magnesium glycinate 400mg daily. Sumatriptan 50mg PRN."
+      }
+    },
+    {
+      "index": 7,
+      "encounter_date": "2026-02-18",
+      "facility_name": "Ridgeview Occupational Medicine",
+      "provider_name": "Dr. Frank Delgado, MD, MPH",
+      "visit_type": "Return-to-Work Re-evaluation",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Re-evaluation for progression to full-time duty. Working part-time 4 hours/day for 4 months without issues. Headaches rare (2-3 per month). Off topiramate for 4 weeks. No dizziness or cognitive complaints at current workload.",
+        "objective": "Exam normal. Functional capacity: Can sit for 4+ hours with standard breaks. Screen tolerance >3 hours. Sustained and divided attention within normal limits on screening assessment.",
+        "diagnoses": "Post-concussion syndrome, nearly resolved; Cleared for full-time duty with minimal restrictions.",
+        "plan": "Cleared for full-time work (8 hours/day). Minimal restrictions: ergonomic workstation setup recommended, screen breaks every 2 hours. No restriction on driving. Final follow-up with neurology recommended to close case."
+      }
+    },
+    {
+      "index": 8,
+      "encounter_date": "2025-03-01",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 9,
+      "encounter_date": "2025-03-25",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 10,
+      "encounter_date": "2025-04-01",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 11,
+      "encounter_date": "2025-05-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 12,
+      "encounter_date": "2025-10-25",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    }
+  ],
+  "total_noise": 5
+}

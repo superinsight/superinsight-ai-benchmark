@@ -1,0 +1,24 @@
+{
+  "report_name": "Medical Legal Report",
+  "source": "source.txt",
+  "deep_check": true,
+  "max_claims": 50,
+  "batch_size": 10,
+  "sections": [
+    {
+      "name": "Medical Chronology",
+      "output": "outputs/medical_chronology.md",
+      "instruction": "medical_chronology_instruction.txt"
+    },
+    {
+      "name": "Claim Information",
+      "output": "outputs/claim_info.md",
+      "instruction": "claim_info_instruction.txt"
+    },
+    {
+      "name": "Red Flags",
+      "output": "outputs/red_flags.md",
+      "instruction": "red_flags_instruction.txt"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+CLAIMANT: Harrison, John S.
+SSN: XXX-XX-6789
+CLAIM #: 459-12-3456
+
+*** DISABILITY DETERMINATION EXPLANATION ***
+*** FOR OFFICIAL USE ONLY ***
+
+**SECTION A: JURISDICTIONAL AND PROCEDURAL DATA**
+
+Claimant: John S. Harrison
+Date of Birth: XX/XX/XXXX
+Date of Application: 05/15/2021
+Alleged Onset Date: 01/20/2021
+Date Last Insured: 12/31/2025
+Type of Claim: Disability Insurance Benefits (Title II)
+
+**SECTION B: EVIDENCE LIST**
+
+1F - Records, Lakewood Family Medicine
+2F - Records, Tri-County Orthopedic Associates
+3F - Records, Riverside Pain Management Center
+4F - Records, Bayview Behavioral Health
+5F - Records, Heartland Cardiology Group
+6F - Function Report - Adult, dated 06/01/2021
+7F - Third Party Report, dated 06/03/2021
+8F - Laboratory Reports, Consolidated
+9F - Imaging Studies, Consolidated
+10F - Consultative Examination, Independent Medical Examination Office
+11F - Correspondence, United Health Plan
+
+**SECTION C: CLAIMANT'S ALLEGATIONS**
+
+The claimant alleges an inability to engage in substantial gainful activity since January 20, 2021, due to a combination of physical and mental impairments. He states he suffers from chronic low back pain that radiates into his left leg, causing numbness and weakness. He alleges he cannot sit for more than 20-30 minutes at a time without severe pain, and standing or walking are similarly limited. He claims he is unable to lift more than 10 pounds, bend, or twist. Additionally, the claimant reports significant depression and anxiety following the loss of his job, resulting in poor sleep, low motivation, anhedonia, and difficulty with concentration and memory. He alleges his conditions prevent him from performing even simple, sedentary work.
+
+**SECTION D: SUMMARY OF MEDICAL EVIDENCE**
+
+**Exhibit 1F: Lakewood Family Medicine, Dr. Anita Patel, MD**
+
+The claimant established care with this provider for his primary medical needs. An initial evaluation for his back condition took place on 2020-06-12. The claimant reported a three-month history of persistent low back pain which traveled down his left leg, a condition he associated with a lifting incident at his former job. Pain was noted to be a 6 out of 10 and was exacerbated by extended periods of sitting. Examination revealed a blood pressure of one-thirty-two over eighty-four, a heart rate of 78, and a weight of 198 pounds. There was notable limitation in the range of motion of his lumbar spine. A straight leg raise test was positive on the left side at a 40-degree angle. The physician documented tenderness in the L4-L5 paraspinal area. Deep tendon reflexes were assessed as 2+/2+ at the patella and 1+/2+ at the Achilles. The dlagnosis given was lumbar radiculopathy and lumbar disc degeneration. He was prescribed Naproxen 500mg to be taken twice daily and Cyclobenzaprine 10mg at bedtime. A referral was made to an orthopedic spine specialist.
+
+A follow-up visit occurred on November 10, 2020, to assess progress after he had received epidural injections. The claimant conveyed a moderate level of improvement, with his pain level at rest down to 4/10, though it would escalate to 6/10 with physical exertion. He had finished a course of 12 physica1 therapy sessions but remained unable to resume his full work duties. His blood pressure was 128/80. The lumbar spine exam showed better range of motion, and the straight leg raise test was now negative on both sides. His gait appeared normal and tenderness was diminished. Laboratory studies were ordered. The diagnoses were listed as improving lumbar radiculopathy and a new finding of pre-diabetes. His rnedication regimen was adjusted to include Metformin 500mg daily, with Naproxen to be used as needed. Work restrictions were issued, limiting lifting to under 20 pounds and sitting to no more than 30 minutes consecutively. A nutrition consult was also recommended.
+
+The claimant returned for his annual physical on 14-Jul-21. He described his back pain as stable at a 3-4/10 level, managed with gabapentin, and noted occasional numbness in his left leg. He reported feeling depressed and having trouble sleeping since his employment was terminated. His weight had increased to 205 pounds and his blood pressure was measured at 138/88. A PHQ-9 screening yielded a score of 14, indicating moderate depression. The back exam findings were unchanged. New diagnoses included hyper1ipidemia, moderate major depressive disorder, and Vitamin D deficiency. His medications were adjusted to Metformin 1000mg daily, Atorvastatin 20mg daily, and a new prescription for Sertra1ine 50mg daily was initiated. He was also advised to take Vitamin D3 5000 IU.
+
+On 2022-02-17, the claimant was seen for management of his metabolic and mental health conditions. He stated his mood had gotten better since the sertraline dose was increased and he started therapy. His sleep had also improved. Back pain was stable. However, he had gained an additional 10 pounds, with his weight now at 215 lbs (BMI 30.1). Blood pressure was elevated at 140/90. Based on lab results (see Exhibit 8F), his diagnosis was updated to Type 2 diabetes mellitus. He was also diagnosed with Stage 1 hypertension and obesity. A new prescription for Lisinopril 10mg daily was provided, his Metformin was increased to 1000mg twice daily, and his Atorvastatin was increased to 40mg daily.
+
+A follow-up on 2023-08-22 found the claimant reporting significant improvement in his back pain following a radiofrequency ablation procedure, with pain levels now at 2-3/10. His mood was stable. Blood pressure was well-controlled at one-twenty-six over seventy-eight. His weight was 212 pounds. The PHQ-9 score had decreased to 6. Diagnoses were listed as well-controlled Type 2 diabetes, controlled hypertension, and depression in partial remission. All current medications were continued, including Amlodipine 5mg which had been added by cardiology. Dr. Patel completed disability paperwork for the Social Security Administration during this visit.
+
+CLAIMANT: Harrison, John S. | SSN: XXX-XX-6789 | CLAIM #: 459-12-3456 | Page 1 of 6
+---
+**Exhibit 2F: Tri-County Orthopedic Associates, Dr. Marcus Greene, DO**
+
+Dr. Greene performed an orthopedic consultation on 2020-08-03, following a referral from Dr. Patel for persistent lumbar radiculopathy. The claimant reported that NSAIDs offered some relief but his functional activities were still limited, preventing a return to his warehouse job. 0bjective findings included an antalgic gait. Lumbar flexion was restricted to 50 percent and extension to 30 percent. A straight leg raise test was positive on the left at 35 degrees. The claimant exhibited weakness in left-sided L5 dorsiflexion, graded at 4/5 strength, compared to 5/5 on the right. A sensory deficit was noted in the left L5 dermatome. Dr. Greene reviewed an MRI of the lumbar spine (see Exhibit 9F) which demonstrated a left paracentral disc protrusion at L4-L5 causing moderate stenosis and impinging on the L5 nerve root. His diagnosis was an L4-L5 disc herniation with associated left L5 radiculopathy. The plan involved a series of epidural steroid injections and a six-week course of physical therapy, three times per week. He was to continue his current medications.
+
+The claimant returned for an orthopedic follow-up on March 22, 2021. This was approximately five months after the injection series. He reported his pain had reached a plateau at a 4-5/10 level and he continued to experience intermittent numbness in his left leg. He informed Dr. Greene that his employer had terminated his position due to his physical limitations. On examination, lumbar flexion had improved to 60 percent. The straight leg raise test was negative. Motor strength was now 5/5 bilaterally. A mild sensory decrease persisted in the left L5 dermatome. A new MRI was reviewed and showed a stable L4-L5 disc protrusion and newly noted mild facet arthropathy. Dr. Greene opined that the claimant had reached maximum medical improvement from a surgical standpoint and recommended continued conservative care. He issued permanent work restrictions of no lifting over 15 pounds and no repetitive bending or twisting. A trial of Gabapentin was started for his neuropathic symptoms.
+
+**Exhibit 3F: Riverside Pain Management Center, Dr. Helen Cho, MD**
+
+The claimant was seen for his first procedure on 2020-09-15. He was there for the first of a planned series of three epidural steroid injections at the L4-L5 level. He rated his pain at 7/10. Under fluoroscopic guidance, a left L4-L5 transforaminal epidural steroid injection was performed. Contrast was used to confirm appropriate spread, and a combination of Dexamethasone and Lidocaine was injected. He tolerated the procedure well.
+
+On 2020-10-01, he returned for his second injection. He reported that the first procedure provided about 40% pain relief which lasted for roughly 10 days. His pain was currently 5/10. The second left L4-L5 transforaminal ESI was performed, this time using Betamethasone and Bupivacaine.
+
+The claimant did not return to this clinic for over two years. A visit on 2022-10-25 was prompted by a worsening of his back pain over the prior three months, which he rated at 6/10 with radiation into the buttock and posterior thigh. He noted that Gabapentin was only somewhat helpful and caused sedation. Examination showed lumbar flexion at 50% and extension at 25%. A straight leg raise was positive on the left at 50 degrees. A recent lumbar X-ray showed L4-L5 disc space narrowing and a Grade I degenerative spondylolisthesis at L4-L5. The plan was to switch his rnedication to Pregabalin and to perform a series of diagnostic lumbar medial branch blocks to see if he was a candidate for radiofrequency ablation.
+
+On January 18, 2023, the claimant underwent a bilateral medial branch block procedure at the L4, L5, and S1 levels with Bupivacaine.
+
+Following successful diagnostic blocks, the claimant underwent a procedure on 2023-04-05. He reported that both temporary blocks had given him more than 80% relief for several hours. Therefore, a bilateral L4, L5, and S1 medial branch radiofrequency ablation was performed. The procedure involved lesioning at 80 degrees Celsius for 90 seconds at each targeted nerve after appropriate sensory and motor testing.
+
+**Exhibit 4F: Bayview Behavioral Health, Dr. Sandra Kim, PsyD**
+
+The claimant was referred by his PCP and had an initial psychiatric evaluation on November 2nd, 2021. He reported a decline in his mood despite taking 50mg of sertraline for four months. He endorsed insomnia, anhedonia, and poor motivation, with anxiety centered on his financial situation and disability claim. He denied suicidal or homicidal ideation. The mental status exam revealed a cooperative man with speech of a low volume and a constricted affect. His mood was described as "down and worried." The diagnostic impression was Major Depressive Disorder, recurrent and moderate, along with Generalized Anxiety Disorder and an Adjustment Disorder related to his chronic pain and unemployment. The treatment plan was to increase his sertraline to 100mg daily, prescribe Hydroxyzine as needed for anxiety, and begin weekly individual therapy.
+
+**Exhibit 5F: Heartland Cardiology Group, Dr. James Whitfield, MD**
+
+A cardiology consultation was completed on June 8, 2022, for evaluation of newly diagnosed hypertension. The claimant mentioned occasional chest tightness during exertion that abated with rest. His blood pressure in the clinic was 142/88. The cardiac exam was unremarkable. An echocardiogram was performed, which revealed a normal ejection fraction of 60% with mild left ventricular hypertrophy. An exercise stress test was negative for ischemia after 8.5 minutes. The diagnosis was essential hypertension with mild LVH and metabolic syndrome. The plan was to continue lisinopril and consider adding amlodipine if his blood pressure remained elevated.
+
+CLAIMANT: Harrison, John S. | SSN: XXX-XX-6789 | CLAIM #: 459-12-3456 | Page 2 of 6
+---
+**Exhibit 6F: Function Report - Adult (Self-Reported, dated 06/01/2021)**
+
+The claimant, John Harrison, reports that his daily activities are severely limited by his medical conditions. He states he wakes up stiff and in pain. He can shower and dress himself but it takes a long time. He does not prepare meals; his wife does all the cooking because he cannot stand at the counter for more than 5-10 minutes. He does not do any cleaning, yard work, or shopping. He states he can drive but avoids it due to pain when sitting. He spends most of his day sitting in a recliner, but has to get up and move around every 20 minutes because of back pain. He can walk for about one block before needing to rest. He states he can lift about 8 pounds (a gallon of milk). He reports his hobbies used to be fishing and working on cars, but he can no longer do these things. In terms of his mental state, he reports he has trouble paying attention and often forgets what he is doing. He feels sad and hopeless most of the time and has lost interest in everything.
+
+**Exhibit 7F: Third Party Report (Reported by Susan Harrison, Spouse, dated 06/03/2021)**
+
+Susan Harrison, the claimant's wife, reports significant changes in her husband since his injury and job loss. She confirms he is no longer able to help with household chores like vacuuming, laundry, or taking out the trash. She does all the grocery shopping and cooking. She notes he is in visible pain when he tries to move around and often has difficulty getting out of a chair. She states he spends most of his day in his recliner, watching television, but doesn't seem to be paying attention. She has noticed he is very irritable and withdrawn, and he rarely wants to see friends or family. He has trouble sleeping through the night and often complains of pain and numbness in his leg. She feels he is very depressed and worries about their future constantly.
+
+**Exhibit 11F: Correspondence, United Health Plan**
+
+**PRIOR AUTHORIZATION REQUEST**
+DATE OF REQUEST: 09/10/2020
+PATIENT: Harrison, John S.
+REQUESTING PROVIDER: Riverside Pain Management Center
+SERVICE REQUESTED: Lumbar Epidural Steroid Injection Series (CPT 64483 x 3)
+DIAGNOSIS: M51.16 - Lumbar disc displacement with radiculopathy
+CLINICAL RATIONALE: Patient has failed conservative therapy including NSAIDs and physical therapy for documented L4-L5 disc herniation with nerve root compression confirmed by MRI. Requesting a series of three (3) injections to reduce inflammation and pain.
+**STATUS: APPROVED. Authorization #UH77829B. Valid for 3 injections within 90 days.**
+
+---FAX TRANSMITTAL COVER SHEET---
+TO: Social Security Administration, DDS
+FROM: Tri-County Orthopedic Associates, Medical Records Dept
+DATE: May 02, 2023
+RE: Medical Records Request for John S. Harrison, DOB XX/XX/XXXX
+PAGES: 18 (including cover)
+MESSAGE: Per your request dated April 20, 2023, please find attached the requested records for the above-named patient.
+---End of Fax---
+
+**SECTION E: CONSULTATIVE EXAMINATION**
+
+**Exhibit 10F: Independent Medical Examination Office, Dr. Robert Hargrove, MD**
+
+An independent consultative examination was performed on 2024-01-10 for the purpose of disability determination. The claimant presented with a chief complaint of chronic low back pain with radiation into the left leg, as well as depression and anxiety. He reported his pain limits his ability to sit, stand, and walk for prolonged periods. On physical examination, the claimant was 5'10" and weighed 214 pounds (BMI 30.7). His blood pressure was 130/82. Examination of the lumbar spine revealed flexion to 55 degrees and extension to 35 degrees. Straight leg raising was negative bilaterally. Motor strength was graded 5/5 in all muscle groups in both upper and lower extremities. Sensation was subjectively described as decreased in the left L5 distribution, but was found to be intact when tested with a monofilament. Grip strength was strong at 85 pounds on the left and 90 pounds on the right. A PHQ-9 was administered and scored an 8; a GAD-7 scored a 6. Dr. Hargrove's diagnostic impression included chronic lumbar disc disease with residual left L5 radiculopathy, Type 2 diabetes, essential hypertension, and major depressive disorder in partial remission.
+
+CLAIMANT: Harrison, John S. | SSN: XXX-XX-6789 | CLAIM #: 459-12-3456 | Page 3 of 6
+---
+**APPENDIX A: LABORATORY REPORTS**
+
+**Lakewood Family Medicine - Lab Report**
+PATIENT: HARRISON, JOHN S.
+DOB: XX/XX/XXXX MRN: 883720
+DATE COLLECTED: 11/10/2020
+DATE RECEIVED BY SSA: MAR 25 2021
+
+CBC WITH DIFFERENTIAL
+WBC: 6.8 K/uL (Ref: 4.0-11.0)
+RBC: 4.95 M/uL (Ref: 4.20-5.80)
+HGB: 15.1 g/dL (Ref: 13.5-17.5)
+HCT: 45.3 % (Ref: 40.0-50.0)
+PLT: 255 K/uL (Ref: 150-450)
+---
+COMPREHENSIVE METABOLIC PANEL
+SODIUM: 140 mmol/L (Ref: 136-145)
+POTASSIUM: 4.1 mmol/L (Ref: 3.5-5.1)
+CHLORIDE: 101 mmol/L (Ref: 98-107)
+CO2: 24 mmol/L (Ref: 21-32)
+GLUCOSE, FASTING: 108 mg/dL (Ref: 70-99) **HIGH**
+BUN: 15 mg/dL (Ref: 7-20)
+CREATININE: 1.0 mg/dL (Ref: 0.7-1.3)
+CALCIUM: 9.5 mg/dL (Ref: 8.6-10.3)
+---
+HEMOGLOBIN A1c
+RESULT: 5.8 % (Ref: <5.7) **BORDERLINE**
+---
+END OF REPORT
+
+**Lakewood Family Medicine - Lab Report**
+PATIENT: HARRISON, JOHN S.
+DOB: XX/XX/XXXX MRN: 883720
+DATE COLLECTED: 07-14-2021
+
+HEMOGLOBIN A1c
+RESULT: 6.1 % (Ref: <5.7) **HIGH**
+---
+LIPID PANEL
+TOTAL CHOLESTEROL: 232 mg/dL (Ref: <200) **HIGH**
+TRIGLYCERIDES: 210 mg/dL (Ref: <150) **HIGH**
+HDL CHOLESTEROL: 42 mg/dL (Ref: >40)
+LDL CHOLESTEROL, CALC: 148 mg/dL (Ref: <100) **HIGH**
+---
+VITAMIN D, 25-HYDROXY
+RESULT: 18 ng/mL (Ref: 30-100) **LOW**
+---
+TSH
+RESULT: 2.40 uIU/mL (Ref: 0.40-4.50)
+---
+END OF REPORT
+
+**Lakewood Family Medicine - 1aboratory Report**
+PATIENT: HARRISON, JOHN S.
+DOB: XX/XX/XXXX MRN: 883720
+DATE COLLECTED: 2022-02-17
+
+HEMOGLOBIN A1c
+RESULT: 6.4 % (Ref: <5.7) **HIGH**
+---
+GLUCOSE, FASTING
+RESULT: 128 mg/dL (Ref: 70-99) **HIGH**
+---
+LIPID PANEL
+TOTAL CHOLESTEROL: 205 mg/dL (Ref: <200) **HIGH**
+TRIGLYCERIDES: 188 mg/dL (Ref: <150) **HIGH**
+HDL CHOLESTEROL: 44 mg/dL (Ref: >40)
+LDL CHOLESTEROL, CALC: 118 mg/dL (Ref: <100) **HIGH**
+---
+END OF REPORT
+
+**APPENDIX B: IMAGING REPORTS**
+
+**Advanced Diagnostic Imaging**
+PATIENT: HARRISON, JOHN S. MRN: 883720
+EXAM: MRI Lumbar Spine without contrast
+DATE OF EXAM: 07/30/2020
+ORDERING PHYSICIAN: Anita Patel, MD
+
+**FINDINGS:**
+Vertebral body heights and alignment are maintained. Bone marrow signal is normal.
+
+L1-L2: No significant disc bulge or stenosis.
+L2-L3: No significant disc bulge or stenosis.
+L3-L4: Mild circumferential disc bulge without significant central canal or foraminal stenosis.
+L4-L5: There is a left paracentral disc protrusion measuring approximately 5 mm. This results in moderate left lateral recess stenosis and impinges upon the traversing left L5 nerve root. The central canal is mildly narrowed. No significant foraminal stenosis. Mild facet arthropathy is noted.
+L5-S1: Mild disc bulge without significant stenosis.
+
+**IMPRESSION:**
+1. Left paracentral disc protrusion at L4-L5 causing moderate left lateral recess stenosis and compression of the traversing left L5 nerve root. This finding correlates with the patient's reported left-sided radicular symptoms.
+2. Mild degenerative changes at other levels as described above.
+
+Electronically Signed: 08-01-2020 11:45 AM by Sarah Jennings, MD, Radiologist
+
+CLAIMANT: Harrison, John S. | SSN: XXX-XX-6789 | CLAIM #: 459-12-3456 | Page 4 of 6
+---
+**Midtown Radiology Group**
+PATIENT: HARRISON, JOHN S. MRN: 883720
+EXAM: X-Ray Lumbar Spine, 2 views
+DATE OF EXAM: 2022-10-18
+ORDERING PHYSICIAN: Helen Cho, MD
+
+**FINDINGS:**
+There is a Grade I degenerative spondylolisthesis of L4 on L5. Moderate disc space narrowing is present at the L4-L5 level. Mild to moderate facet arthropathy is seen at L4-L5 and L5-S1. Vertebral body heights are otherwise preserved. No acute fracture or dislocation is identified.
+
+**IMPRESSION:**
+1. Degenerative spondylolisthesis, Grade I, L4-L5.
+2. Multilevel degenerative disc disease and facet arthropathy, most pronounced at L4-S1.
+
+Electronically Signed: 10-18-2022 02:20 PM by David Chen, MD, Radiologist
+
+**APPENDIX C: ADMINISTRATIVE RECORDS**
+
+**Heartland Cardiology Group - Billing Statement**
+Patient: John S. Harrison
+Account #: 948201
+Statement Date: 11/30/2022
+
+Date of Service: 2022-06-08
+Description: New Patient Office Visit (99204), Echocardiogram (93306), Stress Test (93015)
+Total Charges: $2,850.00
+Insurance Payment (United Health Plan): -$2,140.50
+Patient Responsibility: $709.50
+Payments/Adjustments: -$50.00 (Copay paid on DOS)
+**Amount Due: $659.50**
+Please remit payment by 12/28/2022.
+
+**United Health Plan - Explanation of Benefits**
+MEMBER: John S. Harrison
+CLAIM RECEIVED: 08-15-2020
+This is not a bill.
+
+SERVICE DATE: 2020-08-03
+PROVIDER: Tri-County Orthopedic Associates
+SERVICE: Orthopedic Consultation (99244)
+AMOUNT BILLED: $450.00
+ALLOWED AMOUNT: $310.00
+PAID BY PLAN: $248.00
+YOUR RESPONSIBILITY: $62.00 (20% Coinsurance)
+
+**Oakridge Physical Therapy - Scheduling Log**
+DATE: 09/01/2020
+Caller: John Harrison
+Notes: Pt called to schedule initial evaluation per referral from Dr. Greene. Appt set for 09/04/2020 at 10:00 AM. Pt was advised of 24-hr cancellation policy and copay requirements.
+
+CLAIMANT: Harrison, John S. | SSN: XXX-XX-6789 | CLAIM #: 459-12-3456 | Page 5 of 6
+---
+**SECTION F: ASSESSMENT OF RESIDUAL FUNCTIONAL CAPACITY (RFC)**
+
+**PHYSICAL RFC ASSESSMENT:**
+The claimant is found to have the residual functional capacity to perform light work. He can lift and/or carry 20 pounds occasionally and 10 pounds frequently. He can stand and/or walk for a total of about 4 hours in an 8-hour workday. He can sit for about 6 hours in an 8-hour workday, however, he requires a sit/stand option allowing for a change of position at least every 30 minutes to alleviate discomfort from his lumbar condition. The claimant should never climb ladders, ropes, or scaffolds. He can occasionally climb ramps and stairs, balance, stoop, kneel, crouch, and crawl. He must avoid concentrated exposure to hazards such as unprotected heights and dangerous machinery due to potential distraction from pain and medication side effects.
+
+This assessment is supported by the overall medical record. While the claimant's allegations of total disability are noted, the objective evidence does not fully support such severe limitations. For example, the orthopedic evaluation on 2021-03-22 (Exhibit 2F) showed 5/5 motor strength and improved range of motion after injections. The consultative examination on 2024-01-10 (Exhibit 10F) also documented 5/5 motor strength, negative straight leg raising, and the ability to ambulate without an assistive device. The need for a sit/stand option is consistent with documentation from Lakewood Family Medicine on Nov 10, 2020, restricting prolonged sitting. The lifting restriction of 15-20 pounds is consistent with recommendations from Dr. Greene on 22-Mar-21 and the light exertional level assessed by Dr. Hargrove.
+
+**MENTAL RFC ASSESSMENT:**
+The claimant is capable of understanding, remembering, and carrying out simple, routine tasks. He can maintain attention and concentration for two-hour periods. He can interact appropriately with supervisors and coworkers on an occasional basis. He is able to adapt to routine workplace changes. He should avoid work involving frequent interaction with the general public.
+
+This assessment is supported by the mental health records. The evaluation of November 2nd, 2021 (Exhibit 4F) showed a constricted affect and worried mood, but also a linear and goal-directed thought process with intact cognition. Follow-up notes from his PCP (Exhibits 1F) indicate his mood improved with medication adjustments, and the consultative examination (Exhibit 10F) yielded PHQ-9 and GAD-7 scores in the mild range, suggesting his conditions are reasonably well-managed. The limitation on public interaction is a reasonable accommodation for his documented anxiety. He is not precluded from all work activity on a mental basis.
+
+**VOCATIONAL ANALYSIS:**
+Considering the claimant's age, education, work experience, and residual functional capacity, he is unable to perform his past relevant work as a warehouse laborer, which is classified as heavy, semi-skilled work. However, using the RFC as a basis, there are other jobs that exist in significant numbers in the national economy that the claimant can perform, such as assembler (light), mail clerk (light), or ticket taker (sedentary). Therefore, a finding of "not disabled" is warranted.
+
+
+--- ADDENDUM / LATE ENTRY ---
+Date of Service: 7/14/2021
+Location: Lakewood Family Medicine
+Provider: Dr. Anita Patel, MD
+Visit Type: Primary Care
+Clinical Note:
+  Subjective: Annual physical. Back pain stable at 3-4/10 with gabapentin. Left leg numbness occasional. Reports feeling depressed since job loss. Difficulty sleeping. Appetite decreased.
+  Objective: BP 138/88, HR 76, Wt 205 lb. PHQ-9 score: 14 (moderate depression). Lumbar exam stable. Neurological exam grossly intact.
+  Lab Results: HbA1c 6.1% (pre-diabetic). Lipid panel: Total cholesterol 232, LDL 148, HDL 42, Triglycerides 210. TSH 2.4 (normal). Vitamin D 18 ng/mL (low).
+  Diagnoses: Pre-diabetes; Hyperlipidemia; Major depressive disorder, moderate; Vitamin D deficiency; Chronic lumbar radiculopathy.
+  Medications: Metformin 1000mg daily, Atorvastatin 20mg daily, Sertraline 50mg daily, Vitamin D3 5000 IU daily, Gabapentin 300mg TID.
+  Plan: Recheck HbA1c and lipids in 3 months. Mental health follow-up in 4 weeks. Consider psychiatry referral if no improvement with sertraline.
+  Referrals: Nutritionist for diet counseling; psychiatry if needed.
+--- END ADDENDUM ---
+
+
+
+--- ADDENDUM / LATE ENTRY ---
+Date of Service: 11/2/2021
+Location: Bayview Behavioral Health
+Provider: Dr. Sandra Kim, PsyD
+Visit Type: Psychiatric Evaluation
+Clinical Note:
+  Subjective: Referred by PCP for evaluation of depression and anxiety. Reports worsening mood despite sertraline 50mg for 4 months. Insomnia, anhedonia, low motivation. Anxiety about finances and disability claim. Denies SI/HI. History of work injury leading to chronic pain and job loss.
+  Objective: Appearance: well-groomed, cooperative. Speech: normal rate, low volume. Mood: 'down and worried'. Affect: constricted, congruent. Thought process: linear, goal-directed. Thought content: no SI/HI, no psychosis. Cognition: intact. Insight: fair. Judgment: fair.
+  Diagnoses: Major depressive disorder, moderate, recurrent; Generalized anxiety disorder; Adjustment disorder with mixed anxiety and depressed mood related to chronic pain and unemployment.
+  Plan: Increase sertraline to 100mg daily. Add hydroxyzine 25mg PRN for anxiety. Individual therapy weekly. Supportive counseling for disability process.
+  Medications: Sertraline 100mg daily, Hydroxyzine 25mg PRN.
+--- END ADDENDUM ---
+
+
+
+--- ADDENDUM / LATE ENTRY ---
+Date of Service: 1/18/2023
+Location: Riverside Pain Management Center
+Provider: Dr. Helen Cho, MD
+Visit Type: Procedure
+Clinical Note:
+  Subjective: Presents for L4-L5 and L5-S1 bilateral medial branch block. Reports pregabalin providing moderate relief.
+  Procedures: Bilateral L4, L5, and S1 medial branch blocks under fluoroscopic guidance. Bupivacaine 0.5% 0.5mL at each level.
+  Plan: If >80% pain relief for 6+ hours, proceed with radiofrequency ablation. Pain diary for 48 hours. Return in 2 weeks for evaluation and possible second diagnostic block.
+--- END ADDENDUM ---
+
+Electronically Signed,
+Disability Analyst #5821
+Medical Consultant #M309
+
+Date of Determination: February 12, 2024
+
+CLAIMANT: Harrison, John S. | SSN: XXX-XX-6789 | CLAIM #: 459-12-3456 | Page 6 of 6

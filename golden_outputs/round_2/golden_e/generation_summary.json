@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-03-27T01:05:34.212533Z",
+  "instruction_file": "instruction.txt",
+  "source_file": "golden/golden_e/synthetic_source.txt",
+  "source_chars": 26965,
+  "prompt_chars": 31897,
+  "models": [
+    {
+      "label": "minimax-m2.5",
+      "provider": "nebius",
+      "model": "MiniMaxAI/MiniMax-M2.5",
+      "prompt_tokens": 7965,
+      "completion_tokens": 4949,
+      "total_tokens": 12914,
+      "duration_seconds": 212.85,
+      "output_chars": 21832,
+      "output_path": "golden_outputs/round_2/golden_e/minimax-m2.5/output.md",
+      "generated_at": "2026-03-27T01:05:34.212031Z",
+      "status": "success"
+    }
+  ]
+}

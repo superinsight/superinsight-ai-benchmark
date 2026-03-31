@@ -1,0 +1,243 @@
+{
+  "created_at": "2026-03-25T07:56:41.371435+00:00",
+  "method": "multi-model-consensus",
+  "source_outputs": "outputs/mc_source_a_small_v2",
+  "consensus_models_used": 5,
+  "consensus_threshold": 2,
+  "style": "dde",
+  "source_file": "synthetic_source.txt",
+  "total_must_extract": 7,
+  "total_may_extract": 2,
+  "entries": [
+    {
+      "index": 0,
+      "encounter_date": "2013-03-15",
+      "facility_name": "WELLNESS CONSULTANTS LTD",
+      "provider_name": "Not specified",
+      "visit_type": "Imaging",
+      "must_extract": true,
+      "key_fields": {
+        "imaging_findings": "MRI RT shoulder: Large complex-partial-thickness tear with a- superimposed small full-thickness tear of the distal rotator cuff tendon. Regional abnormal bone marrow signal in the superolateral humeral head may reflect contusion at the attachment of the distal rotator cuff tendon at the tuberosity. Grade 2 SLAP tear of the glenoid labrum anteriorly. MRI C-SPINE: R paracentral disc herniation C4-C5 w/R sided narrowing. MRI: LUMBAR - R paracentral disc herniation L5-S1.",
+        "diagnoses": "Rotator cuff tear; SLAP tear; C-spine disc herniation; Lumbar disc herniation."
+      },
+      "consensus_count": 4,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro"
+      ]
+    },
+    {
+      "index": 1,
+      "encounter_date": "2022-09-15",
+      "facility_name": "Metro Health & Wellness Center",
+      "provider_name": "Not specified",
+      "visit_type": "Exam",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Sits in chair without distress; c/o pain improved by rest; ambulating without assistive devices.",
+        "objective": "Weight: 69.85kg; BMI: 24.9; B/P: 126/86. Patient sits in chair without distress; ambulating without assistive devices. Gait: WNL; Coordination: WNL. Hip Exam: Flexion 120; Adduction 15; Extension 20; Abduction 40; Internal Rotation 5/5. Strength: Lower Extremities 5/5. Sensation: Normal bilaterally. Vasculature: 2+. DTR LE: Patellar 2+/2+; Achilles 2+/2+.",
+        "diagnoses": "Avascular Necrosis bone of Right hip.",
+        "imaging_findings": "Right Hip X-ray: Arthritis changes in right hip with increased sclerosis and decreased joint space.",
+        "mss": "HIP EXAM: Flex-120; Adduction: 15; Extension-20; Abduction: 40; IR: 5/5; Strength: L/E: 5/5; Normal sensation bilaterally; Vasculature: 2+; DTR LE: Patellar 2+/2+; Achilles: 2+/2+."
+      },
+      "consensus_count": 5,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b"
+      ]
+    },
+    {
+      "index": 2,
+      "encounter_date": "2023-01-20",
+      "facility_name": "Not specified",
+      "provider_name": "Dr. Emily Carter, MD",
+      "visit_type": "Imaging",
+      "must_extract": true,
+      "key_fields": {
+        "imaging_findings": "ECHO: LVEF 55%.",
+        "lab_results": "ECHO: LVEF 55%.",
+        "objective": "ECHO: LVEF 55%"
+      },
+      "consensus_count": 4,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro"
+      ]
+    },
+    {
+      "index": 3,
+      "encounter_date": "2023-01-26",
+      "facility_name": "Metro Health & Wellness Center",
+      "provider_name": "Not specified",
+      "visit_type": "Office Visit",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Patient complains of right hip pain; expresses interest in surgery.",
+        "objective": "Exam intact distally; Right hip flexion to 90 degrees; no deformity or tenderness. Right lower extremity neurovascularly intact; 2+ DP pulse.",
+        "diagnoses": "Osteoarthritis Right hip.",
+        "mss": "R Hip Flex to 90 degrees; no deformity or tenderness; R LE neurovascularly intact; 2+ DP pulse."
+      },
+      "consensus_count": 5,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b"
+      ]
+    },
+    {
+      "index": 4,
+      "encounter_date": "2023-02-08",
+      "facility_name": "Central Plains Medical Center",
+      "provider_name": "Not specified",
+      "visit_type": "Surgery",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Would like to proceed with robotic assisted total hip arthroplasty. Discharge summary: s/p RT total hip arthroplasty.",
+        "imaging_findings": "X-rays Right hip: Arthroplasty with prosthesis in good position and alignment. Left hip: SI joints and symphysis pubis unremarkable.",
+        "procedures": "RT total hip arthroplasty (robotic assisted).",
+        "diagnoses": "Osteoarthritis of Right hip.",
+        "plan": "Discharge summary: status post Right total hip arthroplasty."
+      },
+      "consensus_count": 5,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b"
+      ]
+    },
+    {
+      "index": 5,
+      "encounter_date": "2023-04-13",
+      "facility_name": "Metro Health & Wellness Center",
+      "provider_name": "Not specified",
+      "visit_type": "Post-Op Visit",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "POST OP Visit - S/P R total hip arthroplasty on surgery of 2/8/23; not in PT; no longer taking anything for pain control; happy w/progress; did not need anything for pain.",
+        "objective": "Stable gait; using cane. Incision healed nicely. Hip ROM improving. Right lower extremity neurovascularly intact; 2+ DP pulse. +EHL/FHL/GSC/TA. Sensation intact to light touch. No calf pain; negative Homan's.",
+        "medications": "No longer taking anything for pain control.",
+        "plan": "Did not need anything for pain.",
+        "mss": "HIP ROM improving; R LE NVI, 2+ DP pulse; +EHL/FHL/GSC/TA; Sensation intact to light touch; no calf pain; negative Homan's.",
+        "diagnoses": "S/P R total hip arthroplasty."
+      },
+      "consensus_count": 5,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b"
+      ]
+    },
+    {
+      "index": 6,
+      "encounter_date": "2023-07-06",
+      "facility_name": "Sterling Health Clinic",
+      "provider_name": "Not specified",
+      "visit_type": "Office Visit",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Chief complaint of a lump in the nipple with mild tenderness.",
+        "objective": "Neck: Left posterior neck mild tenderness on palpation of C-spine area (approximately at C7). Physical exam: Lump in right breast.",
+        "diagnoses": "Hypertension (HTN); Lump in right breast; C-spine pain; Thyroid abnormality.",
+        "mss": "Neck L post neck mild tenderness on palpation of C spine area approx at C7 area."
+      },
+      "consensus_count": 5,
+      "consensus_models": [
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3-flash",
+        "gemini-3.1-pro",
+        "qwen3-235b"
+      ]
+    },
+    {
+      "index": 7,
+      "encounter_date": "2023-01-16",
+      "facility_name": "Metro Health & Wellness #1",
+      "provider_name": "Not specified",
+      "visit_type": "Office Visit",
+      "must_extract": "may_extract",
+      "key_fields": {},
+      "consensus_count": 1,
+      "consensus_models": [
+        "gemini-3-flash"
+      ]
+    },
+    {
+      "index": 8,
+      "encounter_date": "2023-10-28",
+      "facility_name": "M. Jennings, MD",
+      "provider_name": "Not specified",
+      "visit_type": "A consultative internal medicine examination was performed to assess physical limitations, including range of motion, strength, and functional capacity.",
+      "must_extract": "may_extract",
+      "key_fields": {}
+    },
+    {
+      "index": 9,
+      "encounter_date": "2022-08-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 10,
+      "encounter_date": "2022-09-16",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 11,
+      "encounter_date": "2022-10-05",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 12,
+      "encounter_date": "2023-09-01",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 13,
+      "encounter_date": "2023-10-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 14,
+      "encounter_date": "2027-12-31",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    }
+  ],
+  "total_noise": 6
+}

@@ -1,0 +1,13 @@
+{
+  "label": "gemini-2.5-flash",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_tokens": 25978,
+  "completion_tokens": 9142,
+  "total_tokens": 35120,
+  "duration_seconds": 41.92,
+  "output_chars": 35206,
+  "output_path": "golden_outputs/round_3/golden_f/gemini-2.5-flash/output.md",
+  "generated_at": "2026-03-27T02:25:44.971920Z",
+  "status": "success"
+}

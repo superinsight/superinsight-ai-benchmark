@@ -1,0 +1,13 @@
+{
+  "label": "gemini-2.5-pro",
+  "provider": "gemini",
+  "model": "gemini-2.5-pro",
+  "prompt_tokens": 25978,
+  "completion_tokens": 3974,
+  "total_tokens": 34037,
+  "duration_seconds": 64.99,
+  "output_chars": 14297,
+  "output_path": "golden_outputs/round_3/golden_f/gemini-2.5-pro/output.md",
+  "generated_at": "2026-03-27T02:25:02.062748Z",
+  "status": "success"
+}

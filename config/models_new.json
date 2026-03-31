@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "openai",
+    "model": "gpt-5.4-pro",
+    "label": "gpt-5.4-pro"
+  },
+  {
+    "provider": "openai",
+    "model": "gpt-5.4-mini",
+    "label": "gpt-5.4-mini"
+  },
+  {
+    "provider": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "label": "claude-opus-4.5"
+  },
+  {
+    "provider": "nebius",
+    "model": "MiniMaxAI/MiniMax-M2.5",
+    "label": "minimax-m2.5"
+  }
+]

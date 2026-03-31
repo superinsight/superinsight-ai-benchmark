@@ -1,0 +1,247 @@
+{
+  "created_at": "2026-03-26T14:32:13.847851+00:00",
+  "method": "synthetic-design",
+  "source_outputs": "",
+  "consensus_models_used": 0,
+  "consensus_threshold": 2,
+  "style": "mixed",
+  "source_file": "synthetic_source.txt",
+  "total_must_extract": 10,
+  "total_may_extract": 0,
+  "entries": [
+    {
+      "index": 0,
+      "encounter_date": "2024-01-15",
+      "facility_name": "Valley General Hospital",
+      "provider_name": "Dr. Patricia Owens, MD",
+      "visit_type": "Emergency Department",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Patient is a 52-year-old female presenting to ED via ambulance after fall at home. Tripped on carpet and fell onto right arm. Reports immediate pain and deformity of right wrist. Denies LOC, head strike, or other injuries. PMH: Osteoporosis, hypothyroidism, GERD.",
+        "objective": "Temp 98.2, BP 148/92 (pain), HR 88, RR 16, SpO2 99%. Right wrist with obvious dorsal angulation and swelling. Tenderness over distal radius. Neurovascular intact distally: radial pulse 2+, cap refill <2 sec, sensation intact median/ulnar/radial nerve distributions. No open wound.",
+        "imaging_findings": "X-ray right wrist AP/lateral: Dorsally angulated distal radius fracture with 15 degrees dorsal tilt (Colles fracture). No ulnar fracture. No carpal bone fracture identified.",
+        "diagnoses": "Closed fracture of distal right radius (Colles fracture); Osteoporosis.",
+        "procedures": "Closed reduction performed under hematoma block (Lidocaine 1% 10mL). Post-reduction films show improved alignment with 5 degrees dorsal tilt. Sugar-tong splint applied.",
+        "plan": "Orthopedic follow-up within 5 days. Oxycodone 5mg q4-6h PRN pain. Ice and elevation. DEXA scan recommended given osteoporosis and fragility fracture.",
+        "medications": "Oxycodone 5mg #20, Acetaminophen 500mg q6h, Continue levothyroxine and omeprazole."
+      }
+    },
+    {
+      "index": 1,
+      "encounter_date": "2024-01-22",
+      "facility_name": "Mountain View Orthopedics",
+      "provider_name": "Dr. Kevin Langston, MD",
+      "visit_type": "Orthopedic Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Follow-up 1 week post closed reduction of right distal radius fracture. Pain controlled with acetaminophen only, discontinued oxycodone after 3 days. Swelling decreased. Numbness in right thumb and index finger since splint application.",
+        "objective": "Splint intact. Fingers: mild swelling, full ROM. Decreased light touch sensation right thumb and index finger (median nerve distribution). Two-point discrimination 8mm (abnormal, normal <6mm). Motor: thumb opposition weak 4/5.",
+        "imaging_findings": "X-ray right wrist: Fracture alignment maintained. Dorsal tilt 5 degrees. No displacement.",
+        "diagnoses": "Healing distal radius fracture; Carpal tunnel syndrome, acute, likely post-traumatic.",
+        "plan": "Convert to short-arm cast for 4 more weeks. Monitor median nerve symptoms \u2014 if worsening, may need urgent carpal tunnel release. DEXA scan ordered. Follow-up 2 weeks for cast check.",
+        "mss": "Right thumb opposition 4/5; decreased light touch median nerve distribution; 2-point discrimination 8mm."
+      }
+    },
+    {
+      "index": 2,
+      "encounter_date": "2024-02-05",
+      "facility_name": "Mountain View Orthopedics",
+      "provider_name": "Dr. Kevin Langston, MD",
+      "visit_type": "Orthopedic Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Cast check. Numbness in thumb and index finger persists but not worsening. Pain minimal. Able to use left hand for most activities.",
+        "imaging_findings": "X-ray through cast: Fracture alignment maintained. Early callus formation visible.",
+        "diagnoses": "Healing distal radius fracture; Acute carpal tunnel syndrome, stable.",
+        "plan": "Continue cast 2 more weeks. EMG/NCS ordered to quantify median nerve compression. Follow-up for cast removal."
+      }
+    },
+    {
+      "index": 3,
+      "encounter_date": "2024-02-12",
+      "facility_name": "Central Valley Electrodiagnostics",
+      "provider_name": "Dr. Laura Esposito, MD",
+      "visit_type": "Electrodiagnostic Study",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Referred for EMG/NCS evaluation of right hand numbness following distal radius fracture.",
+        "objective": "Nerve Conduction Studies: Right median motor distal latency 5.8 ms (normal <4.2 ms, abnormal). Right median sensory distal latency 4.6 ms (normal <3.5 ms, abnormal). Right median SNAP amplitude 12 uV (normal >20 uV, reduced). Right ulnar motor and sensory: normal. Left median: normal. EMG: Right abductor pollicis brevis \u2014 mild increased insertional activity, no fibrillation potentials, decreased recruitment with large motor unit potentials. Other muscles (FDI, pronator teres, biceps, deltoid, cervical paraspinals): normal.",
+        "diagnoses": "Moderate right carpal tunnel syndrome at the wrist, likely post-traumatic. No evidence of cervical radiculopathy or brachial plexopathy.",
+        "plan": "Report sent to referring orthopedist. Recommend surgical consultation if symptoms persist after fracture healing and cast removal."
+      }
+    },
+    {
+      "index": 4,
+      "encounter_date": "2024-02-19",
+      "facility_name": "Mountain View Orthopedics",
+      "provider_name": "Dr. Kevin Langston, MD",
+      "visit_type": "Cast Removal / Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Presents for cast removal at 5 weeks post-injury. Numbness unchanged. No pain at fracture site.",
+        "objective": "Cast removed. Right wrist: mild residual swelling, no tenderness at fracture site. ROM: Flexion 35/80 degrees, Extension 30/70, Pronation 60/80, Supination 65/85. Grip strength: R 15 lbs, L 55 lbs (27% of contralateral). Median nerve: decreased sensation persistent.",
+        "imaging_findings": "X-ray right wrist: Fracture healed with good alignment. Mild residual dorsal tilt (7 degrees).",
+        "diagnoses": "Healed distal radius fracture with residual stiffness; Moderate carpal tunnel syndrome, persistent.",
+        "plan": "Begin OT/hand therapy 3x/week for ROM and strengthening. Wrist splint for comfort as needed. Carpal tunnel surgery if no improvement in median nerve symptoms by 8 weeks post-cast removal. Follow-up 6 weeks.",
+        "referrals": "Occupational therapy / hand therapy.",
+        "mss": "R wrist ROM: Flex 35/80, Ext 30/70, Pronation 60/80, Supination 65/85. Grip R 15 lbs, L 55 lbs."
+      }
+    },
+    {
+      "index": 5,
+      "encounter_date": "2024-03-11",
+      "facility_name": "Hillside Imaging Center",
+      "provider_name": "Dr. Raymond Chu, MD",
+      "visit_type": "Imaging",
+      "must_extract": true,
+      "key_fields": {
+        "imaging_findings": "DEXA scan: Lumbar spine T-score -2.8 (osteoporosis). Left femoral neck T-score -2.3 (osteoporosis). Right forearm T-score -3.1 (severe osteoporosis). FRAX 10-year probability: Major osteoporotic fracture 28%, Hip fracture 8.5%.",
+        "diagnoses": "Osteoporosis with high fracture risk.",
+        "plan": "Results forwarded to PCP and orthopedist. Recommend pharmacologic treatment for osteoporosis."
+      }
+    },
+    {
+      "index": 6,
+      "encounter_date": "2024-04-01",
+      "facility_name": "Mountain View Orthopedics",
+      "provider_name": "Dr. Kevin Langston, MD",
+      "visit_type": "Orthopedic Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "6 weeks post-cast removal. ROM improving with hand therapy. Grip strength better. Numbness in thumb/index finger persists, now also with night-time awakening from paresthesias. Dropping objects occasionally.",
+        "objective": "Wrist ROM: Flexion 55/80, Extension 50/70, Pronation 75/80, Supination 80/85. Grip R 28 lbs, L 58 lbs (48% contralateral). Tinel's sign positive at right carpal tunnel. Phalen's test positive at 15 seconds. Median nerve sensation still decreased.",
+        "diagnoses": "Moderate-to-severe right carpal tunnel syndrome, post-traumatic, worsening; Status post healed distal radius fracture.",
+        "plan": "Given persistent and worsening CTS symptoms despite conservative management and fracture healing, recommend carpal tunnel release surgery. Pre-op labs ordered. Surgery scheduled in 2 weeks.",
+        "mss": "Wrist ROM: Flex 55/80, Ext 50/70. Grip R 28 lbs, L 58 lbs. Tinel's +, Phalen's + at 15 sec."
+      }
+    },
+    {
+      "index": 7,
+      "encounter_date": "2024-04-15",
+      "facility_name": "Valley General Hospital \u2014 Ambulatory Surgery Center",
+      "provider_name": "Dr. Kevin Langston, MD",
+      "visit_type": "Surgery",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Patient presents for scheduled right carpal tunnel release. NPO since midnight. Pre-op labs normal.",
+        "procedures": "Right open carpal tunnel release under local anesthesia with IV sedation. Transverse carpal ligament divided. Median nerve appeared flattened and pale at compression site. Flexor tenosynovium thickened; partial tenosynovectomy performed. Wound closed with 4-0 nylon. Soft dressing and volar splint applied.",
+        "diagnoses": "Moderate-to-severe right carpal tunnel syndrome, post-traumatic.",
+        "plan": "Post-op: Keep splint dry and elevated. Finger ROM exercises immediately. Ice 20 min q2h. Follow-up 10-14 days for suture removal. Oxycodone 5mg #15 for breakthrough pain.",
+        "medications": "Oxycodone 5mg #15, Acetaminophen 500mg q6h, Cephalexin 500mg QID x7 days prophylaxis."
+      }
+    },
+    {
+      "index": 8,
+      "encounter_date": "2024-04-29",
+      "facility_name": "Mountain View Orthopedics",
+      "provider_name": "Dr. Kevin Langston, MD",
+      "visit_type": "Post-Op Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Post-op 2 weeks after carpal tunnel release. Reports significant improvement in numbness \u2014 tingling in thumb and index finger reduced by 70%. Night-time paresthesias resolved. Mild incisional tenderness. Using hand more for light activities.",
+        "objective": "Incision healing well, no signs of infection. Sutures removed. Tinel's at incision mildly positive (expected post-op). Sensation improving in median distribution. Thumb opposition 4+/5. Grip not yet tested (too early post-op).",
+        "diagnoses": "Status post right carpal tunnel release, good early recovery.",
+        "plan": "Resume hand therapy in 1 week focusing on scar mobilization, grip strengthening, and nerve gliding exercises. Wean off splint during day. Follow-up 6 weeks.",
+        "mss": "Incision healing well. Thumb opposition 4+/5. Median sensation improving."
+      }
+    },
+    {
+      "index": 9,
+      "encounter_date": "2024-06-10",
+      "facility_name": "Mountain View Orthopedics",
+      "provider_name": "Dr. Kevin Langston, MD",
+      "visit_type": "Final Orthopedic Follow-up",
+      "must_extract": true,
+      "key_fields": {
+        "subjective": "Final follow-up. Numbness fully resolved. Grip strength subjectively near normal. Returned to all daily activities. No night symptoms. Occasional mild wrist stiffness in the morning.",
+        "objective": "Wrist ROM: Flexion 70/80, Extension 65/70, Pronation 80/80, Supination 85/85. Grip R 48 lbs, L 56 lbs (86% contralateral). Sensation normal median distribution. Tinel's negative. Scar well-healed, mobile.",
+        "diagnoses": "Right carpal tunnel syndrome, post-surgical, resolved; Healed right distal radius fracture; Osteoporosis.",
+        "plan": "Discharged from orthopedic care. Continue hand therapy PRN. Follow-up with PCP for osteoporosis management. If wrist stiffness persists, may return for evaluation.",
+        "mss": "Wrist ROM: Flex 70/80, Ext 65/70. Full pronation/supination. Grip R 48 lbs, L 56 lbs. Sensation normal.",
+        "referrals": "PCP for osteoporosis pharmacotherapy. Hand therapy PRN."
+      }
+    },
+    {
+      "index": 10,
+      "encounter_date": "1971-05-18",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 11,
+      "encounter_date": "2024-01-18",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 12,
+      "encounter_date": "2024-01-25",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 13,
+      "encounter_date": "2024-02-14",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 14,
+      "encounter_date": "2024-02-21",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 15,
+      "encounter_date": "2024-03-00",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 16,
+      "encounter_date": "2024-03-20",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 17,
+      "encounter_date": "2024-04-08",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    },
+    {
+      "index": 18,
+      "encounter_date": "2024-05-15",
+      "facility_name": "NOISE",
+      "provider_name": "NOISE",
+      "visit_type": "administrative/non-clinical",
+      "must_extract": false,
+      "key_fields": {}
+    }
+  ],
+  "total_noise": 9
+}

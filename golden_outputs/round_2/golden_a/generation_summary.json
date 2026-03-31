@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-03-26T06:39:31.288568Z",
+  "instruction_file": "instruction.txt",
+  "source_file": "golden/golden_a/synthetic_source.txt",
+  "source_chars": 17914,
+  "prompt_chars": 22846,
+  "models": [
+    {
+      "label": "gpt-5.4-pro",
+      "provider": "openai",
+      "model": "gpt-5.4-pro",
+      "prompt_tokens": 5474,
+      "completion_tokens": 13551,
+      "total_tokens": 19025,
+      "duration_seconds": 449.16,
+      "output_chars": 11410,
+      "output_path": "golden_outputs/round_2/golden_a/gpt-5.4-pro/output.md",
+      "generated_at": "2026-03-26T06:39:31.288349Z",
+      "status": "success"
+    }
+  ]
+}

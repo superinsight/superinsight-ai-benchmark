@@ -1,0 +1,246 @@
+{
+  "golden_a": {
+    "models": [
+      "claude-opus-4.5",
+      "claude-opus-4.6",
+      "gemini-2.5-flash",
+      "gemini-2.5-pro",
+      "gemini-3-flash",
+      "gemini-3.1-pro",
+      "gpt-5.4",
+      "gpt-5.4-mini",
+      "gpt-5.4-pro",
+      "minimax-m2.5",
+      "qwen3-235b"
+    ],
+    "n": 11,
+    "correlations": {
+      "avg_semantic_similarity": {
+        "label": "Semantic Fidelity",
+        "n": 11,
+        "pearson": -0.3672,
+        "spearman": -0.4182
+      },
+      "avg_rouge_l_f1": {
+        "label": "ROUGE-L F1",
+        "n": 11,
+        "pearson": -0.366,
+        "spearman": -0.3818
+      },
+      "avg_token_overlap": {
+        "label": "Token Overlap",
+        "n": 11,
+        "pearson": -0.276,
+        "spearman": -0.1455
+      }
+    }
+  },
+  "golden_b": {
+    "models": [
+      "claude-opus-4.5",
+      "claude-opus-4.6",
+      "gemini-2.5-flash",
+      "gemini-2.5-pro",
+      "gemini-3-flash",
+      "gemini-3.1-pro",
+      "gpt-5.4",
+      "gpt-5.4-mini",
+      "gpt-5.4-pro",
+      "minimax-m2.5",
+      "qwen3-235b"
+    ],
+    "n": 11,
+    "correlations": {
+      "avg_semantic_similarity": {
+        "label": "Semantic Fidelity",
+        "n": 11,
+        "pearson": -0.5739,
+        "spearman": -0.5455
+      },
+      "avg_rouge_l_f1": {
+        "label": "ROUGE-L F1",
+        "n": 11,
+        "pearson": -0.0067,
+        "spearman": -0.1273
+      },
+      "avg_token_overlap": {
+        "label": "Token Overlap",
+        "n": 11,
+        "pearson": 0.0389,
+        "spearman": -0.0545
+      }
+    }
+  },
+  "golden_c": {
+    "models": [
+      "claude-opus-4.5",
+      "claude-opus-4.6",
+      "gemini-2.5-flash",
+      "gemini-2.5-pro",
+      "gemini-3-flash",
+      "gemini-3.1-pro",
+      "gpt-5.4",
+      "gpt-5.4-mini",
+      "gpt-5.4-pro",
+      "minimax-m2.5",
+      "qwen3-235b"
+    ],
+    "n": 11,
+    "correlations": {
+      "avg_semantic_similarity": {
+        "label": "Semantic Fidelity",
+        "n": 11,
+        "pearson": -0.2454,
+        "spearman": -0.4455
+      },
+      "avg_rouge_l_f1": {
+        "label": "ROUGE-L F1",
+        "n": 11,
+        "pearson": -0.0481,
+        "spearman": -0.1273
+      },
+      "avg_token_overlap": {
+        "label": "Token Overlap",
+        "n": 11,
+        "pearson": 0.0195,
+        "spearman": -0.1364
+      }
+    }
+  },
+  "golden_d": {
+    "models": [
+      "claude-opus-4.5",
+      "claude-opus-4.6",
+      "gemini-2.5-flash",
+      "gemini-2.5-pro",
+      "gemini-3-flash",
+      "gemini-3.1-pro",
+      "gpt-5.4",
+      "gpt-5.4-mini",
+      "gpt-5.4-pro",
+      "minimax-m2.5",
+      "qwen3-235b"
+    ],
+    "n": 11,
+    "correlations": {
+      "avg_semantic_similarity": {
+        "label": "Semantic Fidelity",
+        "n": 11,
+        "pearson": -0.2375,
+        "spearman": -0.3
+      },
+      "avg_rouge_l_f1": {
+        "label": "ROUGE-L F1",
+        "n": 11,
+        "pearson": -0.178,
+        "spearman": -0.2455
+      },
+      "avg_token_overlap": {
+        "label": "Token Overlap",
+        "n": 11,
+        "pearson": -0.1855,
+        "spearman": -0.3545
+      }
+    }
+  },
+  "golden_e": {
+    "models": [
+      "claude-opus-4.5",
+      "claude-opus-4.6",
+      "gemini-2.5-flash",
+      "gemini-2.5-pro",
+      "gemini-3-flash",
+      "gemini-3.1-pro",
+      "gpt-5.4",
+      "gpt-5.4-mini",
+      "gpt-5.4-pro",
+      "minimax-m2.5",
+      "qwen3-235b"
+    ],
+    "n": 11,
+    "correlations": {
+      "avg_semantic_similarity": {
+        "label": "Semantic Fidelity",
+        "n": 11,
+        "pearson": -0.1112,
+        "spearman": -0.1636
+      },
+      "avg_rouge_l_f1": {
+        "label": "ROUGE-L F1",
+        "n": 11,
+        "pearson": -0.2239,
+        "spearman": -0.1545
+      },
+      "avg_token_overlap": {
+        "label": "Token Overlap",
+        "n": 11,
+        "pearson": -0.2611,
+        "spearman": -0.2909
+      }
+    }
+  },
+  "golden_f": {
+    "models": [
+      "claude-opus-4.5",
+      "claude-opus-4.6",
+      "gemini-2.5-flash",
+      "gemini-2.5-pro",
+      "gemini-3-flash",
+      "gemini-3.1-pro",
+      "gpt-5.4",
+      "gpt-5.4-mini",
+      "gpt-5.4-pro",
+      "minimax-m2.5",
+      "qwen3-235b"
+    ],
+    "n": 11,
+    "correlations": {
+      "avg_semantic_similarity": {
+        "label": "Semantic Fidelity",
+        "n": 11,
+        "pearson": 0.1357,
+        "spearman": 0.0727
+      },
+      "avg_rouge_l_f1": {
+        "label": "ROUGE-L F1",
+        "n": 11,
+        "pearson": 0.3035,
+        "spearman": -0.0091
+      },
+      "avg_token_overlap": {
+        "label": "Token Overlap",
+        "n": 11,
+        "pearson": 0.2348,
+        "spearman": -0.0273
+      }
+    }
+  },
+  "_overall": {
+    "correlations": {
+      "avg_semantic_similarity": {
+        "label": "Semantic Fidelity",
+        "n": 66,
+        "pearson": -0.2886,
+        "spearman": -0.2851
+      },
+      "avg_rouge_l_f1": {
+        "label": "ROUGE-L F1",
+        "n": 66,
+        "pearson": -0.189,
+        "spearman": -0.2234
+      },
+      "avg_token_overlap": {
+        "label": "Token Overlap",
+        "n": 66,
+        "pearson": -0.1618,
+        "spearman": -0.2227
+      }
+    }
+  },
+  "_inter_judge": {
+    "mean_agreement": 0.8853,
+    "n_evaluations": 66,
+    "min": 0.75,
+    "max": 1.0
+  }
+}

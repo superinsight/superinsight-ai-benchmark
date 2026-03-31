@@ -1,0 +1,7 @@
+{
+  "comparison_name": "Model Comparison - instruction",
+  "instruction": "../../../instruction.txt",
+  "source": "../../../golden/golden_f/synthetic_source.txt",
+  "parser": "auto",
+  "models": []
+}

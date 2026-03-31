@@ -1,0 +1,73 @@
+{
+  "valid": true,
+  "entries": [
+    {
+      "encounter_date": "2024-01-15",
+      "facility": "Valley General Hospital",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-01-22",
+      "facility": "Mountain View Orthopedics",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-02-05",
+      "facility": "Mountain View Orthopedics",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-02-12",
+      "facility": "Central Valley Electrodiagnostics",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-02-19",
+      "facility": "Mountain View Orthopedics",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-03-11",
+      "facility": "Hillside Imaging Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-04-01",
+      "facility": "Mountain View Orthopedics",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-04-15",
+      "facility": "Valley General Hospital \u2014 Ambulatory Surgery Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-04-29",
+      "facility": "Mountain View Orthopedics",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-06-10",
+      "facility": "Mountain View Orthopedics",
+      "date_found": true,
+      "facility_found": true
+    }
+  ],
+  "warnings": [],
+  "summary": {
+    "total_must_extract": 10,
+    "total_may_extract": 0,
+    "dates_found_in_source": 10,
+    "noise_entries": 9,
+    "coverage": "10/10"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "valid": true,
+  "entries": [
+    {
+      "encounter_date": "2013-03-15",
+      "facility": "WELLNESS CONSULTANTS LTD",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2022-09-15",
+      "facility": "Metro Health & Wellness Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2023-01-20",
+      "facility": "Not specified",
+      "date_found": true,
+      "facility_found": false
+    },
+    {
+      "encounter_date": "2023-01-26",
+      "facility": "Metro Health & Wellness Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2023-02-08",
+      "facility": "Central Plains Medical Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2023-04-13",
+      "facility": "Metro Health & Wellness Center",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2023-07-06",
+      "facility": "Sterling Health Clinic",
+      "date_found": true,
+      "facility_found": true
+    }
+  ],
+  "warnings": [],
+  "summary": {
+    "total_must_extract": 7,
+    "total_may_extract": 2,
+    "dates_found_in_source": 7,
+    "noise_entries": 6,
+    "coverage": "7/7"
+  }
+}

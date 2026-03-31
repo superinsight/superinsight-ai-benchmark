@@ -1,0 +1,61 @@
+{
+  "valid": true,
+  "entries": [
+    {
+      "encounter_date": "2024-05-02",
+      "facility": "Bridgewater Psychiatry Walnut Street",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-11-14",
+      "facility": "Bridgewater Psychiatry Walnut Street",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-12-17",
+      "facility": "Bridgewater Heart and Vascular Center Briarwood",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-12-26",
+      "facility": "Bridgewater Adolescent and Young Adult Medicine Briarwood",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2024-12-27",
+      "facility": "Bridgewater Psychiatry Walnut Street",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-01-07",
+      "facility": "Bridgewater Heart and Vascular Center Briarwood",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-01-27",
+      "facility": "Bridgewater Psychiatry Walnut Street",
+      "date_found": true,
+      "facility_found": true
+    },
+    {
+      "encounter_date": "2025-02-10",
+      "facility": "Bridgewater Adolescent and Young Adult Medicine Briarwood",
+      "date_found": true,
+      "facility_found": true
+    }
+  ],
+  "warnings": [],
+  "summary": {
+    "total_must_extract": 8,
+    "total_may_extract": 0,
+    "dates_found_in_source": 8,
+    "noise_entries": 15,
+    "coverage": "8/8"
+  }
+}
