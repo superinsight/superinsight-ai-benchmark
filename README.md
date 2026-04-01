@@ -30,6 +30,10 @@ This benchmark evaluates **11 frontier LLMs** across **6 golden datasets**, **3 
 
 **How to read:** S-tier is statistically significantly better than all lower tiers (p<0.05, paired bootstrap, 10K iterations). Within a tier, differences are not significant — models are interchangeable. Composite = F1 30% + Semantic 20% + Halluc 20% + Fmt 10% + Chrono 10% + ROUGE 10%. See [METHODOLOGY.md](METHODOLOGY.md) for full details.
 
+![Hallucination Score by Model and Dataset](charts/9_hallucination_score.png)
+
+> Hallucination is the widest-gap dimension (81.2–95.4%) and the primary differentiator between models. Each bar is one golden dataset; error bars show 3-round variance. Higher = fewer hallucinations.
+
 ## What This Benchmark Measures
 
 Given an unstructured medical record, can the LLM extract a structured chronological timeline of clinical encounters?
