@@ -152,10 +152,10 @@ Golden entries are fed to an LLM that generates a realistic medical record:
 
 | Dataset | Style | Must | May | Noise | Tokens | Design Intent |
 |---------|-------|:---:|:---:|:---:|:---:|:---:|
-| **golden_a** | DDE | 7 | 2 | 6 | 4.4K | Baseline — short, clean DDE |
+| **golden_a** | DDE (Disability Determination) | 7 | 2 | 6 | 4.4K | Baseline — short, clean |
 | **golden_b** | Clinical Note | 10 | 1 | 8 | 11.1K | Paraphrasing stress test |
 | **golden_c** | Mixed | 5 | 3 | 15 | 7.6K | Noise filtering (highest noise ratio) |
-| **golden_d** | DDE | 15 | 0 | 13 | 7.2K | Volume stress (15 entries) ⚠️ |
+| **golden_d** | DDE (Disability Determination) | 15 | 0 | 13 | 7.2K | Volume stress (15 entries) ⚠️ |
 | **golden_e** | Mixed | 8 | 0 | 5 | 7.0K | Balanced difficulty |
 | **golden_f** | Mixed | 10 | 0 | 9 | 14.4K | OCR degradation + long document |
 
@@ -338,17 +338,17 @@ Golden entries are fed to an LLM that generates a realistic medical record:
 
 | Model | F1 | Fmt | Chrono | ROUGE-L | Semantic | Halluc | Composite |
 |-------|:--:|:---:|:------:|:-------:|:--------:|:------:|:---------:|
-| **claude-opus-4.6** | 100.0% | 98.2% | 100% | 51.9% | 75.4% | 94.0% | **0.889** |
-| **claude-opus-4.5** | 98.2% | 98.7% | 100% | 47.9% | 74.2% | 93.9% | 0.877 |
-| **gemini-2.5-flash** | 99.6% | 99.4% | 100% | 48.1% | 71.9% | 91.6% | 0.873 |
-| gpt-5.4 | 97.3% | 99.3% | 100% | 48.9% | **78.9%** | 86.3% | 0.871 |
-| gpt-5.4-mini | 96.9% | 99.1% | 99.1% | 44.9% | 72.1% | **95.4%** | 0.869 |
-| gpt-5.4-pro | 97.0% | 99.5% | 100% | 47.0% | 78.1% | 86.4% | 0.866 |
-| gemini-3-flash | 100.0% | 99.2% | 100% | 44.3% | 70.7% | 90.7% | 0.866 |
-| qwen3-235b† | 98.5% | 99.2% | 96.0% | 51.4% | 77.2% | 81.2% | 0.859 |
-| gemini-2.5-pro | 97.9% | 99.1% | 100% | 41.0% | 69.2% | 92.4% | 0.857 |
-| minimax-m2.5‡ | 97.8% | 99.2% | 98.8% | 46.7% | 70.2% | 88.9% | 0.856 |
-| gemini-3.1-pro | 99.2% | 99.3% | 100% | 41.5% | 70.7% | 83.6% | 0.847 |
+| **claude-opus-4.6** | 100.0% | 98.2% | 100% | 51.9% | 75.4% | 94.0% | **88.9%** |
+| **claude-opus-4.5** | 98.2% | 98.7% | 100% | 47.9% | 74.2% | 93.9% | 87.7% |
+| **gemini-2.5-flash** | 99.6% | 99.4% | 100% | 48.1% | 71.9% | 91.6% | 87.3% |
+| gpt-5.4 | 97.3% | 99.3% | 100% | 48.9% | **78.9%** | 86.3% | 87.1% |
+| gpt-5.4-mini | 96.9% | 99.1% | 99.1% | 44.9% | 72.1% | **95.4%** | 86.9% |
+| gpt-5.4-pro | 97.0% | 99.5% | 100% | 47.0% | 78.1% | 86.4% | 86.6% |
+| gemini-3-flash | 100.0% | 99.2% | 100% | 44.3% | 70.7% | 90.7% | 86.6% |
+| qwen3-235b† | 98.5% | 99.2% | 96.0% | 51.4% | 77.2% | 81.2% | 85.9% |
+| gemini-2.5-pro | 97.9% | 99.1% | 100% | 41.0% | 69.2% | 92.4% | 85.7% |
+| minimax-m2.5‡ | 97.8% | 99.2% | 98.8% | 46.7% | 70.2% | 88.9% | 85.6% |
+| gemini-3.1-pro | 99.2% | 99.3% | 100% | 41.5% | 70.7% | 83.6% | 84.7% |
 
 > All metrics averaged across 6 golden datasets × 3 rounds. Composite = F1 30% + Semantic 20% + Halluc 20% + Format 10% + Chrono 10% + ROUGE 10%.
 > † FP16 (Nebius dedicated) · ‡ **FP4** (Nebius serverless) · unmarked = official API
@@ -361,7 +361,7 @@ Golden entries are fed to an LLM that generates a realistic medical record:
 
 ## Why Statistical Significance?
 
-**Problem:** Model A averages 0.889 composite, Model B averages 0.857. Is A truly better, or is the gap just luck?
+**Problem:** Model A averages 88.9% composite, Model B averages 85.7%. Is A truly better, or is the gap just luck?
 
 LLMs produce different outputs each run. Without a statistical test, we can't distinguish **real ability gaps** from **random noise**.
 
@@ -394,7 +394,7 @@ LLMs produce different outputs each run. Without a statistical test, we can't di
 | qwen3-235b† vs minimax-m2.5‡ | +0.003 | 0.333 | [−0.010, 0.015] | 0.10 | Not sig. interchangeable |
 | gpt-5.4 vs gpt-5.4-mini | +0.002 | 0.322 | [−0.007, 0.011] | 0.11 | Not sig. interchangeable |
 
-> **Key insight:** A 0.03 composite gap is highly significant (d=1.02), but a 0.004 gap is noise (p=0.24). **Cohen's d** measures effect size: >0.8 = large, 0.5–0.8 = medium, <0.2 = negligible. Composite-based testing captures differences invisible to F1 alone (which is near-ceiling for all models).
+> **Key insight:** A 3-point composite gap is highly significant (d=1.02), but a 0.4-point gap is noise (p=0.24). **Cohen's d** measures effect size: >0.8 = large, 0.5–0.8 = medium, <0.2 = negligible. Composite-based testing captures differences invisible to F1 alone (which is near-ceiling for all models).
 
 ---
 
@@ -412,10 +412,10 @@ LLMs produce different outputs each run. Without a statistical test, we can't di
 
 | Tier | Models | Composite | Statistically Different from Tier Below? |
 |:----:|--------|:---------:|:---------------------------------------:|
-| **S** | claude-opus-4.6 | 0.889 | Yes (p<0.05 vs all below) |
-| **A** | claude-opus-4.5, gemini-2.5-flash, gemini-3-flash | 0.866–0.877 | Mixed — sig. vs C, not always vs B |
-| **B** | gpt-5.4, gpt-5.4-mini, gpt-5.4-pro | 0.867–0.871 | Sig. vs some in C (p<0.05) |
-| **C** | qwen3-235b†, gemini-2.5-pro, minimax-m2.5‡, gemini-3.1-pro | 0.847–0.859 | No (p>0.05 within tier) |
+| **S** | claude-opus-4.6 | 88.9% | Yes (p<0.05 vs all below) |
+| **A** | claude-opus-4.5, gemini-2.5-flash, gemini-3-flash | 86.6–87.7% | Mixed — sig. vs C, not always vs B |
+| **B** | gpt-5.4, gpt-5.4-mini, gpt-5.4-pro | 86.6–87.1% | Sig. vs some in C (p<0.05) |
+| **C** | qwen3-235b†, gemini-2.5-pro, minimax-m2.5‡, gemini-3.1-pro | 84.7–85.9% | No (p>0.05 within tier) |
 
 **Key differences from F1-only tiers:**
 - claude-opus-4.6 stands alone at S-tier (composite captures its hallucination + F1 advantage)
@@ -505,7 +505,7 @@ golden_e → golden_f drop is **42.6pp** (98.7% → 56.1%, 3-round avg) — wors
 
 | Priority | Recommended Model | Key Metric |
 |----------|------------------|------------|
-| **Best composite** | claude-opus-4.6 | 0.889 — 100% F1, 94.0% halluc |
+| **Best composite** | claude-opus-4.6 | 88.9% — 100% F1, 94.0% halluc |
 | **Lowest hallucination** | gpt-5.4-mini / claude-opus-4.6 | 95.4% / 94.0% |
 | **Content quality** | gpt-5.4 / gpt-5.4-pro | 78.9% / 78.1% semantic |
 | **Best balance** | gemini-2.5-flash | 99.6% F1, 91.6% halluc |

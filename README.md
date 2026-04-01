@@ -21,10 +21,10 @@ This benchmark evaluates **11 frontier LLMs** across **6 golden datasets**, **3 
 
 | Tier | Models | Composite | F1 | Hallucination |
 |:----:|--------|:---------:|:--:|:------------:|
-| **S** | claude-opus-4.6 | 0.889 | 100.0% | 94.0% |
-| **A** | claude-opus-4.5, gemini-2.5-flash, gemini-3-flash | 0.866–0.877 | 99.6–100% | 90.7–93.9% |
-| **B** | gpt-5.4, gpt-5.4-mini, gpt-5.4-pro | 0.867–0.871 | 96.9–97.3% | 86.3–95.4% |
-| **C** | qwen3-235b†, gemini-2.5-pro, minimax-m2.5‡, gemini-3.1-pro | 0.847–0.859 | 97.8–99.2% | 81.2–92.4% |
+| **S** | claude-opus-4.6 | 88.9% | 100.0% | 94.0% |
+| **A** | claude-opus-4.5, gemini-2.5-flash, gemini-3-flash | 86.6–87.7% | 99.6–100% | 90.7–93.9% |
+| **B** | gpt-5.4, gpt-5.4-mini, gpt-5.4-pro | 86.6–87.1% | 96.9–97.3% | 86.3–95.4% |
+| **C** | qwen3-235b†, gemini-2.5-pro, minimax-m2.5‡, gemini-3.1-pro | 84.7–85.9% | 97.8–99.2% | 81.2–92.4% |
 
 > † FP16 (Nebius dedicated) · ‡ FP4 (Nebius serverless) · unmarked = official API (precision undisclosed)
 
@@ -62,10 +62,10 @@ Six evaluation dimensions:
 
 | Dataset | Style | Must | May | Noise | Tokens | Design Intent |
 |---------|-------|:---:|:---:|:---:|:---:|:---:|
-| **golden_a** | DDE | 7 | 2 | 6 | 4.4K | Baseline — short, clean DDE |
+| **golden_a** | DDE (Disability Determination) | 7 | 2 | 6 | 4.4K | Baseline — short, clean |
 | **golden_b** | Clinical Note | 10 | 1 | 8 | 11.1K | Paraphrasing stress test |
 | **golden_c** | Mixed | 5 | 3 | 15 | 7.6K | Noise filtering (highest noise ratio) |
-| **golden_d** | DDE | 15 | 0 | 13 | 7.2K | Volume stress (15 entries) |
+| **golden_d** | DDE (Disability Determination) | 15 | 0 | 13 | 7.2K | Volume stress (15 entries) |
 | **golden_e** | Mixed | 8 | 0 | 5 | 7.0K | Balanced difficulty |
 | **golden_f** | Mixed | 10 | 0 | 9 | 14.4K | OCR degradation + long document |
 
@@ -99,6 +99,8 @@ python evaluate_golden_only.py
 ```
 
 This runs the full F1 evaluation pipeline (Hungarian matching, formatting, chronological order) on all 198 pre-generated model outputs and prints the leaderboard.
+
+**Want a hands-on walkthrough?** See [`examples/quickstart/`](examples/quickstart/) — a minimal 2-encounter dataset you can evaluate, modify, and break in under a minute.
 
 ### Full Pipeline (Requires API Keys)
 

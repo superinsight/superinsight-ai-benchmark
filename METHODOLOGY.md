@@ -22,7 +22,7 @@ Six golden datasets span different difficulty axes:
 
 | Dataset | Style | Entries | Noise | Challenge |
 |---------|-------|---------|-------|-----------|
-| Golden A | DDE (Disability) | 7 must + 2 noise | Low | Baseline |
+| Golden A | DDE (Disability Determination) | 7 must + 2 noise | Low | Baseline |
 | Golden B | Clinical Notes | 10 must + 2 noise | Low | Multi-provider |
 | Golden C | Mixed Format | 5 must + 5 noise | High | Noise discrimination |
 | Golden D | Large Document | 15 must + 5 noise | Medium | Long-context |

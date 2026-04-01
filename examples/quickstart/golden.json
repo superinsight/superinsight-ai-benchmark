@@ -1,0 +1,32 @@
+{
+  "created_at": "2025-06-15T00:00:00Z",
+  "method": "manual",
+  "source_file": "source.txt",
+  "total_must_extract": 2,
+  "total_may_extract": 0,
+  "entries": [
+    {
+      "index": 0,
+      "encounter_date": "2025-03-10",
+      "facility_name": "RIVERSIDE COMMUNITY HOSPITAL",
+      "provider": "Sarah Chen, MD",
+      "entry_type": "Office Visit",
+      "must_extract": true,
+      "key_fields": {
+        "Assessment": "Lumbar radiculopathy, L5-S1 disc herniation",
+        "Plan": "MRI lumbar spine ordered; PT 2x/week x 6 weeks; Naproxen 500mg BID"
+      }
+    },
+    {
+      "index": 1,
+      "encounter_date": "2025-04-02",
+      "facility_name": "MAPLEWOOD FAMILY PRACTICE - IMAGING CENTER",
+      "provider": "David Park, MD",
+      "entry_type": "Radiology Report",
+      "must_extract": true,
+      "key_fields": {
+        "Impression": "L5-S1 disc herniation with left L5 radiculopathy"
+      }
+    }
+  ]
+}

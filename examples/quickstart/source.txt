@@ -1,0 +1,60 @@
+PATIENT: Doe, Jane A.
+CLAIM #: 000-00-0000
+DATE OF REPORT: 06/15/2025
+
+--- Page 1 of 2 ---
+
+SECTION A: ADMINISTRATIVE
+
+Date of Filing: 05/01/2025
+Field Office: Springfield Regional
+
+SECTION B: MEDICAL EVIDENCE
+
+1F - Records from Riverside Community Hospital
+2F - Records from Maplewood Family Practice
+
+---
+
+OFFICE VISIT NOTE
+
+Date of Service: 03/10/2025
+Facility: Riverside Community Hospital
+Provider: Sarah Chen, MD
+
+SUBJECTIVE: Patient presents with persistent lower back pain radiating to the left leg, rated 7/10. Symptoms worsened over the past 3 months. Denies bowel or bladder dysfunction.
+
+OBJECTIVE: Lumbar ROM decreased. Straight leg raise positive on left at 40 degrees. Strength 4/5 left dorsiflexion. Sensation intact bilaterally.
+
+ASSESSMENT: Lumbar radiculopathy, L5-S1 disc herniation.
+PLAN: MRI lumbar spine ordered. Referral to physical therapy 2x/week for 6 weeks. Naproxen 500mg BID.
+
+<!-- Source: file: records.pdf, page: 3 -->
+
+---
+
+INSURANCE AUTHORIZATION REQUEST
+Date: 03/15/2025
+Re: Prior authorization for MRI lumbar spine
+Submitted to: Acme Health Insurance
+Status: Approved 03/18/2025
+Auth #: MRI-2025-4421
+
+---
+
+RADIOLOGY REPORT
+
+Date of Service: 04/02/2025
+Facility: Maplewood Family Practice - Imaging Center
+Ordering Provider: Sarah Chen, MD
+Radiologist: David Park, MD
+
+EXAM: MRI Lumbar Spine without contrast
+
+FINDINGS: L5-S1 left paracentral disc protrusion measuring 6mm, causing moderate left L5 nerve root compression. Mild facet arthropathy at L4-L5. No spinal stenosis.
+
+IMPRESSION: L5-S1 disc herniation with left L5 radiculopathy. Correlates with clinical presentation.
+
+<!-- Source: file: records.pdf, page: 8 -->
+
+--- Page 2 of 2 ---
