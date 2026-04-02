@@ -356,6 +356,18 @@ EMBEDDING_MODEL=all-MiniLM-L6-v2    # For semantic fidelity (default: all-MiniLM
 - Serving conditions documented (see METHODOLOGY.md §4.3.1)
 - Results available in JSON (`golden_benchmark_aggregated.json`) and Markdown (`benchmark_presentation_v2.md`)
 
+## Citation
+
+```bibtex
+@misc{superinsight-medical-chronology-benchmark-2026,
+  title={Medical Chronology LLM Benchmark},
+  author={Superinsight, Inc.},
+  year={2026},
+  url={https://github.com/superinsight/superinsight-ai-benchmark},
+  note={11 frontier LLMs evaluated across 6 golden datasets, 3 rounds, and 6 dimensions}
+}
+```
+
 ## Contributing
 
 We welcome bug reports and feature requests via [GitHub Issues](https://github.com/superinsight/superinsight-ai-benchmark/issues). Pull requests are not accepted at this time — please open an issue first to discuss any proposed changes.
