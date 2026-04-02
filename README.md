@@ -4,8 +4,9 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Tests](https://img.shields.io/badge/tests-104%20passed-brightgreen)
 ![Models](https://img.shields.io/badge/models-11%20evaluated-orange)
+[![Dataset on HF](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow)](https://huggingface.co/datasets/Superinsight/medical-chronology-benchmark)
 
-> **[Methodology](METHODOLOGY.md)** · **[Presentation (Marp)](benchmark_presentation_v2.md)** · **[env.example](env.example)**
+> **[Methodology](METHODOLOGY.md)** · **[Presentation (Marp)](benchmark_presentation_v2.md)** · **[Dataset on Hugging Face](https://huggingface.co/datasets/Superinsight/medical-chronology-benchmark)** · **[env.example](env.example)**
 
 **Can LLMs reliably extract structured medical timelines from unstructured records?**
 
